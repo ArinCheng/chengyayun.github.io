@@ -72,15 +72,14 @@
 ### 学术活动
 - **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
 - **国际/国内学术会议**
-  - 2016 英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
-  - 2017 美国 圣地亚哥 SPIE Optics + Photonics, Polarization Science and Remote Sensing VII
+  - 2016 英国 爱丁堡 SPIE Security + Defence
+  - 2017 美国 圣地亚哥 SPIE Optics + Photonics
   - 2018 中国 成都 全国微波毫米波会议
   - 2018 中国 上海 第四届全国太赫兹科学技术与应用学术交流会
   - 2019 中国 上海 第五届全国太赫兹科学技术学术年会
   - 2019 中国 乌镇 第三届新型成像与探测技术青年学者论坛
-  - 2020 西班牙 巴塞罗那 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)
-  - 2020 新加坡 IEEE International Conference on Plasma Science (ICOPS)
-  - 2020 英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
+  - 2020 西班牙 巴塞罗那 IEEE ICASSP
+  - 2020 新加坡 IEEE ICOPS
 - **期刊审稿**
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   - lEEE Photonics Journal

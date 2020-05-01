@@ -10,7 +10,7 @@
 
 ---
 ### 个人简介
-程亚运，男，1990年生于安徽省安庆市；2008年高中毕业于安徽省怀宁中学；2012年6月毕业于合肥工业大学，获应用物理学专业理学学士学位；2018年12月毕业于华中科技大学，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于清华大学，开展博士后研究工作。
+1990年生于安徽省安庆市；2008年高中毕业于安徽省怀宁中学；2012年6月毕业于合肥工业大学，获应用物理学专业理学学士学位；2018年12月毕业于华中科技大学，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于清华大学，开展博士后研究工作。
 
 ---
 ### 研究方向
@@ -30,7 +30,7 @@
 ---
 ### 学术论文
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, accepted, 2020.
-2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao * , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
+2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang * , “[C-curve feature of complex permit-tivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
 4.	**Yayun Cheng**, Fei Hu * , Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millime-ter-wave imager and outdoor scene imaging analysis for remote sensing applications](),” *Optics Express*, 26(16): 20145-20159, 2018.
 5.	**Yayun Cheng**, Fei Hu, Liangqi Gui *, Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](),” *IEEE Photonics Journal*, 8(1): 5500112, 2016.

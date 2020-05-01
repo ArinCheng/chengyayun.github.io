@@ -6,6 +6,8 @@
 邮箱：chengyayun@tsinghua.edu.cn (科研)    
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;chengyy915@163.com (个人)  
 
+![Yayun Cheng](/PhotoYayunCheng.jpg)
+
 ---
 
 ### 个人简介
@@ -92,7 +94,7 @@
   - Journal on Image and Video Processing
 
 ---
-### 专业书籍文献
+### 书籍文献
 - [Microwave radar and radiometric remote sensing](), F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl, University of Michigan Press Ann Arbor, 2014.
 
 

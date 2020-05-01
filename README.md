@@ -48,7 +48,7 @@
 13.	**Yayun Cheng*** , Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
 
 ---
-### 科研项目 <span id="Grants"> </span>
+### **科研项目** <span id="Grants"> </span>
 - 国家自然科学基金青年项目，61901242，29万，**主持**，2020-2022
 - 中国博士后科学基金面上资助，2019M660640，8万，**主持**，2019-2020
 - 华中科技大学创新研究院技术创新基金，2017JYCXJJ036，5万，**主持**，2017-2018
@@ -58,7 +58,7 @@
 - 航天科技横向项目，25 万，参与，2012-2013
 
 ---
-### 荣誉奖励 <span id="Awards"> </span>
+### **荣誉奖励** <span id="Awards"> </span>
 - 中国电子教育学会“优秀博士学位论文”  2019
 - 教育部“国家奖学金”（博士生）  2016
 - 教育部“国家奖学金”（本科生）  2011
@@ -70,7 +70,7 @@
 - 校级奖学金 5次 2009-2017
 
 ---
-### 学术活动 <span id="Activities"> </span>
+### **学术活动** <span id="Activities"> </span>
 - **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
 - **国际/国内学术会议**
   - 2016 英国 爱丁堡 SPIE Security + Defence
@@ -92,7 +92,7 @@
   - Journal on Image and Video Processing
 
 ---
-### 文献推荐 <span id="Refrences"> </span>
+### **文献推荐** <span id="Refrences"> </span>
 - F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](). *University of Michigan Press Ann Arbor*, 2014.
 - L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](). *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 - N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.

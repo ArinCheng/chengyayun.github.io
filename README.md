@@ -17,9 +17,9 @@
 
 ### 研究方向
 **微波/毫米波/太赫兹成像；极化成像；多源数据解译与处理；特征提取与参数反演**  
-涉及知识：电磁场与电磁波、微波遥感、微波技术、微波/毫米波天线与系统、图像特征分析、AI 算法等  
-应用领域：军事探测、地球遥感、人身安检、深空探测等   
-专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex等  
+- 涉及知识：电磁场与电磁波、微波遥感、微波技术、微波/毫米波天线与系统、图像特征分析、AI 算法等  
+- 应用领域：军事探测、地球遥感、人身安检、深空探测等   
+- 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex等  
 
 <!--### 工作经历
 2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->
@@ -28,19 +28,6 @@
 2014.09 – 2018.12  华中科技大学 博士 电磁场与微波技术  
 2012.09 – 2014.08  华中科技大学 硕士 电磁场与微波技术  
 2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
-
----
-
-### 荣誉奖励
-- 中国电子教育学会“优秀博士学位论文”（优秀奖） 2019
-- 教育部“国家奖学金”（博士生） Top4% 2016
-- 教育部“国家奖学金”（本科生） Top2% 2011
-- 安徽省“品学兼优”优秀毕业生   Top3% 2012
-- 合肥工业大学“优秀毕业生”     Top7% 2012
-- 优秀三好学生 Top2% 2010
-- 全额学业奖学金 7 次 2012-2018
-- 三好学生/研究生 3 次 2009-2011
-- 校级奖学金 5 次 2009-2017
 
 ---
 ## 学术论文
@@ -57,6 +44,19 @@
 11.	**Yayun Cheng***, Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “Passive terahertz mul-ti-polarization imaging experiments for personal screening application,” IEEE International Confer-ence on Plasma Science (ICOPS), Accepted, Marina Bay Sands, Singapore, Dec. 2020. (EI收录)
 12.	**Yayun Cheng***, Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “Passive millimeter-wave polariza-tion characteristics of several common structures,” Proceedings of SPIE, vol. 10407, San Diego, Unit-ed States, Aug. 2017. (EI收录)
 13.	**Yayun Cheng***, Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “Polarization ratio property and material classification method in passive millime-ter-wave polarimetric imaging,” Proceedings of SPIE, vol. 9993, Edinburgh, United Kingdom, Oct. 2016. (EI收录)
+
+---
+
+### 荣誉奖励
+- 中国电子教育学会“优秀博士学位论文”（优秀奖） 2019
+- 教育部“国家奖学金”（博士生） Top4% 2016
+- 教育部“国家奖学金”（本科生） Top2% 2011
+- 安徽省“品学兼优”优秀毕业生   Top3% 2012
+- 合肥工业大学“优秀毕业生”     Top7% 2012
+- 优秀三好学生 Top2% 2010
+- 全额学业奖学金 7 次 2012-2018
+- 三好学生/研究生 3 次 2009-2011
+- 校级奖学金 5 次 2009-2017
 
 ---
 

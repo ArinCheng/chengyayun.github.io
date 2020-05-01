@@ -15,7 +15,7 @@
 ---
 ### 研究方向
 - 具体方向：**微波/毫米波/太赫兹成像；极化成像；多源数据解译与处理；特征提取与参数反演**  
-- 涉及知识：电磁场与电磁波、微波遥感、微波技术、天线理论与技术、数字图像处理、机器学习等
+- 涉及知识：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等
 - 应用领域：军事探测、地球遥感、人身安检、行星与深空探测等
 - 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等
 
@@ -33,7 +33,7 @@
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permit-tivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
 4.	**Yayun Cheng**, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millime-ter-wave imager and outdoor scene imaging analysis for remote sensing applications](),” *Optics Express*, 26(16): 20145-20159, 2018.
-5.	**Yayun Cheng**, Fei Hu, Liangqi Gui *, Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](),” *IEEE Photonics Journal*, 8(1): 5500112, 2016.
+5.	**Yayun Cheng**, Fei Hu, Liangqi Gui* , Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](),” *IEEE Photonics Journal*, 8(1): 5500112, 2016.
 6.	**Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteris-tics of bilayer radar-infrared compound stealth material](),” *Chinese Optics Letters*, 14(6): 062802, 2016.
 7.	**Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polar-isation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](),” *Electronics Letters*, 52(14): 1221-1223, 2016.
 8.	Fei Hu, **Yayun Cheng**, Liangqi Gui* , Liang Wu, Xinyi Zhang, Xiaohui Peng, and Jinlong Su, “[Polarization-based material classification technique using passive millimeter-wave polarimetric imagery](),” *Applied Optics*, 55(31): 8690-8697, 2016.

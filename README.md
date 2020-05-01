@@ -11,11 +11,14 @@ Email：chengyayun@tsinghua.edu.cn
 <!--![Yayun Cheng](/PhotoYayunCheng.jpg) <font color=red><font size=10>&nbsp;<p align="right">[<u>中文版</u>](README-CH.md)</p>
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;&emsp-->
 ---
-[<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &emsp; [<u>中文版</u>](README-CH.md)
+[<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](README-CH.md)
 
 ---
 ### **Biography** <span id="Biography"> </span>
-1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学]()；2012年6月本科毕业于[合肥工业大学]()，获应用物理学专业理学学士学位；2018年12月博士毕业于[华中科技大学]()，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于[清华大学]()，从事博士后研究工作。
+Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology](), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology](), Wuhan, China, in 2018.
+
+He is currently a Postdoctoral Researcher with the Department of Engineering Physics, [Tsinghua University](), Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](), Beijing, China, since 2019. His research interests include millimeter-wave and terahertz imaging, polarization imaging, multi-source image processing, physically-based information retrieval.
+
 
 ---
 ### **Research** <span id="Research"> </span>

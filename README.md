@@ -1,17 +1,18 @@
 ## 程亚运(Yayun Cheng)
-Ph.D., Member of IEEE/SPIE/中国电子学会/中国电子教育学会
+
 
 <table border="0">
   <tr>
     <td width="75%">
       <h1>程亚运(Yayun Cheng)</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>博士，博士后助理研究员 </b></p>
+      <p><b>清华大学</b></p>
+      <p><b>邮箱：chengyayun@tsinghua.edu.cn</b></p>
+      <p><b>      chengyy915@163.com</b></p>
+      <p><b>地址：北京市海淀区清华大学刘卿楼</b></p>
     </td>
     <td width="25%">
-      <img src="/Photo_Yayun Cheng.jpg" width="100%">      % 插入证件照代码
+      <img src="/PhotoYayunCheng.jpg" width="100%"> 
     </td>
   </tr>
 </table>
@@ -33,7 +34,8 @@ Ph.D., Member of IEEE/SPIE/中国电子学会/中国电子教育学会
 
 ### 荣誉奖励
 
-## 
+### 学术活动
+- Member of IEEE/SPIE/中国电子学会/中国电子教育学会
 
 
 

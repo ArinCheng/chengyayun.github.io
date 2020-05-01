@@ -14,11 +14,11 @@ Email：chengyayun@tsinghua.edu.cn
 [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &emsp; [<u>中文版</u>](README-CH.md)
 
 ---
-### **个人简介** <span id="Biography"> </span>
+### **Biography** <span id="Biography"> </span>
 1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学]()；2012年6月本科毕业于[合肥工业大学]()，获应用物理学专业理学学士学位；2018年12月博士毕业于[华中科技大学]()，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于[清华大学]()，从事博士后研究工作。
 
 ---
-### **研究方向** <span id="Research"> </span>
+### **Research** <span id="Research"> </span>
 - 具体方向：**微波/毫米波/太赫兹成像；极化成像；多源数据解译与处理；特征提取与参数反演**  
 - 涉及知识：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等
 - 应用领域：军事探测、地球遥感、人身安检、行星与深空探测等
@@ -33,7 +33,7 @@ Email：chengyayun@tsinghua.edu.cn
 2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
 
 ---
-### **代表论文**&nbsp;[[<u>所有论文</u>]](#FullList) <span id="Publications"> </span>
+### **Selected Publications**&nbsp;[[<u>Full List</u>]](#FullList) <span id="Publications"> </span>
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, Accepted, 2020.
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
@@ -49,7 +49,7 @@ Email：chengyayun@tsinghua.edu.cn
 13.	**Yayun Cheng*** , Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
 
 ---
-### **科研项目** <span id="Grants"> </span>
+### **Grants** <span id="Grants"> </span>
 - 国家自然科学基金青年项目，61901242，29万，**主持**，2020-2022
 - 中国博士后科学基金面上资助，2019M660640，8万，**主持**，2019-2020
 - 华中科技大学创新研究院技术创新基金，2017JYCXJJ036，5万，**主持**，2017-2018
@@ -59,7 +59,7 @@ Email：chengyayun@tsinghua.edu.cn
 - 航天科技横向项目，25 万，参与，2012-2013
 
 ---
-### **荣誉奖励** <span id="Awards"> </span>
+### **Awards** <span id="Awards"> </span>
 - 中国电子教育学会“优秀博士学位论文”  2019
 - 教育部“国家奖学金”（博士生）  2016
 - 教育部“国家奖学金”（本科生）  2011
@@ -71,7 +71,7 @@ Email：chengyayun@tsinghua.edu.cn
 - 校级奖学金 5次 2009-2017
 
 ---
-### **学术活动** <span id="Activities"> </span>
+### **Activities** <span id="Activities"> </span>
 - **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
 - **国际/国内学术会议**
   - 2016 英国 爱丁堡 SPIE Security + Defence
@@ -93,7 +93,7 @@ Email：chengyayun@tsinghua.edu.cn
   - Journal on Image and Video Processing
 
 ---
-### **文献推荐** <span id="Refrences"> </span>
+### **Recommend literatures** <span id="Refrences"> </span>
 - F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](). *University of Michigan Press Ann Arbor*, 2014.
 - L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](). *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 - N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.

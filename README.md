@@ -1,6 +1,6 @@
 
 ## **Yayun Cheng（程亚运）**
-Ph.D，Assistant research fellow （Post-Doc.）   
+Ph.D，Assistant Researcher (Post-Doctor)  
 [Department of Engineering Physics]()  
 [Tsinghua University (THU)]()  
 Haidian District, Beijing 100084, China

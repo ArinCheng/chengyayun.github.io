@@ -10,7 +10,7 @@
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;-->
 
 ---
-[个人简介](#Biography) &emsp; [研究方向](#Research) &emsp; [学术论文](#Publications) &emsp; [科研项目](#Grants) &emsp; [荣誉奖励](#Awards) &emsp; [学术活动](#Activities) &emsp; [文献推荐](#Refrences)
+[<u>个人简介</u>](#Biography) &emsp; [研究方向](#Research) &emsp; [学术论文](#Publications) &emsp; [科研项目](#Grants) &emsp; [荣誉奖励](#Awards) &emsp; [学术活动](#Activities) &emsp; [文献推荐](#Refrences)
 
 ---
 ### 个人简介 <span id="Biography"> </span>

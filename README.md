@@ -21,10 +21,10 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Research** <span id="Research"> </span>
-- Interests：**MW/MMW/THz Imaging; Polarimetric Imaging; Image Interpretation; Multi-Source Data Processing**  
-- Knowledges：Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, Image Processing, Manchine Learning, etc.
-- Applications：Military Detection, Earth Remote Sensing、Personal Securiity Inspection, Planet and Deep Space Exploration, etc.
-- Skills：MATLAB, C/C++, Python, HFSS, FEKO, LaTex, GitHub, etc.
+- **Interests:** **MW/MMW/THz Imaging; Polarimetric Imaging; Image Interpretation; Multi-Source Data Processing**  
+- **Knowledges:** Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, Image Processing, Manchine Learning, etc.
+- **Applications:** Military Detection, Earth Remote Sensing、Personal Securiity Inspection, Planet and Deep Space Exploration, etc.
+- **Skills:** MATLAB, C/C++, Python, HFSS, FEKO, LaTex, GitHub, etc.
 
 <!--### 工作经历
 2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->
@@ -64,13 +64,13 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 ### **Awards** <span id="Awards"> </span>
 - Excellent Doctoral Dissertation, China Education Society of Electronics, 2019
 - National Scholarship, China, 2016
-- 教育部“国家奖学金”（本科生）  2011
-- 安徽省优秀毕业生  2012
-- 合肥工业大学优秀毕业生  2012
-- 优秀三好学生 2010
-- 全额学业奖学金 7次 2012-2018
-- 三好学生/研究生 3次 2009-2011
-- 校级奖学金 5次 2009-2017
+- National Scholarship, China, 2011
+- Outstanding Graduate, Anhui Province, 2012
+- Outstanding Graduate, HFUT, 2012
+- Excellent Merit Student, HFUT, 2010
+- Full Scholarship for Study, 7 times, HUST, 2012-2018
+- School Scholarship, 5 times, HFUT/HUST, 2009-2017
+- Merit Student/Graduate, 3 times, HFUT/HUST, 2009-2016
 
 ---
 ### **Activities** <span id="Activities"> </span>

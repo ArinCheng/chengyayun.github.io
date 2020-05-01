@@ -1,8 +1,20 @@
 ## 程亚运(Yayun Cheng)
 Ph.D., Member of IEEE/SPIE/中国电子学会/中国电子教育学会
 
-![](图片链接)
-![证件照](/zhengjianzhao.jpg)
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>程亚运(Yayun Cheng)</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/Photo_Yayun Cheng.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ### 个人简介
 程亚运，男，1990年9月生，安徽安庆人。现就职于清华大学工程物理系核科学与技术博士后流动站，助理研究员。主要从事被动毫米波/太赫兹遥感与探测研究，研究方向包括毫米波热辐射电磁建模、毫米波热辐射极化特性和基于物理模型的信息提取等。主持国家自然科学基金青年项目1项、校级创新基金1项，重点参与国家973计划、国家自然科学基金、航天创新基金等科研项目7项，以第一作者或通讯作者在Optics Express、Optics Letters、IEEE Photonics Journal、Applied Optics等刊物上发表SCI期刊论文7篇，发表EI国际会议论文2篇，以第二发明人（导师第一）授权发明专利2项。

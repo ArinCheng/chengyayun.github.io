@@ -6,17 +6,15 @@
 邮箱：chengyayun@tsinghua.edu.cn (科研)    
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;chengyy915@163.com (个人)  
 
-![Yayun Cheng](/PhotoYayunCheng.jpg)
+<!--![Yayun Cheng](/PhotoYayunCheng.jpg)-->
 
 ---
-
 ### 个人简介
 程亚运，男，1990年9月生于安徽安庆。2008年高中毕业于安徽省怀宁中学；2012年6月毕业于合肥工业大学，获应用物理学专业理学学士学位；2018年12月毕业于华中科技大学，获电磁场与微波技术专业工学博士学位；2019年1月起，作为博士后研究人员就职于清华大学，从事毫米波/太赫兹安检技术方向研究。
 
 作为项目负责人主持国家自然科学基金青年基金、中国博士后科学基金面上项目、华中科技大学创新基金等项目，曾作为骨干成员参与国家“973计划”、国家自然科学基金等项目7项。以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express、IEEE Photonics Journal等期刊发表或录用SCI论文9篇，国际会议论文4篇，其他合作论文20余篇。申请发明专利4项，已授权2项。
 
 ---
-
 ### 研究方向
 - 具体方向：**微波/毫米波/太赫兹成像；极化成像；多源数据解译与处理；特征提取与参数反演**  
 - 涉及知识：电磁场与电磁波、微波遥感、微波技术、微波/毫米波天线与系统、图像特征分析、AI 算法等  
@@ -74,15 +72,15 @@
 ### 学术活动
 - **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
 - **国际/国内会议**
-  - 2016英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
-  - 2017美国 圣地亚哥 SPIE Optics + Photonics, Polarization Science and Remote Sensing VII
-  - 2018中国 成都 全国微波毫米波会议
-  - 2018中国 上海 第四届全国太赫兹科学技术与应用学术交流会
-  - 2019中国 上海 第五届全国太赫兹科学技术学术年会
-  - 2019中国 乌镇 第三届新型成像与探测技术青年学者论坛
-  - 2020西班牙 巴塞罗那 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)
-  - 2020新加坡 IEEE International Conference on Plasma Science (ICOPS)
-  - 2020英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
+  - 2016 英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
+  - 2017 美国 圣地亚哥 SPIE Optics + Photonics, Polarization Science and Remote Sensing VII
+  - 2018 中国 成都 全国微波毫米波会议
+  - 2018 中国 上海 第四届全国太赫兹科学技术与应用学术交流会
+  - 2019 中国 上海 第五届全国太赫兹科学技术学术年会
+  - 2019 中国 乌镇 第三届新型成像与探测技术青年学者论坛
+  - 2020 西班牙 巴塞罗那 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)
+  - 2020 新加坡 IEEE International Conference on Plasma Science (ICOPS)
+  - 2020 英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
 - **期刊审稿**
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   - lEEE Photonics Journal
@@ -94,9 +92,9 @@
   - Journal on Image and Video Processing
 
 ---
-### 专业文献（书籍推荐）
-- [Microwave radar and radiometric remote sensing](), F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl, University of Michigan Press Ann Arbor, 2014.
-
+### 文献书籍（推荐）
+- [Microwave radar and radiometric remote sensing]() F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. *University of Michigan Press Ann Arbor*, 2014.
+- [Passive millimeter-wave imaging]() L. Yujiri, M. Shoucri, and P. Moffa. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 
 <!--
 ## Welcome to GitHub Pages

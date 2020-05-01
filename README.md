@@ -1,5 +1,5 @@
 
-## **程亚运（Yayun Cheng）**   &nbsp;<p align="right">[<u><font size=10><font color=red>中文版</u>](README-CH.md)</p>
+## **程亚运（Yayun Cheng）**   &nbsp;<p align="right">[<u>中文版</u>](README-CH.md)</p>
 博士，助理研究员（博士后）   
 [工程物理系]()  
 [清华大学]()  
@@ -7,7 +7,7 @@
 地址：北京市海淀区清华大学刘卿楼  
 邮箱：chengyayun@tsinghua.edu.cn  
 
-<!--![Yayun Cheng](/PhotoYayunCheng.jpg)
+<!--![Yayun Cheng](/PhotoYayunCheng.jpg) <font color=red><font size=10>
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;&emsp-->
 ---
 [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#Refrences)  

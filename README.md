@@ -62,8 +62,8 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Awards** <span id="Awards"> </span>
-- 中国电子教育学会“优秀博士学位论文”  2019
-- 教育部“国家奖学金”（博士生）  2016
+- Excellent Doctoral Dissertation, China Education Society of Electronics, 2019
+- National Scholarship, China, 2016
 - 教育部“国家奖学金”（本科生）  2011
 - 安徽省优秀毕业生  2012
 - 合肥工业大学优秀毕业生  2012
@@ -75,16 +75,16 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 ---
 ### **Activities** <span id="Activities"> </span>
 - **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
-- **国际/国内学术会议**
-  - 2016 英国 爱丁堡 SPIE Security + Defence
-  - 2017 美国 圣地亚哥 SPIE Optics + Photonics
-  - 2018 中国 成都 全国微波毫米波会议
-  - 2018 中国 上海 第四届全国太赫兹科学技术与应用学术交流会
-  - 2019 中国 上海 第五届全国太赫兹科学技术学术年会
-  - 2019 中国 乌镇 第三届新型成像与探测技术青年学者论坛
-  - 2020 西班牙 巴塞罗那 IEEE ICASSP
-  - 2020 新加坡 IEEE ICOPS
-- **期刊审稿**
+- **Conferences**
+  - 2016 SPIE Security + Defence, Edinburgh, United Kingdom
+  - 2017 SPIE Optics + Photonics, San Diego, United States
+  - 2018 全国微波毫米波会议, Chengdu, China
+  - 2018 第四届全国太赫兹科学技术与应用学术交流会, Shanghai, China
+  - 2019 第五届全国太赫兹科学技术学术年会, Shanghai, China
+  - 2019 第三届新型成像与探测技术青年学者论坛, Wuzhen, China
+  - 2020 IEEE ICASSP, Barcelona, Spain
+  - 2020 IEEE ICOPS, Singapore
+- **Journal Reviewer**
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   - lEEE Photonics Journal
   - IEEE Antennas and Wireless Propagation Letters
@@ -95,7 +95,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
   - Journal on Image and Video Processing
 
 ---
-### **Recommend literatures** <span id="Refrences"> </span>
+### **Recommended Refrences** <span id="Refrences"> </span>
 - F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](). *University of Michigan Press Ann Arbor*, 2014.
 - L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](). *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 - N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.

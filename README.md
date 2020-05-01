@@ -1,4 +1,4 @@
-## 程亚运 (Yayun Cheng)
+## 程亚运（Yayun Cheng）
 博士后，助理研究员  
 清华大学 工程物理系  
 
@@ -94,7 +94,7 @@
   - Journal on Image and Video Processing
 
 ---
-### 书籍文献
+### 专业文献（书籍推荐）
 - [Microwave radar and radiometric remote sensing](), F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl, University of Michigan Press Ann Arbor, 2014.
 
 

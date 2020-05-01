@@ -38,7 +38,7 @@
 5.	**Yayun Cheng**, Fei Hu, Liangqi Gui*, Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](),” *IEEE Photonics Journal*, 8(1): 5500112, 2016. (SCI，IF=2.729)
 6.	**Yayun Cheng**, Fei Hu, Feng He*, Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteris-tics of bilayer radar-infrared compound stealth material](),” *Chinese Optics Letters*, 14(6): 062802, 2016. (SCI收录，IF=1.907)
 7.	**Yayun Cheng**, Fei Hu*, Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polar-isation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](),” *Electronics Letters*, 52(14): 1221-1223, 2016. (SCI，IF=1.343)
-8.	Fei Hu, **Yayun Cheng**, Liangqi Gui*, Liang Wu, Xinyi Zhang, Xiaohui Peng, and Jinlong Su, “[Polarization-based material classification technique using passive millimeter-wave polarimetric imagery](),” *Applied Optics*, 55(31): 8690-8697, 2016. (导师第一, SCI，IF=1.973)
+8.	Fei Hu, **Yayun Cheng**, Liangqi Gui*, Liang Wu, Xinyi Zhang, Xiaohui Peng, and Jinlong Su, “[Polarization-based material classification technique using passive millimeter-wave polarimetric imagery](),” *Applied Optics*, 55(31): 8690-8697, 2016. (SCI，IF=1.973)
 9.	Xinyi Zhang, Fei Hu, **Yayun Cheng***, Ying Xiao, and Mengting Song, “[Influence of surface roughness on polarization property in passive millimeter-wave imaging](),” *IEICE Electronics Express*, 14(21): 1-9, 2017. (SCI，IF=0.586)
 10.	**Yayun Cheng***, Ziran Zhao, Yingxin Wang, and Yingying Niu, “[Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging](),” *IEEE Interna-tional Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Accepted, Barcelona, Spain, May 2020. (EI，CCF B)
 11.	**Yayun Cheng***, Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “[Passive terahertz mul-ti-polarization imaging experiments for personal screening application](),” *IEEE International Confer-ence on Plasma Science (ICOPS)*, Accepted, Marina Bay Sands, Singapore, Dec. 2020. (EI)
@@ -95,10 +95,9 @@
 
 ---
 ### 文献书籍（推荐）
-- [Microwave radar and radiometric remote sensing]() F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. *University of Michigan Press Ann Arbor*, 2014.
-- [Passive millimeter-wave imaging]() L. Yujiri, M. Shoucri, and P. Moffa. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
-- [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation]() N. A. Salmon. *IEEE Transactions on Antennas and Prop-
-agation*, vol. 66, no. 2, pp. 897–908, 2018.
+- [Microwave radar and radiometric remote sensing](). F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. *University of Michigan Press Ann Arbor*, 2014.
+- [Passive millimeter-wave imaging](). L. Yujiri, M. Shoucri, and P. Moffa. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
+- [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). N. A. Salmon. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
 
 
 <!--

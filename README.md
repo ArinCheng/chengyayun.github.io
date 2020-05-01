@@ -99,7 +99,5 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 <p align="right">Last updated: 2020-05-01</p>
 

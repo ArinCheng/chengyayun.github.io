@@ -31,22 +31,21 @@
 
 ---
 ### 学术论文
-1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao*, “Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging,” IEEE Transactions on Geoscience and Remote Sensing, accepted, 2020. (SCI收录，IF=5.630)
-2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao*, “Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening,” Optics Express, 28(5): 6350-6366, 2020. (SCI收录，IF=3.561)
-3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang*, “C-curve feature of complex permit-tivity estimation based on multi-polarization measurement in passive millimeter-wave sensing,” Op-tics Letters, 44(15): 3765-3768, 2019. ( SCI收录，IF=3.866)
-4.	**Yayun Cheng**, Fei Hu*, Hongfei Wu, Peng Fu, and Yan Hu, “Multi-polarization passive millime-ter-wave imager and outdoor scene imaging analysis for remote sensing applications,” Optics Express, 26(16): 20145-20159, 2018. (SCI收录，IF=3.561)
-5.	**Yayun Cheng**, Fei Hu, Liangqi Gui*, Liang Wu, and Liang Lang, “Polarization-based method for ob-ject surface orientation information in passive millimeter-wave imaging,” IEEE Photonics Journal, 8(1): 5500112, 2016. (SCI收录，IF=2.729)
-6.	**Yayun Cheng**, Fei Hu, Feng He*, Liang Wu, and Xiaoqin He, “Millimeter-wave emission characteris-tics of bilayer radar-infrared compound stealth material,” Chinese Optics Letters, 14(6): 062802, 2016. (SCI收录，IF=1.907)
-7.	**Yayun Cheng**, Fei Hu*, Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “Linear polar-isation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging,” Electronics Letters, 52(14): 1221-1223, 2016. (SCI收录，IF=1.343)
-8.	Fei Hu, **Yayun Cheng**, Liangqi Gui*, Liang Wu, Xinyi Zhang, Xiaohui Peng, and Jinlong Su, “Polarization-based material classification technique using passive millimeter-wave polarimetric imagery,” Applied Optics, 55(31): 8690-8697, 2016. (导师第一) (SCI收录，IF=1.973)
-9.	Xinyi Zhang, Fei Hu, **Yayun Cheng***, Ying Xiao, and Mengting Song, “Influence of surface roughness on polarization property in passive millimeter-wave imaging,” IEICE Electronics Express, 14(21): 1-9, 2017. (通讯作者) (SCI收录，IF=0.586)
-10.	**Yayun Cheng***, Ziran Zhao, Yingxin Wang, and Yingying Niu, “Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging,” IEEE Interna-tional Conference on Acoustics, Speech and Signal Processing (ICASSP), Accepted, Barcelona, Spain, May 2020. (EI收录，CCF B类)
-11.	**Yayun Cheng***, Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “Passive terahertz mul-ti-polarization imaging experiments for personal screening application,” IEEE International Confer-ence on Plasma Science (ICOPS), Accepted, Marina Bay Sands, Singapore, Dec. 2020. (EI收录)
-12.	**Yayun Cheng***, Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “Passive millimeter-wave polariza-tion characteristics of several common structures,” Proceedings of SPIE, vol. 10407, San Diego, Unit-ed States, Aug. 2017. (EI收录)
-13.	**Yayun Cheng***, Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “Polarization ratio property and material classification method in passive millime-ter-wave polarimetric imaging,” Proceedings of SPIE, vol. 9993, Edinburgh, United Kingdom, Oct. 2016. (EI收录)
+1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao*, “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging],” IEEE Transactions on Geoscience and Remote Sensing, accepted, 2020. (SCI收录，IF=5.630)
+2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao*, “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” Optics Express, 28(5): 6350-6366, 2020. (SCI收录，IF=3.561)
+3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang*, “[C-curve feature of complex permit-tivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” Op-tics Letters, 44(15): 3765-3768, 2019. ( SCI收录，IF=3.866)
+4.	**Yayun Cheng**, Fei Hu*, Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millime-ter-wave imager and outdoor scene imaging analysis for remote sensing applications](),” Optics Express, 26(16): 20145-20159, 2018. (SCI收录，IF=3.561)
+5.	**Yayun Cheng**, Fei Hu, Liangqi Gui*, Liang Wu, and Liang Lang, “[Polarization-based method for ob-ject surface orientation information in passive millimeter-wave imaging](),” IEEE Photonics Journal, 8(1): 5500112, 2016. (SCI收录，IF=2.729)
+6.	**Yayun Cheng**, Fei Hu, Feng He*, Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteris-tics of bilayer radar-infrared compound stealth material,” Chinese Optics Letters](), 14(6): 062802, 2016. (SCI收录，IF=1.907)
+7.	**Yayun Cheng**, Fei Hu*, Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polar-isation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](),” Electronics Letters, 52(14): 1221-1223, 2016. (SCI收录，IF=1.343)
+8.	Fei Hu, **Yayun Cheng**, Liangqi Gui*, Liang Wu, Xinyi Zhang, Xiaohui Peng, and Jinlong Su, “[Polarization-based material classification technique using passive millimeter-wave polarimetric imagery](),” Applied Optics, 55(31): 8690-8697, 2016. (导师第一) (SCI收录，IF=1.973)
+9.	Xinyi Zhang, Fei Hu, **Yayun Cheng***, Ying Xiao, and Mengting Song, “[Influence of surface roughness on polarization property in passive millimeter-wave imaging](),” IEICE Electronics Express, 14(21): 1-9, 2017. (通讯作者) (SCI收录，IF=0.586)
+10.	**Yayun Cheng***, Ziran Zhao, Yingxin Wang, and Yingying Niu, “[Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging](),” IEEE Interna-tional Conference on Acoustics, Speech and Signal Processing (ICASSP), Accepted, Barcelona, Spain, May 2020. (EI收录，CCF B类)
+11.	**Yayun Cheng***, Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “[Passive terahertz mul-ti-polarization imaging experiments for personal screening application](),” IEEE International Confer-ence on Plasma Science (ICOPS), Accepted, Marina Bay Sands, Singapore, Dec. 2020. (EI收录)
+12.	**Yayun Cheng***, Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[Passive millimeter-wave polariza-tion characteristics of several common structures](),” Proceedings of SPIE, vol. 10407, San Diego, Unit-ed States, Aug. 2017. (EI收录)
+13.	**Yayun Cheng***, Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millime-ter-wave polarimetric imaging](),” Proceedings of SPIE, vol. 9993, Edinburgh, United Kingdom, Oct. 2016. (EI收录)
 
 ---
-
 ### 荣誉奖励
 - 中国电子教育学会“优秀博士学位论文”（优秀奖） 2019
 - 教育部“国家奖学金”（博士生） Top4% 2016
@@ -59,7 +58,6 @@
 - 校级奖学金 5 次 2009-2017
 
 ---
-
 ### 科研项目
 - 国家自然科学基金青年项目，61901242，29万，**主持**，2020-2022
 - 中国博士后科学基金面上项目，2019M660640，8万，**主持**，2019-2020
@@ -70,10 +68,10 @@
 - 航天科技横向项目，25 万，参与，2012-2013
 - 大学生创新实验项目，1 万，参与，2010-2011
 
-
+---
 ### 学术活动
-- Member of IEEE/SPIE/中国电子学会/中国电子教育学会  
-- 国际/国内会议  
+- **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
+- **国际/国内会议**
   - 2016英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
   - 2017美国 圣地亚哥 SPIE Optics + Photonics, Polarization Science and Remote Sensing VII
   - 2018中国 成都 全国微波毫米波会议
@@ -83,7 +81,7 @@
   - 2020西班牙 巴塞罗那 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)
   - 2020新加坡 IEEE International Conference on Plasma Science (ICOPS)
   - 2020英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
-- 期刊审稿
+- **期刊审稿**
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   - lEEE Photonics Journal
   - IEEE Antennas and Wireless Propagation Letters
@@ -92,11 +90,10 @@
   - Optics Express
   - Journal of Infrared, Millimeter and Terahertz Wave
   - Journal on Image and Video Processing
-  
+
 ---
-
-### 学术活动
-
+### 专业书籍文献
+- [Microwave radar and radiometric remote sensing](), F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl, University of Michigan Press Ann Arbor, 2014.
 
 
 <!--

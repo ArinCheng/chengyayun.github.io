@@ -1,12 +1,10 @@
 ## 程亚运(Yayun Cheng)
-博士后，助理研究员
+博士后，助理研究员  
+清华大学 工程物理系  
 
-清华大学 工程物理系
-
-地址：北京市海淀区清华大学刘卿楼
-
-邮箱：chengyayun@tsinghua.edu.cn (科研)
-      chengyy915@163.com (个人)
+地址：北京市海淀区清华大学刘卿楼  
+邮箱：chengyayun@tsinghua.edu.cn (科研)    
+&emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;chengyy915@163.com (个人)
 
 
 

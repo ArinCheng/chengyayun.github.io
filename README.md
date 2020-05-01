@@ -21,10 +21,10 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Research** <span id="Research"> </span>
-- Interests：**MW/MMW/THz imaging；Polarimetric imaging；Interpretation and processing of multi-source data**  
-- Knowledges：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等
-- Applications：军事探测、地球遥感、人身安检、行星与深空探测等
-- Skills：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等
+- Interests：**MW/MMW/THz Imaging; Polarimetric Imaging; Image Interpretation; Multi-Source Data Processing**  
+- Knowledges：Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, Image Processing, Manchine Learning, etc.
+- Applications：Military Detection, Earth Remote Sensing、Personal Securiity Inspection, Planet and Deep Space Exploration, etc.
+- Skills：MATLAB, C/C++, Python, HFSS, FEKO, LaTex, GitHub, etc.
 
 <!--### 工作经历
 2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->

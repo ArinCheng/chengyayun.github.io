@@ -71,7 +71,7 @@
 ---
 ### 学术活动
 - **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
-- **国际/国内会议**
+- **国际/国内学术会议**
   - 2016 英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
   - 2017 美国 圣地亚哥 SPIE Optics + Photonics, Polarization Science and Remote Sensing VII
   - 2018 中国 成都 全国微波毫米波会议

@@ -8,10 +8,12 @@ Haidian District, Beijing 100084, China
 Office：Room 710, Liuqing Building, THU  
 Email：chengyayun@tsinghua.edu.cn  
 
+![Yayun Cheng](/PhotoYayunCheng.jpg)
+
 <!--![Yayun Cheng](/PhotoYayunCheng.jpg) <font color=red><font size=10>&nbsp;<p align="right">[<u>中文版</u>](ChineseVersion.md)</p>
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;&emsp-->
 ---
-[<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](README-CH.md)
+[<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md)
 
 ---
 ### **Biography** <span id="Biography"> </span>

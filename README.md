@@ -59,14 +59,16 @@
 
 ---
 ### 科研项目
-- 国家自然科学基金青年项目，61901242，29万，**主持**，2020-2022
-- 中国博士后科学基金面上项目，2019M660640，8万，**主持**，2019-2020
-- 华中科技大学创新研究院技术创新基金，2017JYCXJJ036，5万，**主持**，2017-2018
-- 国家 973 计划项目，613267，2200万，参与，2014-2017
-- 国家自然科学基金重点项目，61731007，290万，参与，2019-2020
-- 航天科工横向项目，30 万，参与，2015-2016
-- 航天科技横向项目，25 万，参与，2012-2013
-- 大学生创新实验项目，1 万，参与，2010-2011
+- **主持**
+  - 国家自然科学基金青年项目，61901242，29万，主持，2020-2022
+  - 中国博士后科学基金面上项目，2019M660640，8万，主持，2019-2020
+  - 华中科技大学创新研究院技术创新基金，2017JYCXJJ036，5万，主持，2017-2018
+- **参与**
+  - 国家 973 计划项目，613267，2200万，参与，2014-2017
+  - 国家自然科学基金重点项目，61731007，290万，参与，2019-2020
+  - 航天科工横向项目，30 万，参与，2015-2016
+  - 航天科技横向项目，25 万，参与，2012-2013
+  - 大学生创新实验项目，1 万，参与，2010-2011
 
 ---
 ### 学术活动
@@ -95,6 +97,9 @@
 ### 文献书籍（推荐）
 - [Microwave radar and radiometric remote sensing]() F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. *University of Michigan Press Ann Arbor*, 2014.
 - [Passive millimeter-wave imaging]() L. Yujiri, M. Shoucri, and P. Moffa. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
+- [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation]() N. A. Salmon. *IEEE Transactions on Antennas and Prop-
+agation*, vol. 66, no. 2, pp. 897–908, 2018.
+
 
 <!--
 ## Welcome to GitHub Pages

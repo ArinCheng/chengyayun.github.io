@@ -30,7 +30,7 @@
 2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
 
 ---
-## 学术论文
+### 学术论文
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao*, “Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging,” IEEE Transactions on Geoscience and Remote Sensing, accepted, 2020. (SCI收录，IF=5.630)
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao*, “Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening,” Optics Express, 28(5): 6350-6366, 2020. (SCI收录，IF=3.561)
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang*, “C-curve feature of complex permit-tivity estimation based on multi-polarization measurement in passive millimeter-wave sensing,” Op-tics Letters, 44(15): 3765-3768, 2019. ( SCI收录，IF=3.866)
@@ -72,44 +72,53 @@
 
 
 ### 学术活动
-- Member of IEEE/SPIE/中国电子学会/中国电子教育学会
+- Member of IEEE/SPIE/中国电子学会/中国电子教育学会  
+- 国际/国内会议  
+  - 2016英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
+  - 2017美国 圣地亚哥 SPIE Optics + Photonics, Polarization Science and Remote Sensing VII
+  - 2018中国 成都 全国微波毫米波会议
+  - 2018中国 上海 第四届全国太赫兹科学技术与应用学术交流会
+  - 2019中国 上海 第五届全国太赫兹科学技术学术年会
+  - 2019中国 乌镇 第三届新型成像与探测技术青年学者论坛
+  - 2020西班牙 巴塞罗那 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)
+  - 2020新加坡 IEEE International Conference on Plasma Science (ICOPS)
+  - 2020英国 爱丁堡 SPIE Security + Defence, Millimeter Wave and Terahertz Sensors & Technology
+- 期刊审稿
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  - lEEE Photonics Journal
+  - IEEE Antennas and Wireless Propagation Letters
+  - IEEE Geoscience and Remote Sensing Letters
+  - IEEE Access
+  - Optics Express
+  - Journal of Infrared, Millimeter and Terahertz Wave
+  - Journal on Image and Video Processing
+  
+---
+
+### 学术活动
 
 
 
+<!--
 ## Welcome to GitHub Pages
-
 You can use the [editor on GitHub](https://github.com/ArinCheng/YayunCheng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
-
 - Bulleted
 - List
-
 1. Numbered
 2. List
-
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
-
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArinCheng/YayunCheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
-
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

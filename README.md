@@ -3,10 +3,10 @@
 清华大学 工程物理系  
 
 地址：北京市海淀区清华大学刘卿楼  
-邮箱：chengyayun@tsinghua.edu.cn (科研)    
-&emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;chengyy915@163.com (个人)  
+邮箱：chengyayun@tsinghua.edu.cn (科研); chengyy915@163.com (个人)  
 
-<!--![Yayun Cheng](/PhotoYayunCheng.jpg)-->
+<!--![Yayun Cheng](/PhotoYayunCheng.jpg)
+&emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;-->
 
 ---
 ### 个人简介
@@ -61,7 +61,7 @@
 ### 科研项目
 - **主持**
   - 国家自然科学基金青年项目，61901242，29万，主持，2020-2022
-  - 中国博士后科学基金面上项目，2019M660640，8万，主持，2019-2020
+  - 中国博士后科学基金面上资助，2019M660640，8万，主持，2019-2020
   - 华中科技大学创新研究院技术创新基金，2017JYCXJJ036，5万，主持，2017-2018
 - **参与**
   - 国家 973 计划项目，613267，2200万，参与，2014-2017
@@ -98,28 +98,3 @@
 - [Microwave radar and radiometric remote sensing](). F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. *University of Michigan Press Ann Arbor*, 2014.
 - [Passive millimeter-wave imaging](). L. Yujiri, M. Shoucri, and P. Moffa. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 - [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). N. A. Salmon. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
-
-
-<!--
-## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/ArinCheng/YayunCheng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-```markdown
-Syntax highlighted code block
-# Header 1
-## Header 2
-### Header 3
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-### Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArinCheng/YayunCheng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

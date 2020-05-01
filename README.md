@@ -5,7 +5,7 @@ Ph.D，Assistant research fellow （Post-Doc.）
 [Tsinghua University (THU)]()  
 Haidian District, Beijing 100084, China
 
-Office：Room 710, Liuqing Building
+Office：Room 710, Liuqing Building, THU  
 Email：chengyayun@tsinghua.edu.cn  
 
 <!--![Yayun Cheng](/PhotoYayunCheng.jpg) <font color=red><font size=10>&nbsp;<p align="right">[<u>中文版</u>](README-CH.md)</p>
@@ -15,17 +15,16 @@ Email：chengyayun@tsinghua.edu.cn
 
 ---
 ### **Biography** <span id="Biography"> </span>
-Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology](), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology](), Wuhan, China, in 2018.
+Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology (HFUT)](), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology (HUST)](), Wuhan, China, in 2018.
 
 He is currently a Postdoctoral Researcher with the Department of Engineering Physics, [Tsinghua University](), Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](), Beijing, China, since 2019. His research interests include millimeter-wave and terahertz imaging, polarization imaging, multi-source image processing, physically-based information retrieval.
 
-
 ---
 ### **Research** <span id="Research"> </span>
-- 具体方向：**微波/毫米波/太赫兹成像；极化成像；多源数据解译与处理；特征提取与参数反演**  
-- 涉及知识：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等
-- 应用领域：军事探测、地球遥感、人身安检、行星与深空探测等
-- 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等
+- Interests：**MW/MMW/THz imaging；Polarimetric imaging；Interpretation and processing of multi-source data**  
+- Knowledges：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等
+- Applications：军事探测、地球遥感、人身安检、行星与深空探测等
+- Skills：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等
 
 <!--### 工作经历
 2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->

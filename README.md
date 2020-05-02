@@ -10,11 +10,12 @@
       <p><b>Email：chengyayun@tsinghua.edu.cn</b></p>
     </td>
     <td width="20%">
-      <img src="/PhotoYayunCheng..jpg" width="100%">
+      ![Yayun Cheng](/PhotoYayunCheng.jpg)
     </td>
   </tr>
 </table>
 
+<!--<img src="/PhotoYayunCheng..jpg" width="100%">-->
 
 ## **Yayun Cheng（程亚运）**
 Ph.D，Assistant Researcher (Post-Doctor)  
@@ -25,7 +26,7 @@ Haidian District, Beijing 100084, China
 Office：Room 710, Liuqing Building, THU  
 Email：chengyayun@tsinghua.edu.cn  
 
-![Yayun Cheng](/PhotoYayunCheng.jpg)
+
 
 <!--![Yayun Cheng](/PhotoYayunCheng.jpg) <font color=red><font size=10>&nbsp;<p align="right">[<u>中文版</u>](ChineseVersion.md)</p>
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;&emsp-->

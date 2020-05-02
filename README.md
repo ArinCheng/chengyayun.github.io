@@ -1,5 +1,5 @@
 ## **Yayun Cheng（程亚运）**
-<img style="position:absolute;margin-left:700px" src="/PhotoYayunCheng.jpg" width="150" alt="证件照">
+<img style="position:absolute;margin-right:0px" src="/PhotoYayunCheng.jpg" width="150" alt="证件照">
 Ph.D，Assistant Researcher (Post-Doctor)  
 [Department of Engineering Physics]()  
 [Tsinghua University (THU)]()  

@@ -19,7 +19,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Research** <span id="Research"> </span>
-- **Interests:** **MW/MMW/THz Imaging; Polarimetric Imaging; Image Interpretation; Multi-Source Data Processing**  
+- **Interests:** **Microwave/Millimeter-wave/Terahertz Imaging; Polarimetric Imaging; Image Interpretation; Multi-Source Data Processing**  
 - **Knowledges:** Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, Image Processing, Manchine Learning, etc.
 - **Applications:** Military Detection, Earth Remote Sensing、Personal Securiity Inspection, Planet and Deep Space Exploration, etc.
 - **Skills:** MATLAB, C/C++, Python, HFSS, FEKO, LaTex, GitHub, etc.

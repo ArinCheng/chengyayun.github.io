@@ -4,7 +4,8 @@
     <img style="position:absolute;margin-left:200px" src="/PhotoYayunCheng.jpg" width="118" height="165" alt="证件照">
   </div>
 <pre>
- <font style="margin-left:200px" size="12" color="Green">Yayun Cheng (程亚运)</font>
+ <font style="margin-left:200px" size="12" color="Green">Yayun Cheng (程亚运)</font>  
+ <font style="margin-left:200px" size="10" color="black">Ph.D，Assistant Research Fellow (Post-Doctor)</font>
 </pre>
 <pre>
  <font style="margin-left:200px" size="10" color="black">XXXXXX</font>
@@ -38,7 +39,7 @@
   <tr>
     <td width="75%">
 ## **Yayun Cheng (程亚运)**  
-Ph.D，Assistant Researcher (Post-Doctor)
+Ph.D，Assistant Research Fellow (Post-Doctor)
 <br />
       [Department of Engineering Physics]()
       [Tsinghua University (THU)]()

@@ -47,7 +47,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
 
 ---
-### **Selected Publications**&nbsp;[[<u>Full List</u>]](#FullList) <span id="Publications"> </span>
+### **Selected Publications** [[<u>Full List</u>]](Publications.md) <span id="Publications"> </span>
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, Accepted, 2020.
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
@@ -75,8 +75,8 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 ---
 ### **Honors / Awards** <span id="Awards"> </span>
 - **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
-- **National Scholarship**, China, 2016
-- **National Scholarship**, China, 2011
+- **National Scholarship**, Ministry of Education of China, 2016
+- **National Scholarship**, Ministry of Education of China, 2011
 - **Outstanding Graduate**, Anhui Province, 2012
 - **Outstanding Graduate**, HFUT, 2012
 - Excellent Merit Student, HFUT, 2010
@@ -95,9 +95,9 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
   - 2016 SPIE Security + Defence, Edinburgh, United Kingdom
   - 2017 SPIE Optics + Photonics, San Diego, United States
   - 2018 National Conference on Microwave and Millimeter Wave, Chengdu, China
-  - 2018 The 4th National Academic Exchange on Terahertz Science, Technology & Applications, Shanghai, China
-  - 2019 The 5th National Annual Conference on Terahertz Science & Technology, Shanghai, China
-  - 2019 The 5th Young Scholars Forum on New Imaging and Detection Technologies, Wuzhen, China
+  - 2018 National Academic Exchange on Terahertz Science, Technology & Applications, Shanghai, China
+  - 2019 National Annual Conference on Terahertz Science & Technology, Shanghai, China
+  - 2019 Young Scholars Forum on New Imaging and Detection Technologies, Wuzhen, China
   - 2020 IEEE ICASSP, Barcelona, Spain
   - 2020 IEEE ICOPS, Singapore
 - **Journal Reviewer**

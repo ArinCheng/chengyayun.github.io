@@ -29,8 +29,6 @@
     </tr>
 </table>
 
-
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -52,8 +50,12 @@ Ph.D，Assistant Research Fellow (Post-Doctor)
 <div>
     <span>Department of Engineering Physics</span>  <br />
     <span>Tsinghua University (THU)</span>
-    <img src="PhotoYayunCheng.jpg">
+    <div>
+     <img src="PhotoYayunCheng.jpg">
+    </div>
 </div>
+
+<img style="position:absolute;margin-left:600px" src="/PhotoYayunCheng.jpg" width="180" alt="证件照">
 
 
 ## **Yayun Cheng（程亚运）**

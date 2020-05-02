@@ -1,3 +1,7 @@
+---
+layout: false
+---
+
 ## **Yayun Cheng（程亚运）**
 <img style="position:absolute;margin-left:650px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
 
@@ -24,10 +28,10 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
    - Microwave/Millimeter-wave/Terahertz Imaging
    - Polarimetric Imaging; Polarization Property
    - Image Interpretation and Processing
-   - Multi-Source Data Fusion
+   - Multi-Source Data Fusion; Physically-Based Parameter Retrieval
 - **Knowledges:**
-   - Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, etc.
-   - Image Processing, Manchine Learning, etc.
+   - Electromagnetic Fields and Waves, Microwave Technology, Annenna Technology, etc.
+   - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
 - **Applications:**
    - Military Detection
    - Earth Remote Sensing
@@ -63,7 +67,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 13.	**Yayun Cheng*** , Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
 
 ---
-### **Grants** <span id="Grants"> </span>
+### **Reaserch Grants** <span id="Grants"> </span>
 - National Natural Science Foundation of China (Young Program), 61901242, ¥290000, **Principle Investigator**, 2020-2022
 - China Postdoctoral Science Foundation (General Program), 2019M660640, ¥80000, **Principle Investigator**, 2019-2020
 - Innovation Fund of HUST Innovation Institute, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
@@ -73,7 +77,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 - Aerospace Science Technology Program of China, ¥250000, Participator，2012-2013
 
 ---
-### **Awards** <span id="Awards"> </span>
+### **Honors / Awards** <span id="Awards"> </span>
 - **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
 - **National Scholarship**, China, 2016
 - **National Scholarship**, China, 2011
@@ -85,7 +89,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 - Merit Student/Graduate, 3 times, HFUT/HUST, 2009-2016
 
 ---
-### **Activities** <span id="Activities"> </span>
+### **Professional Activities** <span id="Activities"> </span>
 - **Society Member**
   - IEEE / SPIE
   - IEEE Geoscience and Remote Sensing Society / IEEE Signal Processing Society

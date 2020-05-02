@@ -14,9 +14,9 @@ Email: chengyayun@tsinghua.edu.cn
 
 ---
 ### **Biography** <span id="Biography"> </span>
-Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/){:target="_blank"}, Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology (HUST)](www.hust.edu.cn){:target="_blank"}, Wuhan, China, in 2018.
+Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology](http://www.hfut.edu.cn/){:target="_blank"}(HFUT), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology](www.hust.edu.cn){:target="_blank"}(HUST), Wuhan, China, in 2018.
 
-He is currently a Postdoctoral Researcher with the Department of Engineering Physics, [Tsinghua University](www.tsinghua.edu.cn){:target="_blank"}, Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](), Beijing, China, since 2019. His research interests include millimeter-wave and terahertz imaging, polarization imaging, multi-source image processing, physically-based information retrieval.
+He is currently a Postdoctoral Researcher with the Department of Engineering Physics, [Tsinghua University](www.tsinghua.edu.cn){:target="_blank"}, Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](), Beijing, China, since 2019.
 
 ---
 ### **Research** <span id="Research"> </span>
@@ -29,9 +29,9 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
    - Electromagnetic Fields and Waves, Microwave Technology, Annenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
 - **Applications:**
+   - Personal Securiity Inspection
    - Military Detection
    - Earth Remote Sensing
-   - Personal Securiity Inspection
    - Planet and Deep Space Exploration
 - **Skills:**
    - MATLAB, C/C++, Python, etc.
@@ -47,7 +47,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
 
 ---
-### **Selected Publications** [[<u>Full List</u>]](Publications.md) <span id="Publications"> </span>
+### **Selected Publications** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, Accepted, 2020.
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
@@ -108,9 +108,9 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Recommended Refrences** <span id="Refrences"> </span>
-- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](). *University of Michigan Press Ann Arbor*, 2014.
-- L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](). *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
-- N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
+- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](){:target="_blank"}. *University of Michigan Press Ann Arbor*, 2014.
+- L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](){:target="_blank"}. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
+- N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
 <br />
 <br />
 <br />

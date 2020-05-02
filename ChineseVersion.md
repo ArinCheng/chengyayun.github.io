@@ -2,8 +2,8 @@
 <img style="position:absolute;margin-left:650px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
 
 博士，助理研究员（博士后）   
-[工程物理系]()  
-[清华大学]()  
+[工程物理系](http://www.ep.tsinghua.edu.cn/){:target="_blank"}  
+[清华大学](www.tsinghua.edu.cn){:target="_blank"}  
 中国北京市海淀区100084
 
 地址：清华大学刘卿楼  
@@ -14,7 +14,9 @@
 
 ---
 ### **个人简介** <span id="Biography"> </span>
-1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学]()；2012年6月本科毕业于[合肥工业大学]()(HFUT)，获应用物理学专业理学学士学位；2018年12月博士毕业于[华中科技大学]()(HUST)，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于[清华大学]()(THU)，从事博士后研究工作。
+1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学]()；2012年6月本科毕业于[合肥工业大学](http://www.hfut.edu.cn/){:target="_blank"}(HFUT)，获应用物理学专业理学学士学位；2018年12月博士毕业于[华中科技大学](www.hust.edu.cn){:target="_blank"}(HUST)，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于[清华大学](www.tsinghua.edu.cn){:target="_blank"}(THU)，从事博士后研究工作。
+
+已发表学术论文30余篇，其中，以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express等权威期刊上发表SCI论文9篇，国际会议论文4篇。已申请发明专利4项，已授权2项。
 
 ---
 ### **研究方向** <span id="Research"> </span>
@@ -31,7 +33,7 @@
 2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
 
 ---
-### **代表论文** [[<u>所有论文</u>]](Publications.md) <span id="Publications"> </span>
+### **代表论文** [[<u>所有论文</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, Accepted, 2020.
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
@@ -95,9 +97,9 @@
 
 ---
 ### **文献推荐** <span id="Refrences"> </span>
-- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](). *University of Michigan Press Ann Arbor*, 2014.
-- L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](). *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
-- N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
+- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](){:target="_blank"}. *University of Michigan Press Ann Arbor*, 2014.
+- L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](){:target="_blank"}. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
+- N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
 <br />
 <br />
 <br />

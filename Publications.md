@@ -18,3 +18,10 @@
 2.	**Yayun Cheng*** , Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “[Passive terahertz multi-polarization imaging experiments for personal screening application](),” *IEEE International Conference on Plasma Science (ICOPS)*, Accepted, Marina Bay Sands, Singapore, Dec. 2020.
 3.	**Yayun Cheng*** , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[Passive millimeter-wave polarization characteristics of several common structures](),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
 4.	**Yayun Cheng*** , Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
+
+---
+### **Patents**
+1.	Ziran Zhao (Supervisor), Yayun Cheng, et al., Invention patent in China, Application Number: [201911113273.6](), Application Date: 14 November 2019.
+2.	Ziran Zhao (Supervisor), Yayun Cheng, et al., Invention patent in China, Patent Number: [201911112651.9](), Application Date: 14 November 2019.
+3.	Fei Hu (Supervisor), Yayun Cheng, et al., Invention patent in China, Patent Number: [ZL201610534007.0](), Authorization Date: 24 July 2018. (Authorized)
+4.	Fei Hu (Supervisor), Yayun Cheng, et al. Invention patent in China, Patent Number: [ZL201510426471.3](), Authorization Date: 7 July 2017. (Authorized)

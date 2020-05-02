@@ -4,16 +4,16 @@
     <img style="position:absolute;margin-left:200px" src="/PhotoYayunCheng.jpg" width="118" height="165" alt="证件照">
   </div>
 <pre>
- <font style="margin-left:200px" size="15" color="Green">Yayun Cheng (程亚运)</font>
+ <font style="margin-left:200px" size="12" color="Green">Yayun Cheng (程亚运)</font>
 </pre>
 <pre>
- <font style="margin-left:200px" size="4" color="black">XXXXXX</font>
+ <font style="margin-left:200px" size="10" color="black">XXXXXX</font>
 </pre>
 <pre>
- <font style="margin-left:200px" size="5" color="gray">北京XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</font><font style="margin-left:140px" size="4" color="black">TEL:XXXXXXXXXXX</font>
+ <font style="margin-left:200px" size="10" color="gray">北京</font><font style="margin-left:200px" size="4" color="black">TEL</font>
 </pre>
 <pre>
- <font style="margin-left:200px" size="4">XXXXXXXXXXXXXXXXXXXXXXXXXX</font>
+ <font style="margin-left:200px" size="10">ddv</font>
 </pre>
 </body>
 </html>

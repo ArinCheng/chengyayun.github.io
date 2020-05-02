@@ -1,25 +1,22 @@
 <html>
  <body>
   <div>
-    <img style="position:absolute;margin-left:960px" src="/PhotoYayunCheng.jpg" width="118" height="165" alt="证件照">
+    <img style="position:absolute;margin-left:200px" src="/PhotoYayunCheng.jpg" width="118" height="165" alt="证件照">
   </div>
 <pre>
- <font style="margin-left:350px" size="15" color="black">Yayun Cheng (程亚运)</font>
+ <font style="margin-left:200px" size="15" color="Green">Yayun Cheng (程亚运)</font>
 </pre>
 <pre>
-<font style="margin-left:900px" size="4" color="black">XXXXXX</font>
+ <font style="margin-left:200px" size="4" color="black">XXXXXX</font>
 </pre>
 <pre>
-<font style="margin-left:330px" size="5" color="gray">北京XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</font><font style="margin-left:140px" size="4" color="black">TEL:XXXXXXXXXXX</font>
+ <font style="margin-left:200px" size="5" color="gray">北京XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</font><font style="margin-left:140px" size="4" color="black">TEL:XXXXXXXXXXX</font>
 </pre>
 <pre>
-<font style="margin-left:743px" size="4">XXXXXXXXXXXXXXXXXXXXXXXXXX</font>
+ <font style="margin-left:200px" size="4">XXXXXXXXXXXXXXXXXXXXXXXXXX</font>
 </pre>
 </body>
 </html>
-
-
-
 
 
 <table style=text-align:center>
@@ -34,7 +31,6 @@
         <td>表格文字</td>
     </tr>
 </table>
-
 
 
 
@@ -70,10 +66,9 @@ Ph.D，Assistant Researcher (Post-Doctor)
 Haidian District, Beijing 100084, China
 
 Office：Room 710, Liuqing Building, THU  
-Email：chengyayun@tsinghua.edu.cn  ![Photo]
+Email：chengyayun@tsinghua.edu.cn  
 
-<p align="right">![Photo]</p>
-
+![Photo]
 [Photo]:/PhotoYayunCheng.jpg
 
 <!--![Yayun Cheng](/PhotoYayunCheng.jpg) <font color=red><font size=10>&nbsp;<p align="right">[<u>中文版</u>](ChineseVersion.md)</p>

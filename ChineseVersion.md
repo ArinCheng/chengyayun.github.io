@@ -6,11 +6,9 @@
 [清华大学]()  
 中国北京市海淀区100084
 
-地址：北京市海淀区清华大学刘卿楼  
+地址：清华大学刘卿楼  
 邮箱：chengyayun@tsinghua.edu.cn  
 
-<!--![Yayun Cheng](/PhotoYayunCheng.jpg)
-&emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;&emsp-->
 ---
 [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#Refrences) &nbsp; [<u>English Version</u>](README.md)
 
@@ -49,8 +47,8 @@
 - 国家奖学金（博士生），教育部，2016
 - 国家奖学金（本科生），教育部，2011
 - 优秀毕业生，安徽省，2012
-- 优秀毕业生，合肥工业大学，2012
-- 优秀三好学生，合肥工业大学，2010
+- 优秀毕业生，HFUT，2012
+- 优秀三好学生，HFUT，2010
 - 全额学业奖学金，7次，HFUT/HUST，2012-2018
 - 校级奖学金，5次，HFUT/HUST，2009-2017
 - 三好学生/研究生，3次，HFUT/HUST，2009-2016

@@ -1,0 +1,396 @@
+<!DOCTYPE html><html><head>
+      <title>README</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///c:\Users\ArinCheng\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.5.3\node_modules\@shd101wyy\mume\dependencies\katex\katex.min.css">
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+
+      <style>
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview  ">
+      <h2 class="mume-header" id="yayun-cheng%E7%A8%8B%E4%BA%9A%E8%BF%90"><strong>Yayun Cheng&#xFF08;&#x7A0B;&#x4E9A;&#x8FD0;&#xFF09;</strong></h2>
+
+<img style="position:absolute;margin-left:650px" src="PhotoYayunCheng.jpg" width="140" alt="Photo">
+<p>Ph.D&#xFF0C;Postdoctoral Research Fellow<br>
+<a href="http://www.ep.tsinghua.edu.cn/">Department of Engineering Physics</a>{:target=&quot;_blank&quot;}<br>
+<a href="www.tsinghua.edu.cn">Tsinghua University (THU)</a>{:target=&quot;_blank&quot;}<br>
+Haidian District, Beijing 100084, China</p>
+<p>Office: Room 710, Liuqing Building, THU<br>
+Email: <a href="mailto:chengyayun@tsinghua.edu.cn">chengyayun@tsinghua.edu.cn</a></p>
+<hr>
+<p><a href="#Biography"><u>Biography</u></a> &#xA0; <a href="#Research"><u>Research</u></a> &#xA0; <a href="#Publications"><u>Publications</u></a> &#xA0; <a href="#Grants"><u>Grants</u></a> &#xA0; <a href="#Awards"><u>Awards</u></a> &#xA0; <a href="#Activities"><u>Activities</u></a> &#xA0; <a href="#Refrences"><u>Refrences</u></a> &#xA0; <a href="ChineseVersion.md"><u>&#x4E2D;&#x6587;&#x7248;</u></a>{:target=&quot;_blank&quot;}</p>
+<hr>
+<h3 class="mume-header" id="biography-span-idbiography-span"><strong>Biography</strong> <span id="Biography"> </span></h3>
+
+<p>Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from <a href="http://www.hfut.edu.cn/">Hefei University of Technology (HFUT)</a>{:target=&quot;_blank&quot;}, Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from <a href="www.hust.edu.cn">Huazhong University of Science and Technology (HUST)</a>{:target=&quot;_blank&quot;}, Wuhan, China, in 2018.</p>
+<p>He is currently a Postdoctoral Researcher with the Department of Engineering Physics, <a href="www.tsinghua.edu.cn">Tsinghua University</a>{:target=&quot;_blank&quot;}, Beijing, China and also with the <a href>National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies</a>, Beijing, China, since 2019. His research interests include millimeter-wave and terahertz imaging, polarization imaging, multi-source image processing, physically-based information retrieval.</p>
+<hr>
+<h3 class="mume-header" id="research-span-idresearch-span"><strong>Research</strong> <span id="Research"> </span></h3>
+
+<ul>
+<li><strong>Interests:</strong> <strong>Microwave/Millimeter-wave/Terahertz Imaging; Polarimetric Imaging; Image Interpretation; Multi-Source Data Processing</strong></li>
+<li><strong>Knowledges:</strong> Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, Image Processing, Manchine Learning, etc.</li>
+<li><strong>Applications:</strong> Military Detection, Earth Remote Sensing&#x3001;Personal Securiity Inspection, Planet and Deep Space Exploration, etc.</li>
+<li><strong>Skills:</strong> MATLAB, C/C++, Python, HFSS, FEKO, LaTex, GitHub, etc.</li>
+</ul>
+<hr>
+<h3 class="mume-header" id="selected-publicationsnbspufull-listufulllist-span-idpublications-span"><strong>Selected Publications</strong>&#xA0;<a href="#FullList">[<u>Full List</u>]</a> <span id="Publications"> </span></h3>
+
+<ol>
+<li><strong>Yayun Cheng</strong>, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , &#x201C;<a href>Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging</a>,&#x201D; <em>IEEE Transactions on Geoscience and Remote Sensing</em>, Accepted, 2020.</li>
+<li><strong>Yayun Cheng</strong>, Yingxin Wang, Yingying Niu, and Ziran Zhao* , &#x201C;<a href>Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening</a>,&#x201D; <em>Optics Express</em>, 28(5): 6350-6366, 2020.</li>
+<li><strong>Yayun Cheng</strong>, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , &#x201C;<a href>C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing</a>,&#x201D; <em>Optics Letters</em>, 44(15): 3765-3768, 2019.</li>
+<li><strong>Yayun Cheng</strong>, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, &#x201C;<a href>Multi-polarization passive millimeter-wave imager and outdoor scene imaging analysis for remote sensing applications</a>,&#x201D; <em>Optics Express</em>, 26(16): 20145-20159, 2018.</li>
+<li><strong>Yayun Cheng</strong>, Fei Hu, Liangqi Gui* , Liang Wu, and Liang Lang, &#x201C;<a href>Polarization-based method for object surface orientation information in passive millimeter-wave imaging</a>,&#x201D; <em>IEEE Photonics Journal</em>, 8(1): 5500112, 2016.</li>
+<li><strong>Yayun Cheng</strong>, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, &#x201C;<a href>Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material</a>,&#x201D; <em>Chinese Optics Letters</em>, 14(6): 062802, 2016.</li>
+<li><strong>Yayun Cheng</strong>, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, &#x201C;<a href>Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging</a>,&#x201D; <em>Electronics Letters</em>, 52(14): 1221-1223, 2016.</li>
+<li>Fei Hu, <strong>Yayun Cheng</strong>, Liangqi Gui* , Liang Wu, Xinyi Zhang, Xiaohui Peng, and Jinlong Su, &#x201C;<a href>Polarization-based material classification technique using passive millimeter-wave polarimetric imagery</a>,&#x201D; <em>Applied Optics</em>, 55(31): 8690-8697, 2016.</li>
+<li>Xinyi Zhang, Fei Hu, <strong>Yayun Cheng</strong>* , Ying Xiao, and Mengting Song, &#x201C;<a href>Influence of surface roughness on polarization property in passive millimeter-wave imaging</a>,&#x201D; <em>IEICE Electronics Express</em>, 14(21): 1-9, 2017.</li>
+<li><strong>Yayun Cheng</strong>* , Ziran Zhao, Yingxin Wang, and Yingying Niu, &#x201C;<a href>Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging</a>,&#x201D; <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, Accepted, Barcelona, Spain, May 2020.</li>
+<li><strong>Yayun Cheng</strong>* , Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, &#x201C;<a href>Passive terahertz multi-polarization imaging experiments for personal screening application</a>,&#x201D; <em>IEEE International Conference on Plasma Science (ICOPS)</em>, Accepted, Marina Bay Sands, Singapore, Dec. 2020.</li>
+<li><strong>Yayun Cheng</strong>* , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, &#x201C;<a href>Passive millimeter-wave polarization characteristics of several common structures</a>,&#x201D; <em>Proceedings of SPIE</em>, vol. 10407, San Diego, United States, Aug. 2017.</li>
+<li><strong>Yayun Cheng</strong>* , Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, &#x201C;<a href>Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging</a>,&#x201D; <em>Proceedings of SPIE</em>, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.</li>
+</ol>
+<hr>
+<h3 class="mume-header" id="grants-span-idgrants-span"><strong>Grants</strong> <span id="Grants"> </span></h3>
+
+<ul>
+<li>National Natural Science Foundation of China (Young Program), 61901242, &#xA5;290000, <strong>Principle Investigator</strong>, 2020-2022</li>
+<li>China Postdoctoral Science Foundation (General Program), 2019M660640, &#xA5;80000, <strong>Principle Investigator</strong>, 2019-2020</li>
+<li>Innovation Fund of HUST Innovation Institute, 2017JYCXJJ036, &#xA5;50000, <strong>Principle Investigator</strong>&#xFF0C;2017-2018</li>
+<li>National Natural Science Foundation of China (Key Program)&#xFF0C;61731007, &#xA5;2900000, Participator&#xFF0C;2019-2020</li>
+<li>Major Foundation Research Development Program (973 Program), &#xA5;22000000, Participator&#xFF0C;2014-2017</li>
+<li>Aerospace Science Industry Program of China, &#xA5;300000, Participator&#xFF0C;2015-2016</li>
+<li>Aerospace Science Technology Program of China, &#xA5;250000, Participator&#xFF0C;2012-2013</li>
+</ul>
+<hr>
+<h3 class="mume-header" id="awards-span-idawards-span"><strong>Awards</strong> <span id="Awards"> </span></h3>
+
+<ul>
+<li>Excellent Doctoral Dissertation, China Education Society of Electronics, 2019</li>
+<li>National Scholarship, China, 2016</li>
+<li>National Scholarship, China, 2011</li>
+<li>Outstanding Graduate, Anhui Province, 2012</li>
+<li>Outstanding Graduate, HFUT, 2012</li>
+<li>Excellent Merit Student, HFUT, 2010</li>
+<li>Full Scholarship for Study, 7 times, HUST, 2012-2018</li>
+<li>School Scholarship, 5 times, HFUT/HUST, 2009-2017</li>
+<li>Merit Student/Graduate, 3 times, HFUT/HUST, 2009-2016</li>
+</ul>
+<hr>
+<h3 class="mume-header" id="activities-span-idactivities-span"><strong>Activities</strong> <span id="Activities"> </span></h3>
+
+<ul>
+<li><strong>Society Member</strong>
+<ul>
+<li>IEEE / SPIE</li>
+<li>IEEE Geoscience and Remote Sensing Society / IEEE Signal Processing Society</li>
+<li>Chinese Institute of Electronics</li>
+<li>China Education Society of Electronics</li>
+</ul>
+</li>
+<li><strong>Conferences</strong>
+<ul>
+<li>2016 SPIE Security + Defence, Edinburgh, United Kingdom</li>
+<li>2017 SPIE Optics + Photonics, San Diego, United States</li>
+<li>2018 National Conference on Microwave and Millimeter Wave, Chengdu, China</li>
+<li>2018 The 4th National Academic Exchange on Terahertz Science, Technology &amp; Applications, Shanghai, China</li>
+<li>2019 The 5th National Annual Conference on Terahertz Science &amp; Technology, Shanghai, China</li>
+<li>2019 The 5th Young Scholars Forum on New Imaging and Detection Technologies, Wuzhen, China</li>
+<li>2020 IEEE ICASSP, Barcelona, Spain</li>
+<li>2020 IEEE ICOPS, Singapore</li>
+</ul>
+</li>
+<li><strong>Journal Reviewer</strong>
+<ul>
+<li>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</li>
+<li>lEEE Photonics Journal</li>
+<li>IEEE Antennas and Wireless Propagation Letters</li>
+<li>IEEE Geoscience and Remote Sensing Letters</li>
+<li>IEEE Access</li>
+<li>Optics Express</li>
+<li>Journal of Infrared, Millimeter and Terahertz Wave</li>
+<li>Journal on Image and Video Processing</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="mume-header" id="recommended-refrences-span-idrefrences-span"><strong>Recommended Refrences</strong> <span id="Refrences"> </span></h3>
+
+<ul>
+<li>F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. <a href>Microwave radar and radiometric remote sensing</a>. <em>University of Michigan Press Ann Arbor</em>, 2014.</li>
+<li>L. Yujiri, M. Shoucri, and P. Moffa. <a href>Passive millimeter-wave imaging</a>. <em>IEEE Microwave Magazine</em>, vol. 4, no. 3, pp. 39&#x2013;50, 2003.</li>
+<li>N. A. Salmon. <a href>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</a>. <em>IEEE Transactions on Antennas and Propagation</em>, vol. 66, no. 2, pp. 897&#x2013;908, 2018.<br>
+<br><br>
+<br><br>
+<br></li>
+</ul>
+<p align="right">Last updated: 2020-05-02</p>
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>

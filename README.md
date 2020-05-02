@@ -7,8 +7,7 @@ Ph.D，Postdoctoral Research Fellow
 Haidian District, Beijing 100084, China
 
 Office: Room 710, Liuqing Building, THU  
-Email: chengyayun@tsinghua.edu.cn  
-&emsp;&emsp;&nbsp;&nbsp; chengyy915@163.com
+Email: chengyayun@tsinghua.edu.cn
 
 ---
 [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
@@ -21,10 +20,23 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Research** <span id="Research"> </span>
-- **Interests:** **Microwave/Millimeter-wave/Terahertz Imaging; Polarimetric Imaging; Image Interpretation; Multi-Source Data Processing**  
-- **Knowledges:** Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, Image Processing, Manchine Learning, etc.
-- **Applications:** Military Detection, Earth Remote Sensing、Personal Securiity Inspection, Planet and Deep Space Exploration, etc.
-- **Skills:** MATLAB, C/C++, Python, HFSS, FEKO, LaTex, GitHub, etc.
+- **Research Interests:** 
+   - Microwave/Millimeter-wave/Terahertz Imaging
+   - Polarimetric Imaging; Polarization Property
+   - Image Interpretation and Processing
+   - Multi-Source Data Fusion
+- **Knowledges:**
+   - Electromagnetic Fields and Waves, Microwave Remote Sensing, Microwave Technology, Annenna Technology, etc.
+   - Image Processing, Manchine Learning, etc.
+- **Applications:**
+   - Military Detection
+   - Earth Remote Sensing
+   - Personal Securiity Inspection
+   - Planet and Deep Space Exploration
+- **Skills:**
+   - MATLAB, C/C++, Python, etc.
+   - HFSS, FEKO, etc.
+   - LaTex, GitHub, etc.
 
 <!--### 工作经历
 2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->
@@ -62,11 +74,11 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Awards** <span id="Awards"> </span>
-- Excellent Doctoral Dissertation, China Education Society of Electronics, 2019
-- National Scholarship, China, 2016
-- National Scholarship, China, 2011
-- Outstanding Graduate, Anhui Province, 2012
-- Outstanding Graduate, HFUT, 2012
+- **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
+- **National Scholarship**, China, 2016
+- **National Scholarship**, China, 2011
+- **Outstanding Graduate**, Anhui Province, 2012
+- **Outstanding Graduate**, HFUT, 2012
 - Excellent Merit Student, HFUT, 2010
 - Full Scholarship for Study, 7 times, HUST, 2012-2018
 - School Scholarship, 5 times, HFUT/HUST, 2009-2017

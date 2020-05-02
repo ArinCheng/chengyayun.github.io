@@ -1,10 +1,10 @@
 <html>
  <body>
   <div>
-    <img style="position:absolute;margin-left:200px" src="/PhotoYayunCheng.jpg" alt="证件照">
+    <img style="position:absolute;margin-left:400px" src="/PhotoYayunCheng.jpg" alt="证件照">
   </div>
 <pre>
- <font style="margin-left:200px" size="6" color="Green">Yayun Cheng (程亚运)</font>  
+ <font style="margin-left:10px" size="6" color="Green">Yayun Cheng (程亚运)</font>  
  <font style="margin-left:200px" size="2" color="black">Ph.D，Assistant Research Fellow (Post-Doctor)</font>  
  <font style="margin-left:200px" size="2" color="black">[Department of Engineering Physics]()</font>  
  <font style="margin-left:200px" size="2" color="black">[Tsinghua University (THU)]()</font>  

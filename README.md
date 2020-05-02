@@ -1,6 +1,6 @@
 ## **Yayun Cheng（程亚运）**
 <img style="position:absolute;margin-left:650px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
-Ph.D，Assistant Researcher (Post-Doctor)  
+Ph.D，Postdoctoral Research Fellow 
 [Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/)  
 [Tsinghua University (THU)](www.tsinghua.edu.cn)  
 Haidian District, Beijing 100084, China
@@ -9,9 +9,11 @@ Office：Room 710, Liuqing Building, THU
 Email：chengyayun@tsinghua.edu.cn  
 
 ---
-[<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md) &nbsp; <a href=“www.chengyayun.cn/ChineseVersion.html” target="_blank" >中文版 </a>
+[<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md) &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
 
+<a href=“ChineseVersion.md” target="_blank">中文版</a>
 
+<a href="xxx" target="_blank">xxx</a>
 
 ---
 ### **Biography** <span id="Biography"> </span>

@@ -50,13 +50,13 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Grants** <span id="Grants"> </span>
-- 国家自然科学基金青年项目，61901242，29万，**主持**，2020-2022
-- 中国博士后科学基金面上资助，2019M660640，8万，**主持**，2019-2020
-- 华中科技大学创新研究院技术创新基金，2017JYCXJJ036，5万，**主持**，2017-2018
-- 国家自然科学基金重点项目，61731007，290万，参与，2019-2020
-- 国家973计划项目，2200万，参与，2014-2017
-- 航天科工横向项目，30 万，参与，2015-2016
-- 航天科技横向项目，25 万，参与，2012-2013
+- National Natural Science Foundation of China (Young Program), 61901242, ¥290000, **Principle Investigator**, 2020-2022
+- China Postdoctoral Science Foundation (General Program), 2019M660640, ¥80000, **Principle Investigator**, 2019-2020
+- Innovation Fund of HUST Innovation Institute, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
+- National Natural Science Foundation of China (Key Program)，61731007, ¥2900000, Participator，2019-2020
+- Major Foundation Research Development Program (973 Program), ¥22000000, Participator，2014-2017
+- Aerospace Science Industry Program of China, ¥300000, Participator，2015-2016
+- Aerospace Science Technology Program of China, ¥250000, Participator，2012-2013
 
 ---
 ### **Awards** <span id="Awards"> </span>
@@ -72,14 +72,14 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Activities** <span id="Activities"> </span>
-- **Member of IEEE/SPIE/中国电子学会/中国电子教育学会** 
+- **Member of IEEE/SPIE/Chinese Institute of Electronics/China Education Society of Electronics** 
 - **Conferences**
   - 2016 SPIE Security + Defence, Edinburgh, United Kingdom
   - 2017 SPIE Optics + Photonics, San Diego, United States
-  - 2018 全国微波毫米波会议, Chengdu, China
-  - 2018 第四届全国太赫兹科学技术与应用学术交流会, Shanghai, China
-  - 2019 第五届全国太赫兹科学技术学术年会, Shanghai, China
-  - 2019 第三届新型成像与探测技术青年学者论坛, Wuzhen, China
+  - 2018 National Conference on Microwave and Millimeter Wave, Chengdu, China
+  - 2018 The 4th National Academic Exchange on Terahertz Science, Technology & Applications, Shanghai, China
+  - 2019 The 5th National Annual Conference on Terahertz Science & Technology, Shanghai, China
+  - 2019 The 5th Young Scholars Forum on New Imaging and Detection Technologies, Wuzhen, China
   - 2020 IEEE ICASSP, Barcelona, Spain
   - 2020 IEEE ICOPS, Singapore
 - **Journal Reviewer**
@@ -97,7 +97,7 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 - F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](). *University of Michigan Press Ann Arbor*, 2014.
 - L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](). *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 - N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](). *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
-  
+
 <br />
 <br />
 <br />

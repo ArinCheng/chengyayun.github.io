@@ -1,27 +1,21 @@
 ## **Yayun Cheng（程亚运）**
 <img style="position:absolute;margin-right:0px" src="/PhotoYayunCheng.jpg" width="150" alt="证件照">
 Ph.D，Assistant Researcher (Post-Doctor)  
-[Department of Engineering Physics]()  
-[Tsinghua University (THU)]()  
+[Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/)  
+[Tsinghua University (THU)](www.tsinghua.edu.cn)  
 Haidian District, Beijing 100084, China
 
 Office：Room 710, Liuqing Building, THU  
 Email：chengyayun@tsinghua.edu.cn  
 
-<!--
-![Photo]
-[Photo]:/PhotoYayunCheng.jpg-->
-
-<!--![Yayun Cheng](/PhotoYayunCheng.jpg) <font color=red><font size=10>&nbsp;<p align="right">[<u>中文版</u>](ChineseVersion.md)</p>
-&emsp;&emsp;&nbsp;&nbsp;&nbsp;&thinsp;&emsp-->
 ---
 [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md)
 
 ---
 ### **Biography** <span id="Biography"> </span>
-Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology (HFUT)](), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology (HUST)](), Wuhan, China, in 2018.
+Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology (HFUT)](http://www.hfut.edu.cn/), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology (HUST)](www.hust.edu.cn), Wuhan, China, in 2018.
 
-He is currently a Postdoctoral Researcher with the Department of Engineering Physics, [Tsinghua University](), Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](), Beijing, China, since 2019. His research interests include millimeter-wave and terahertz imaging, polarization imaging, multi-source image processing, physically-based information retrieval.
+He is currently a Postdoctoral Researcher with the Department of Engineering Physics, [Tsinghua University](www.tsinghua.edu.cn), Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](), Beijing, China, since 2019. His research interests include millimeter-wave and terahertz imaging, polarization imaging, multi-source image processing, physically-based information retrieval.
 
 ---
 ### **Research** <span id="Research"> </span>

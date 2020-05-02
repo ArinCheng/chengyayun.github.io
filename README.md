@@ -72,11 +72,11 @@ He is currently a Postdoctoral Researcher with the Department of Engineering Phy
 
 ---
 ### **Activities** <span id="Activities"> </span>
-- **Society Member
+- **Society Member**
   - IEEE / SPIE
   - IEEE Geoscience and Remote Sensing Society / IEEE Signal Processing Society
   - Chinese Institute of Electronics
-  - China Education Society of Electronics** 
+  - China Education Society of Electronics 
 - **Conferences**
   - 2016 SPIE Security + Defence, Edinburgh, United Kingdom
   - 2017 SPIE Optics + Photonics, San Diego, United States

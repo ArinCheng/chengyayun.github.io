@@ -1,7 +1,3 @@
----
-layout: false
----
-
 ## **Yayun Cheng（程亚运）**
 <img style="position:absolute;margin-left:650px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
 

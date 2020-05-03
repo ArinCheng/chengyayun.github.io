@@ -75,13 +75,45 @@
   </body>
 </html>
 
-document.body.scrollTop=0;
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <div href="#" id="BackToTop" title="Back to Top" style="display: block;">
+      <img src="/top.png" alt="Back to Top">
+    </div>
+    <script>
+      var d = document.getElementById("BackToTop");
+      var threshold = 360
+      function toggle(){
+        if (document.body.scrollTop > threshold)
+          d.style.display = 'block'
+        else
+          d.style.display = 'none'
+      }
+      window.addEventListener('scroll', toggle);   
+      d.addEventListener("click",function (e) {
+          e.preventDefault();
+          window.scrollTo(0, 0)
+      })
+    </script>
     <style>
+      #BackToTop {
+        position: fixed;
+        bottom: 36px;
+        right: 107px;
+        font-size: 127px;
+        z-index: 7;
+        cursor: pointer;
+        background: #e9ebec;
+        display:none;
+    }    
+    </style>
+    
+    
+    
+    <!-- <style>
         .cs_top{
             position: fixed;
             right: 120px;
@@ -135,7 +167,7 @@ document.body.scrollTop=0;
         <p>fdffa</p>
     </div> -->
     <div class="cs_top">
-        <a href="#content">Top</a>
+        <a href="#content">![top](/top.png)/a>
     </div>
     <div class="js_top hide">
         <a href="javascript:void(0);" onclick="GoTop();">返回顶部</a>
@@ -158,4 +190,4 @@ document.body.scrollTop=0;
         document.body.scrollTop=0;
     }
 
-</script>
+</script> -->

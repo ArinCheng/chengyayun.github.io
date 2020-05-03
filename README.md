@@ -3,17 +3,17 @@
 
 ---
 ## **Yayun Cheng（程亚运）**
-<img style="position:absolute;margin-left:850px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
+<img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
 
 Ph.D，Postdoctoral Research Fellow  
 [Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  
 Haidian District, Beijing 100084, P. R. China  
 
 Office: Room 710, Liuqing Building, THU  
-Email: <u>chengyayun@tsinghua.edu.cn</u> (for work); <u>chengyy915@163.com</u> (for research)
+Email: <u>chengyayun@tsinghua.edu.cn</u> (for work); <u>chengyy915@163.com</u> (for research)  
 Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}; [<u>www.researchgate.net/profile/Yayun_Cheng</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
-<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1041px" height="15" alt="Photo">  
+<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1040px" height="15" alt="Photo">  
 
 ---
 ---

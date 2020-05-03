@@ -9,7 +9,8 @@ Script MT Bold
 
 ---
 ## **Yayun Cheng（程亚运）**
-<img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
+<img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/>
+<!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
 Ph.D.，Postdoctoral Fellow  
 [Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  

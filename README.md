@@ -23,13 +23,13 @@ Website: [www.chengyayun.cn](http://www.chengyayun.cn){:target="_blank"}
 
 ---
 ---
-### **Biography** <span id="Biography"> </span> [[^]](#Top)
+### **Biography** <span id="Biography"> </span>
 Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology](http://www.hfut.edu.cn/){:target="_blank"} (HFUT), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST), Wuhan, China, in 2018.
 
 He is currently a Postdoctoral Fellow with the Department of Engineering Physics, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"}, Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](), Beijing, China, since 2019.
 
 ---
-### **Research** <span id="Research"> </span> [[^]](#Top)
+### **Research** <span id="Research"> </span>
 - **Research Interests:** 
    - Microwave/Millimeter-wave/Terahertz Imaging
    - Polarimetric Imaging; Polarization Property
@@ -49,7 +49,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
    - LaTex, GitHub, etc.
 
 ---
-### **Selected Publications** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span> [[^]](#Top)
+### **Selected Publications** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, Accepted, 2020.
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
@@ -59,7 +59,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 7.	**Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](),” *Electronics Letters*, 52(14): 1221-1223, 2016.
 
 ---
-### **Reaserch Grants** <span id="Grants"> </span> [[^]](#Top)
+### **Reaserch Grants** <span id="Grants"> </span>
 - National Natural Science Foundation of China (Young Program), 61901242, ¥290000, **Principle Investigator**, 2020-2022
 - China Postdoctoral Science Foundation (General Program), 2019M660640, ¥80000, **Principle Investigator**, 2019-2020
 - Innovation Fund of HUST Innovation Institute, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
@@ -69,7 +69,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 - Aerospace Science Technology Program of China, ¥250000, Participator，2012-2013
 
 ---
-### **Honors / Awards** <span id="Awards"> </span> [[^]](#Top)
+### **Honors / Awards** <span id="Awards"> </span>
 - **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
 - **National Scholarship**, Ministry of Education of China, 2016
 - **National Scholarship**, Ministry of Education of China, 2011
@@ -81,7 +81,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 - Merit Student/Graduate, 3 times, HFUT/HUST, 2009-2016
 
 ---
-### **Professional Activities** <span id="Activities"> </span> [[^]](#Top)
+### **Professional Activities** <span id="Activities"> </span>
 - **Society Member**
   - IEEE / SPIE
   - IEEE Geoscience and Remote Sensing Society
@@ -109,7 +109,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
   - Journal on Image and Video Processing
 
 ---
-### **Recommended Refrences** <span id="Refrences"> </span> [[^]](#Top)
+### **Recommended Refrences** <span id="Refrences"> </span>
 - F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](){:target="_blank"}. *University of Michigan Press Ann Arbor*, 2014.
 - L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](){:target="_blank"}. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 - N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.

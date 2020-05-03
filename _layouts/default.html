@@ -74,3 +74,86 @@
     </main>
   </body>
 </html>
+
+document.body.scrollTop=0;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .cs_top{
+            position: fixed;
+            right: 10px;
+            bottom: 10px;
+            height: 60px;
+            width: 60px;
+            background-color: darkgray;
+            opacity: 0.5;
+        }
+        .js_top{
+            position: fixed;
+            right: 10px;
+            bottom: 120px;
+            height: 60px;
+            width: 60px;
+            background-color: rebeccapurple;
+            opacity: 0.5;
+        }
+        .hide{
+            display: none;
+        }
+        #content{
+            height:960px;
+            width: 100%;
+        }
+        #content:before{
+            content: 'top';
+            display: block;
+        }
+        body:after{
+            content: 'end';
+            display: block;
+        }
+    </style>
+    <script>
+
+    </script>
+</head>
+<body onscroll="Func();">
+    <div id="content">
+        <p>fdffa</p>
+        <p>fdffa</p>
+        <p>fdffa</p>
+        <p>fdffa</p>
+        <p>fdffa</p>
+        <p>fdffa</p>
+        <p>fdffa</p>
+        <p>fdffa</p>
+        <p>fdffa</p>
+    </div>
+    <div class="cs_top">
+        <a href="#content">返回顶部</a>
+    </div>
+    <div class="js_top hide">
+        <a href="javascript:void(0);" onclick="GoTop();">返回顶部</a>
+    </div>
+</body>
+</html>
+<script src="../02js拾遗/jquery.js"></script>
+<script>
+    function Func(){
+        var scrollTop=document.body.scrollTop;
+        var ele=document.getElementsByClassName('js_top')[0];
+        if (scrollTop>50){
+            ele.classList.remove('hide');
+        }else{
+            ele.classList.add('hide');
+        }
+    }
+
+    function GoTop(){
+        document.body.scrollTop=0;
+    }
+
+</script>

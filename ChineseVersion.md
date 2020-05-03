@@ -103,6 +103,13 @@
 - F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](){:target="_blank"}. *University of Michigan Press Ann Arbor*, 2014.
 - L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](){:target="_blank"}. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
 - N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
+
+---
+### **链接推荐**
+- [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}
+- [Book-Download](http://libgen.li/){:target="_blank"}
+- [LetPub](https://www.letpub.com.cn/){:target="_blank"}
+
 <br />
 <br />
 <br />

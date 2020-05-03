@@ -1,6 +1,6 @@
 [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
 
-<a href="#top" class="btn" title="回到顶端"></a>
+<div href="#" id="BackToTop" title="Back to Top" style="display: block;"><img src="img/top.png" alt="Back to Top"></div>
 
 ---
 ---

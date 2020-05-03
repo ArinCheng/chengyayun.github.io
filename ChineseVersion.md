@@ -109,6 +109,7 @@
 - [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}
 - [Book-Download](http://libgen.li/){:target="_blank"}
 - [LetPub](https://www.letpub.com.cn/){:target="_blank"}
+- [YOLO: Object Detection](https://pjreddie.com/darknet/yolo/){:target="_blank"}
 
 <br />
 <br />

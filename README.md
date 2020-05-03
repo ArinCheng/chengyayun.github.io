@@ -1,12 +1,6 @@
-<div 
-style="width:700px; height:30px; border:1px solid red; position:fixed; left:50px; top:10px;">[<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
-</div>
-
-<br />
-<br />
-<br />
---
 [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
+
+<a href="#top" class="btn" title="回到顶端"></a>
 
 ---
 ---

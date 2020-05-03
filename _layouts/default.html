@@ -78,10 +78,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <body>
     <meta charset="UTF-8">
     <title>Title</title>
-    <div href="#" id="BackToTop" title="Back to Top" style="display: block;">
+    <!-- <div href="#" id="BackToTop" title="Back to Top" style="display: block;">
       <img src="/top.png" alt="Back to Top">
     </div>
     <script>
@@ -107,14 +106,14 @@
         font-size: 127px;
         z-index: 7;
         cursor: pointer;
-        background: #e9ebec;
+        background: #ffffff;
         display:none;
     }    
     </style>
   </body>
-</head>   
+</head>    -->
     
-    <!-- <style>
+    <style>
         .cs_top{
             position: fixed;
             right: 120px;
@@ -156,7 +155,7 @@
     </script>
 </head>
 <body onscroll="Func();">
-     <div id="content">
+    <!-- <div id="content">
         <p>fdffa</p>
         <p>fdffa</p>
         <p>fdffa</p>
@@ -169,7 +168,11 @@
     </div> -->
     <!-- <div class="cs_top">
         <a href="#content">![top](/top.png)/a>
+    </div> -->
+    <div class="cs_top" href="#" id="BackToTop" title="Back to Top" style="display: block;">
+      <img src="/top.png" alt="Back to Top">
     </div>
+
     <div class="js_top hide">
         <a href="javascript:void(0);" onclick="GoTop();">返回顶部</a>
     </div>
@@ -190,5 +193,4 @@
     function GoTop(){
         document.body.scrollTop=0;
     }
-
-</script> --> -->
+</script>

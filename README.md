@@ -118,11 +118,11 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 - N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
 
 ---
-### **Recommended ALinks**
+### **Recommended Links**
 - [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}
 - [Book-Download](http://libgen.li/){:target="_blank"}
 - [LetPub](https://www.letpub.com.cn/){:target="_blank"}
-- [YOLO: Object Detection](https://pjreddie.com/darknet/yolo/){:target="_blank"}
+- [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/){:target="_blank"}
 
 <br />
 <br />

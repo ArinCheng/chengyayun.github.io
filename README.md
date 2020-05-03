@@ -1,4 +1,4 @@
-YAYUN'S HOMEPAGE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>Researchgate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
+YAYUN'S HOMEPAGE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>Researchgate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
 <span id="Top"> </span>
 
 <!-- <img style="position:absolute;margin-center:900px" src="/THU.jpg" width="40" alt="Photo"> -->
@@ -45,14 +45,6 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
    - MATLAB, C/C++, Python, etc.
    - HFSS, FEKO, etc.
    - LaTex, GitHub, etc.
-
-<!--### 工作经历
-2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->
-
-<!-- ### 教育背景
-2014.09 – 2018.12  华中科技大学 博士 电磁场与微波技术  
-2012.09 – 2014.08  华中科技大学 硕士 电磁场与微波技术  
-2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
 
 ---
 ### **Selected Publications** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span> [[^]](#Top)

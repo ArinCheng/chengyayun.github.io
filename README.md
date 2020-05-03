@@ -7,7 +7,7 @@
 
 Ph.D，Postdoctoral Research Fellow  
 [Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/){:target="_blank"}  
-[Tsinghua University](www.tsinghua.edu.cn){:target="_blank"} (THU)  
+[Tsinghua University](http://www.ep.tsinghua.edu.cn/){:target="_blank"} (THU)  
 Haidian District, Beijing 100084, China
 
 Office: Room 710, Liuqing Building, THU  

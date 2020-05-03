@@ -2,7 +2,7 @@
 
 ---
 ## **Yayun Cheng（程亚运）**
-<img style="position:absolute;margin-left:800px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
+<img style="position:absolute;margin-center:600px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
 
 Ph.D，Postdoctoral Research Fellow  
 [Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/){:target="_blank"}  

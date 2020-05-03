@@ -119,10 +119,10 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 
 ---
 ### **Recommended Links**
-- [Sci-Hub: Literature Search](https://sci-hub.org.cn/){:target="_blank"}
-- [Libgen: Book Download](http://libgen.li/){:target="_blank"}
-- [LetPub: Journal Information](https://www.letpub.com.cn/){:target="_blank"}
-- [YOLO: Real-Time Object Detection via AI](https://pjreddie.com/darknet/yolo/){:target="_blank"}
+- [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}: Literature Search
+- [Libgen](http://libgen.li/){:target="_blank"}: Book Download
+- [LetPub](https://www.letpub.com.cn/){:target="_blank"}: Journal Information
+- [YOLO](https://pjreddie.com/darknet/yolo/){:target="_blank"}: Real-Time Object Detection via AI
 
 <br />
 <br />

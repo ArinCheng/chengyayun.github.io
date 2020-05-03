@@ -5,7 +5,7 @@
 Script MT Bold
 -->
 
-<div style="width:40px; height:30px; border:2px solid white; position:fixed; right:120px; bottom:50px;"></div>
+<div style="width:40px; height:30px; border:2px solid red; position:fixed; right:120px; bottom:50px;"></div>
 
 ---
 ## **Yayun Cheng（程亚运）**

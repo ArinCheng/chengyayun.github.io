@@ -85,7 +85,7 @@
   - 2020 西班牙 巴塞罗那 IEEE ICASSP
   - 2020 新加坡 IEEE ICOPS
 
-- **期刊审稿人**
+- **期刊审稿**
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   - lEEE Photonics Journal
   - IEEE Antennas and Wireless Propagation Letters

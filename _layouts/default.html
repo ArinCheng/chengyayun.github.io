@@ -22,7 +22,34 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content HEHE.</a>
     <div href="#" id="BackToTop" title="Back to Top" style="display: block;"><img src="img/top.png" alt="Back to Top"></div>
-    <header class="page-header" role="banner">
+    <script>
+      var d = document.getElementById("BackToTop");
+      var threshold = 360
+      function toggle(){
+        if (document.body.scrollTop > threshold)
+          d.style.display = 'block'
+        else
+          d.style.display = 'none'
+      }
+      window.addEventListener('scroll', toggle);   
+      d.addEventListener("click",function (e) {
+          e.preventDefault();
+          window.scrollTo(0, 0)
+      })
+    </script>
+    <style>
+      #BackToTop {
+        position: fixed;
+        bottom: 36px;
+        right: 107px;
+        font-size: 127px;
+        z-index: 7;
+        cursor: pointer;
+        background: #e9ebec;
+        display:none;
+    }    
+    </style>
+        <header class="page-header" role="banner">
       <!--<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}

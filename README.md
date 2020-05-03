@@ -12,7 +12,7 @@ Haidian District, Beijing 100084, China
 Office: Room 710, Liuqing Building, THU  
 Email: chengyayun@tsinghua.edu.cn; chengyy915@163.com
 
-<img style="position:absolute;margin-center:0px" src="/EMW.jpg" width="1232px" height="20" alt="Photo">  
+<img style="position:absolute;margin-center:0px" src="/EMW.jpg" width="1136px" height="20" alt="Photo">  
 ---
 ---
 ### **Biography** <span id="Biography"> </span>

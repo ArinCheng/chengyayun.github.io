@@ -1,7 +1,5 @@
 [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"}
 
-<div href="#" id="BackToTop" title="Back to Top" style="display: block;"><img src="img/top.png" alt="Back to Top"></div>
-
 ---
 ---
 ## **Yayun Cheng（程亚运）**

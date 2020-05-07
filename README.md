@@ -113,10 +113,10 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 
 ---
 ### **Recommended Refrences** <span id="Refrences"> </span>
-- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [<u>Microwave radar and radiometric remote sensing</u>](){:target="_blank"}. *University of Michigan Press Ann Arbor*, 2014.
-- L. Yujiri, M. Shoucri, and P. Moffa. [<u>Passive millimeter-wave imaging</u>](){:target="_blank"}. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
-- N. A. Salmon. [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
-- J. A. Nanzer. [<u>Microwave and millimeter-wave remote sensing for security applications</u>](){:target="_blank"}. *Artech House*, 2012.
+- [<u>Microwave radar and radiometric remote sensing</u>](){:target="_blank"}. F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl.  *University of Michigan Press Ann Arbor*, 2014.
+- [<u>Passive millimeter-wave imaging</u>](){:target="_blank"}. L. Yujiri, M. Shoucri, and P. Moffa. *IEEE Microwave Magazine*, vol. 4, no. 3, pp. 39–50, 2003.
+- [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](){:target="_blank"}. N. A. Salmon. *IEEE Transactions on Antennas and Propagation*, vol. 66, no. 2, pp. 897–908, 2018.
+- [<u>Microwave and millimeter-wave remote sensing for security applications</u>](){:target="_blank"}. J. A. Nanzer. *Artech House*, 2012.
 
 ---
 ### **Recommended Links**

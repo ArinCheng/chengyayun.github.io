@@ -109,6 +109,7 @@
 ### **链接推荐**
 - [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}: Literature Search
 - [Libgen](http://libgen.li/){:target="_blank"}: Book Download
+- [ZLibrary](https://b-ok.cc/){:target="_blank"}: Book Download
 - [LetPub](https://www.letpub.com.cn/){:target="_blank"}: Journal Information
 - [YOLO](https://pjreddie.com/darknet/yolo/){:target="_blank"}: AI Real-Time Object Detection
 

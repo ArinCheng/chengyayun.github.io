@@ -2,7 +2,8 @@
 
 ---
 ## **程亚运（Yayun Cheng）**
-<img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo">
+<img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/>
+<!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
 博士，助理研究员（博士后）   
 [工程物理系](http://www.ep.tsinghua.edu.cn/){:target="_blank"}，[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}  

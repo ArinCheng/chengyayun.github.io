@@ -33,20 +33,20 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 
 ---
 ### **Research** <span id="Research"> </span>
-- **Research Interests:** 
+- **Research Interests** 
    - Microwave/Millimeter-wave/Terahertz Imaging
    - Polarimetric Imaging; Polarization Property
    - Image Interpretation and Processing
    - Multi-Source Data Fusion; Physically-Based Parameter Retrieval
-- **Knowledges:**
+- **Knowledges**
    - Electromagnetic Fields and Waves, Microwave Technology, Annenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
-- **Applications:**
+- **Applications**
    - Personal Securiity Inspection
    - Military Detection
    - Earth Remote Sensing
    - Planet and Deep Space Exploration
-- **Skills:**
+- **Skills**
    - MATLAB, C/C++, Python, etc.
    - HFSS, FEKO, etc.
    - LaTex, GitHub, etc.

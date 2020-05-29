@@ -38,13 +38,15 @@
 
 ---
 ### **代表论文** [[<u>所有论文</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
-1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, Minor Revision, 2020.
-2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](),” *Optics Express*, 28(5): 6350-6366, 2020.
-3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](),” *Optics Letters*, 44(15): 3765-3768, 2019.
-4.	**Yayun Cheng**, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millimeter-wave imager and outdoor scene imaging analysis for remote sensing applications](),” *Optics Express*, 26(16): 20145-20159, 2018.
-5.	**Yayun Cheng**, Fei Hu, Liangqi Gui* , Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](),” *IEEE Photonics Journal*, 8(1): 5500112, 2016.
-6.	**Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material](),” *Chinese Optics Letters*, 14(6): 062802, 2016.
-7.	**Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](),” *Electronics Letters*, 52(14): 1221-1223, 2016.
+1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Minor Revision, 2020.
+2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](https://doi.org/10.1364/OE.384029){:target="_blank"},” *Optics Express*, 28(5): 6350-6366, 2020.
+3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](https://doi.org/10.1364/OL.44.003765){:target="_blank"},” *Optics Letters*, 44(15): 3765-3768, 2019.
+4.	**Yayun Cheng**, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millimeter-wave imager and outdoor scene imaging analysis for remote sensing applications](https://doi.org/10.1364/OE.26.020145){:target="_blank"},” *Optics Express*, 26(16): 20145-20159, 2018.
+5.	**Yayun Cheng**, Fei Hu, Liangqi Gui* , Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](https://doi.org/10.1109/JPHOT.2015.2507359),” *IEEE Photonics Journal*, 8(1): 5500112, 2016.
+6.	**Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material](https://doi.org/10.3788/col201614.062802){:target="_blank"},” *Chinese Optics Letters*, 14(6): 062802, 2016.
+7.	**Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](https://doi.org/10.1049/el.2016.0681){:target="_blank"},” *Electronics Letters*, 52(14): 1221-1223, 2016.
+8. **Yayun Cheng*** , Ziran Zhao, Yingxin Wang, and Yingying Niu, “[Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging](https://doi.org/10.1109/ICASSP40776.2020.9054207){:target="_blank"},” *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1524-1528, Barcelona, Spain, May 2020.
+
 
 ---
 ### **科研项目** <span id="Grants"> </span>

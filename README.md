@@ -100,8 +100,8 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
   - 2018 National Academic Exchange on Terahertz Science, Technology & Applications, Shanghai, China
   - 2019 National Annual Conference on Terahertz Science & Technology, Shanghai, China
   - 2019 Young Scholars Forum on New Imaging and Detection Technologies, Wuzhen, China
-  - 2020 IEEE ICASSP, Barcelona, Spain
-  - 2020 IEEE ICOPS, Singapore
+  - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain
+  - 2020 IEEE International Conference on Plasma Science (ICOPS), Singapore
 - **Journal Reviewer**
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   - lEEE Photonics Journal

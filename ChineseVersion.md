@@ -88,8 +88,8 @@
   - 2018 中国 上海 第四届全国太赫兹科学技术与应用学术交流会
   - 2019 中国 上海 第五届全国太赫兹科学技术学术年会
   - 2019 中国 乌镇 第三届新型成像与探测技术青年学者论坛
-  - 2020 西班牙 巴塞罗那 IEEE ICASSP
-  - 2020 新加坡 IEEE ICOPS
+  - 2020 西班牙 巴塞罗那 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  - 2020 新加坡 IEEE International Conference on Plasma Science (ICOPS)
 
 - **期刊审稿**
   - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing

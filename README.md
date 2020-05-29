@@ -58,7 +58,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](https://doi.org/10.1364/OL.44.003765),” *Optics Letters*, 44(15): 3765-3768, 2019.
 4.	**Yayun Cheng**, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millimeter-wave imager and outdoor scene imaging analysis for remote sensing applications](https://doi.org/10.1364/OE.26.020145),” *Optics Express*, 26(16): 20145-20159, 2018.
 5.	**Yayun Cheng**, Fei Hu, Liangqi Gui* , Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](),” *IEEE Photonics Journal*, 8(1): 5500112, 2016.
-6.	**Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material](),” *Chinese Optics Letters*, 14(6): 062802, 2016.
+6.	**Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material](https://doi.org/10.3788/col201614.062802),” *Chinese Optics Letters*, 14(6): 062802, 2016.
 7.	**Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](),” *Electronics Letters*, 52(14): 1221-1223, 2016.
 
 ---

@@ -64,9 +64,9 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 
 ---
 ### **Reaserch Grants** <span id="Grants"> </span>
-- National Natural Science Foundation of China (Young Program), 61901242, ¥290000, **Principle Investigator**, 2020-2022
-- China Postdoctoral Science Foundation (General Program), 2019M660640, ¥80000, **Principle Investigator**, 2019-2020
-- Innovation Fund of HUST Innovation Institute, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
+- **National Natural Science Foundation of China (Young Program)**, 61901242, ¥290000, **Principle Investigator**, 2020-2022
+- **China Postdoctoral Science Foundation (General Program)**, 2019M660640, ¥80000, **Principle Investigator**, 2019-2020
+- **Innovation Fund of HUST Innovation Institute**, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
 - National Natural Science Foundation of China (Key Program)，61731007, ¥2900000, Participator，2019-2020
 - Major Foundation Research Development Program (973 Program), ¥22000000, Participator，2014-2017
 - Aerospace Science Industry Program of China, ¥300000, Participator，2015-2016
@@ -78,7 +78,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 - **National Scholarship**, Ministry of Education of China, 2016
 - **National Scholarship**, Ministry of Education of China, 2011
 - **Outstanding Graduate**, Anhui Province, 2012
-- **Outstanding Graduate**, HFUT, 2012
+- Outstanding Graduate, HFUT, 2012
 - Excellent Merit Student, HFUT, 2010
 - Full Scholarship for Study, 7 times, HUST, 2012-2018
 - School Scholarship, 5 times, HFUT/HUST, 2009-2017

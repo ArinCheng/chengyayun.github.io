@@ -22,7 +22,7 @@ Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}
 
 <!-- [<u>www.researchgate.net/profile/Yayun_Cheng</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} -->
 
-<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1085px" height="15" alt="Photo">
+<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1087px" height="15" alt="Photo">
 
 ---
 ---

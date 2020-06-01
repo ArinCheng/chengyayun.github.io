@@ -1,4 +1,4 @@
-**YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
+**YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>Refrences</u>](#Refrences) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
 
 <!-- <font face="Comic Sans MS" color=black>YAYUN'S HOMEPAGE</font>
 <img style="position:absolute;margin-center:900px" src="/THU.jpg" width="40" alt="Photo"> 
@@ -22,7 +22,7 @@ Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}
 
 <!-- [<u>www.researchgate.net/profile/Yayun_Cheng</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} -->
 
-<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1090px" height="15" alt="Photo">
+<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1085px" height="15" alt="Photo">
 
 ---
 ---

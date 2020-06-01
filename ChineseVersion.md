@@ -1,4 +1,4 @@
-**YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#Refrences) &nbsp; [<u>English Version</u>](README.md)
+**YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#Refrences) &nbsp; [<u>English Version</u>](README.md)
 
 ---
 ## **程亚运（Yayun Cheng）**
@@ -13,7 +13,7 @@
 邮箱：chengyayun@tsinghua.edu.cn（工作）; chengyy915@163.com（科研）  
 主页：[<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}
 
-<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1040px" height="15" alt="Photo">
+<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1085px" height="15" alt="Photo">
 
 ---
 ---

@@ -35,7 +35,6 @@
 2014.09 – 2018.12  华中科技大学 博士 电磁场与微波技术  
 2012.09 – 2014.08  华中科技大学 硕士 电磁场与微波技术  
 2008.09 – 2012.06  合肥工业大学 本科 应用物理学 -->
-
 ---
 ### **代表论文** [[<u>所有论文</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[<u>Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging</u>](){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Minor Revision, 2020.

@@ -13,12 +13,12 @@
 邮箱：chengyayun@tsinghua.edu.cn（工作）; chengyy915@163.com（科研）  
 主页：[<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}
 
-<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1087px" height="15" alt="Photo">
+<img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">
 
 ---
 ---
 ### **个人简介** <span id="Biography"> </span>
-1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学]()；2012年6月本科毕业于[合肥工业大学](http://www.hfut.edu.cn/){:target="_blank"}(HFUT)，获应用物理学专业理学学士学位；2018年12月博士毕业于[华中科技大学](http://www.hust.edu.cn){:target="_blank"}(HUST)，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)和[危爆物品扫描探测技术国家工程实验室](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}，从事博士后研究工作。
+1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学](http://www.ahhnzx.com/){:target="_blank"}；2012年6月本科毕业于[合肥工业大学](http://www.hfut.edu.cn/){:target="_blank"}(HFUT)，获应用物理学专业理学学士学位；2018年12月博士毕业于[华中科技大学](http://www.hust.edu.cn){:target="_blank"}(HUST)，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)和[危爆物品扫描探测技术国家工程实验室](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}，从事博士后研究工作。
 
 已发表学术论文30余篇，其中，以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express等权威期刊上发表SCI论文9篇，国际会议论文4篇。已申请发明专利4项，已授权2项。
 

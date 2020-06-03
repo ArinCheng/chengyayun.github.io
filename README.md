@@ -8,7 +8,7 @@ Script MT Bold
 <!-- <div style="width:35px; height:25px; border:1px solid green; position:fixed; right:122px; bottom:52px;"></div> -->
 
 ---
-## **Yayun Cheng（程亚运）**
+# **Yayun Cheng（程亚运）**
 <img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/>
 <!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
@@ -34,18 +34,18 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 ---
 ### **RESEARCH** <span id="Research"> </span>
 - **Research Interests** 
-   - Microwave/Millimeter-wave/Terahertz Imaging
-   - Polarimetric Imaging; Polarization Property
-   - Image Interpretation and Processing
-   - Multi-Source Data Fusion; Physically-Based Parameter Retrieval
+   - Microwave/Millimeter-wave/Terahertz Imaging 微波/毫米波/太赫兹成像
+   - Polarimetric Imaging; Polarization Property 极化成像；极化特性
+   - Image Interpretation and Processing 图像解译与处理
+   - Multi-Source Data Fusion; Physically-Based information extraction 多源数据融合；基于物理的信息提取
 - **Knowledges**
    - Electromagnetic Fields and Waves, Microwave Technology, Annenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
 - **Applications**
-   - Personal Securiity Inspection
-   - Military Detection
-   - Earth Remote Sensing
-   - Planet and Deep Space Exploration
+   - Personal Securiity Inspection 人身安检
+   - Military Detection 军事探测
+   - Earth Remote Sensing 地球遥感
+   - Planet and Deep Space Exploration 行星与深空探测
 - **Skills**
    - MATLAB, C/C++, Python, etc.
    - HFSS, FEKO, etc.
@@ -63,9 +63,10 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
    - **Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[<u>Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging</u>](https://doi.org/10.1049/el.2016.0681){:target="_blank"},” *Electronics Letters*, 52(14): 1221-1223, 2016.
 - **Conference Papers** 
    - **Yayun Cheng*** , Ziran Zhao, Yingxin Wang, and Yingying Niu, “[<u>Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging</u>](https://doi.org/10.1109/ICASSP40776.2020.9054207){:target="_blank"},” *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1524-1528, Barcelona, Spain, May 2020.
+   - **Yayun Cheng*** , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[<u>Passive millimeter-wave polarization characteristics of several common structures</u>](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
 
 ---
-### **Reaserch Grants** <span id="Grants"> </span>
+### **RESEARCH GRANTS** <span id="Grants"> </span>
 - **National Natural Science Foundation of China (Young Program)**, 61901242, ¥290000, **Principle Investigator**, 2020-2022
 - **China Postdoctoral Science Foundation (General Program)**, 2019M660640, ¥80000, **Principle Investigator**, 2019-2020
 - **Innovation Fund of HUST Innovation Institute**, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
@@ -75,7 +76,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 - Aerospace Science Technology Program of China, ¥250000, Participator，2012-2013
 
 ---
-### **Honors / Awards** <span id="Awards"> </span>
+### **HONORS & AWARDS** <span id="Awards"> </span>
 - **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
 - **National Scholarship**, Ministry of Education of China, 2016
 - **National Scholarship**, Ministry of Education of China, 2011
@@ -87,7 +88,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 - Merit Student/Graduate, 3 times, HFUT/HUST, 2009-2016
 
 ---
-### **Professional Activities** <span id="Activities"> </span>
+### **PROFESSIONAL ACTIVITIES** <span id="Activities"> </span>
 - **Society Member**
   - IEEE / SPIE
   - IEEE Geoscience and Remote Sensing Society
@@ -115,14 +116,14 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
   - Journal on Image and Video Processing
 
 ---
-### **Recommended Refrences** <span id="Refrences"> </span>
+### **RECOMMENDED REFRENCES** <span id="Refrences"> </span>
 - F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [<u>Microwave radar and radiometric remote sensing</u>](){:target="_blank"}. *University of Michigan Press*, 2014.
 - L. Yujiri, M. Shoucri, and P. Moffa. [<u>Passive millimeter-wave imaging</u>](){:target="_blank"}. *IEEE Microwave Magazine*, 4(3): 39–50, 2003.
 - N. A. Salmon. [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, 66(2): 897–908, 2018.
 - J. A. Nanzer. [<u>Microwave and millimeter-wave remote sensing for security applications</u>](){:target="_blank"}. *Artech House*, 2012.
 
 ---
-### **Recommended Links**
+### **RECOMMENDED LINKS**
 - [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}: Literature Search
 - [Libgen](http://libgen.li/){:target="_blank"}: Book Download
 - [ZLibrary](https://b-ok.cc/){:target="_blank"}: Book Download
@@ -132,4 +133,4 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 <br />
 <br />
 <br />
-<p align="right">Last updated: 2020-05-18</p>
+<p align="right">Last updated on 2020-05-18</p>

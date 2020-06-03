@@ -34,10 +34,10 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
 ---
 ### **RESEARCH** <span id="Research"> </span>
 - **Research Interests** 
-   - Microwave/Millimeter-wave/Terahertz Imaging 微波/毫米波/太赫兹成像
-   - Polarimetric Imaging; Polarization Property 极化成像；极化特性
-   - Image Interpretation and Processing 图像解译与处理
-   - Multi-Source Data Fusion; Physically-Based information extraction 多源数据融合；基于物理的信息提取
+   - Microwave/Millimeter-wave/Terahertz Emission Models & Imaging  微波/毫米波/太赫兹辐射模型与成像
+   - Polarization Property; Polarimetric Imaging  极化特性；极化成像
+   - Image Interpretation and Processing  图像解译与处理
+   - Multi-Source Data Fusion; Physically-Based Information Extraction  多源数据融合；基于物理的信息提取
 - **Knowledges**
    - Electromagnetic Fields and Waves, Microwave Technology, Annenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.

@@ -23,8 +23,8 @@
 
 ---
 ### **Other Papers** (Co-Author)
-1. Yan Hu, Fei Hu*, Zhengwu Yang, **Yayun Cheng**, and Chengbin Wang, “[Complex permittivity estimation from millimeter-wave radiometry](),” *IEEE Geoscience and Remote Sensing Letters*, xx(x): xx-xx, 2020. (SCI, IF=3.534)
-18. Jian Lu, **Yayun Cheng**, Lingbo Qiao, Ziye Wang, Yingxin Wang, and Ziran Zhao*, “[Removing multipath artifacts using cross circular polarization for active millimeter-wave imaging](),” *International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Accepted, Shanghai, China, May 2020. (EI)
+1. Yan Hu, Fei Hu, Zhengwu Yang, **Yayun Cheng**, and Chengbin Wang, “[Complex permittivity estimation from millimeter-wave radiometry](),” *IEEE Geoscience and Remote Sensing Letters*, xx(x): xx-xx, 2020. (SCI, IF=3.534)
+18. Jian Lu, **Yayun Cheng**, Lingbo Qiao, Ziye Wang, Yingxin Wang, and Ziran Zhao, “[Removing multipath artifacts using cross circular polarization for active millimeter-wave imaging](),” *International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Accepted, Shanghai, China, May 2020. (EI)
 17. Fangzhou Tang, Liangqi Gui*, Jinbang Liu, Ke Chen, Liang Lang, and **Yayun Cheng**, “[Metal target detection method using passive millimeter-wave polarimetric imagery](),” *Optics Express*, 28(9): 13336-13351, 2020. (SCI, IF=3.561)
 16. Yingying Niu, Yingxin Wang, Weidong Wu, Jianguo Wen, **Yayun Cheng**, Meng Chen, Shoulu Jiang, Dong Wu*, and Ziran Zhao*, “[Efficient room-temperature terahertz detection via bolometric and photothermoelectric effects in EuBiTe 3 crystal](),” *Optical Materials Express*, 10(4): 952-961, 2020. (SCI, IF=2.673)
 15. Yan Hu, Fei Hu*, **Yayun Cheng**, Yanyu Xu, and Jinlong Su, “[Surface normal vector estimation from passive millimeter-wave polarimetric imaging](),” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 12(11): 4554-4562, 2019. (SCI, IF=3.392)

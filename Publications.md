@@ -23,25 +23,25 @@
 
 ---
 ### **Other Papers** (Co-Author)
-1. Yan Hu, Fei Hu*, Zhengwu Yang, **Yayun Cheng**, and Chengbin Wang, “[Complex permittivity estimation from millimeter-wave radiometry](),” *IEEE Geoscience and Remote Sensing Letters*, xx(x): xx-xx, 2020. (SCI, IF=3.534)
-18. Jian Lu, **Yayun Cheng**, Lingbo Qiao, Ziye Wang, Yingxin Wang, and Ziran Zhao*, “[Removing multipath artifacts using cross circular polarization for active millimeter-wave imaging](),” *International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Accepted, Shanghai, China, May 2020. (EI)
-17. Fangzhou Tang, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and **Yayun Cheng**, “[Metal target detection method using passive millimeter-wave polarimetric imagery](),” *Optics Express*, 28(9): 13336-13351, 2020. (SCI, IF=3.561)
-16. Yingying Niu, Yingxin Wang, Weidong Wu, Jianguo Wen, **Yayun Cheng**, Meng Chen, Shoulu Jiang, Dong Wu*, and Ziran Zhao, “[Efficient room-temperature terahertz detection via bolometric and photothermoelectric effects in EuBiTe 3 crystal](),” *Optical Materials Express*, 10(4): 952-961, 2020. (SCI, IF=2.673)
-15. Yan Hu, Fei Hu, **Yayun Cheng**, Yanyu Xu, and Jinlong Su, “[Surface normal vector estimation from passive millimeter-wave polarimetric imaging](),” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 12(11): 4554-4562, 2019. (SCI, IF=3.392)
-14. Jinlong Su, Yan Tian, Fei Hu, **Yayun Cheng**, and Zili Zhang, “[Errors analysis and improvement on measurement method for microwave/millimeter-wave emissivity of small targets by radiometer](),” *IEEE Access*, 7: 103427-103432, 2019. (SCI, IF=3.392)
-13. 胡演, 胡飞, **程亚运**, 苏金龙, 章心怡, “[人体安检中被动毫米波辐射成像仿真](),” *全国微波毫米波会议*, 1141-1144, 成都, 中国, 2018 年 5 月.
-12. 韩卓廷, 桂良启, **程亚运**, 苏金龙, 黄博, 唐方舟, “[运动对飞行器毫米波辐射特性的影响研究](),” *全国微波毫米波会议*, 1016-1019, 成都, 中国, 2018 年 5 月.
-11. 黄博, 桂良启, **程亚运**, 苏金龙, 韩卓廷, 唐方舟, “[非均匀温度剖面隐身涂层材料的毫米波辐射特性](),” *全国微波毫米波会议*, 588-591, 成都, 中国, 2018 年 5 月.
-10. Jinlong Su, Yan Tian, Fei Hu, **Yayun Cheng**, Yan Hu, “[Material clustering using passive millimeter-wave polarimetric imagery](),” *IEEE Photonics Journal*, 11(1): 1-9, 2018. (SCI, IF=2.729)
-9. Xiaohui Peng, Fei Hu*, Dong Zhu, **Yayun Cheng**, Tao Zheng, and Hao Hu, “[Reduction of the instrument model error in aperture synthesis radiometers](),” *IEEE Access*, 6(1): 9238-9246, 2018. (SCI, IF=4.098)
-8. Jinlong Su, Yan Tian*, Fei Hu, Liangqi Gui, **Yayun Cheng**, and Xiaohui Peng, “[An equivalent method of mixed dielectric constant in passive microwave/millimeter radiometric measurement](),” *Proceedings of SPIE*, vol. 10439, Warsaw, Poland, Oct. 2017. (EI)
-7. Xiaohui Peng, Fei Hu*, Feng He, Dong Zhu, **Yayun Cheng**, Hao Hu, and Tao Zheng, “[An improved clean algorithm for RFI mitigation in aperture synthesis radiometers](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Fort Worth, TX, USA, Jul. 2017. (EI)
-6. Fei Hu, Xiaohui Peng*, Feng He, Liang Wu, Jun Li, **Yayun Cheng**, and Dong Zhu, “[RFI Mitigation in aperture synthesis radiometers using a modified CLEAN algorithm](),” *IEEE Geoscience and Remote Sensing Letters*, 14(1): 13-17, 2017 (SCI, IF=3.534)
-5. Fei Hu, Liang Wu*, Jun Li, Xiaohui Peng, Dong Zhu, and **Yayun Cheng**, “[RFI Localization in Synthetic Aperture Interferometric Radiometers Based on Sparse Bayesian Inference](),” *International Journal of Remote Sensing*, 38(20): 5502-5523, 2017. (SCI, IF=2.493)
-4. Bo Qi, Liang Lang*, **Yayun Cheng**, Siyuan Liu, Fei Hu, Xiaoqin He, Pengying Deng, and Liangqi Gui, “[Passive millimeter-wave scene imaging simulation based on fast ray-tracing](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Beijing, China, Jul. 2016. (EI)
-3. Manman Huang, Liangqi Gui*, Mingmin Liu, **Yayun Cheng**, Liang Lang, and Fei Hu, “[Wavelet-based 1/f-Noise elimination in millimeter-wave radiometer](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Beijing, China, Jul. 2016. (EI)
-2. 何小琴, 郎量*, 胡飞, **程亚运**, 邓鹏鹰, 桂良启, “[海面目标的毫米波辐射图像模拟](),” *全国微波毫米波会议*, 1459-1461, 合肥, 中国, 2015 年 5 月.
-1.  Jun Li, Fei Hu*, Feng He, Liang Wu, Xiaohui Peng, **Yayun Cheng**, Dong Zhu, and Ke Chen, “[Super-resolution RFI localization with compressive sensing in synthetic aperture interferometric radiometers](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Milan, Italy, Jul. 2015. (EI)
+1. Yan Hu, Fei Hu* , Zhengwu Yang, **Yayun Cheng**, and Chengbin Wang, “[Complex permittivity estimation from millimeter-wave radiometry](),” *IEEE Geoscience and Remote Sensing Letters*, xx(x): xx-xx, 2020. (SCI, IF=3.534)
+18. Jian Lu, **Yayun Cheng**, Lingbo Qiao, Ziye Wang, Yingxin Wang, and Ziran Zhao* , “[Removing multipath artifacts using cross circular polarization for active millimeter-wave imaging](),” *International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Accepted, Shanghai, China, May 2020. (EI)
+17. Fangzhou Tang, Liangqi Gui* , Jinbang Liu, Ke Chen, Liang Lang, and **Yayun Cheng**, “[Metal target detection method using passive millimeter-wave polarimetric imagery](),” *Optics Express*, 28(9): 13336-13351, 2020. (SCI, IF=3.561)
+16. Yingying Niu, Yingxin Wang, Weidong Wu, Jianguo Wen, **Yayun Cheng**, Meng Chen, Shoulu Jiang, Dong Wu*, and Ziran Zhao* , “[Efficient room-temperature terahertz detection via bolometric and photothermoelectric effects in EuBiTe 3 crystal](),” *Optical Materials Express*, 10(4): 952-961, 2020. (SCI, IF=2.673)
+15. Yan Hu, Fei Hu* , **Yayun Cheng**, Yanyu Xu, and Jinlong Su, “[Surface normal vector estimation from passive millimeter-wave polarimetric imaging](),” *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 12(11): 4554-4562, 2019. (SCI, IF=3.392)
+14. Jinlong Su, Yan Tian* , Fei Hu, **Yayun Cheng**, and Zili Zhang, “[Errors analysis and improvement on measurement method for microwave/millimeter-wave emissivity of small targets by radiometer](),” *IEEE Access*, 7: 103427-103432, 2019. (SCI, IF=3.392)
+13. 胡演, 胡飞* , **程亚运**, 苏金龙, 章心怡, “[人体安检中被动毫米波辐射成像仿真](),” *全国微波毫米波会议*, 1141-1144, 成都, 中国, 2018 年 5 月.
+12. 韩卓廷, 桂良启* , **程亚运**, 苏金龙, 黄博, 唐方舟, “[运动对飞行器毫米波辐射特性的影响研究](),” *全国微波毫米波会议*, 1016-1019, 成都, 中国, 2018 年 5 月.
+11. 黄博, 桂良启* , **程亚运**, 苏金龙, 韩卓廷, 唐方舟, “[非均匀温度剖面隐身涂层材料的毫米波辐射特性](),” *全国微波毫米波会议*, 588-591, 成都, 中国, 2018 年 5 月.
+10. Jinlong Su, Yan Tian* , Fei Hu, **Yayun Cheng**, Yan Hu, “[Material clustering using passive millimeter-wave polarimetric imagery](),” *IEEE Photonics Journal*, 11(1): 1-9, 2018. (SCI, IF=2.729)
+9. Xiaohui Peng, Fei Hu* , Dong Zhu, **Yayun Cheng**, Tao Zheng, and Hao Hu, “[Reduction of the instrument model error in aperture synthesis radiometers](),” *IEEE Access*, 6(1): 9238-9246, 2018. (SCI, IF=4.098)
+8. Jinlong Su, Yan Tian* , Fei Hu, Liangqi Gui, **Yayun Cheng**, and Xiaohui Peng, “[An equivalent method of mixed dielectric constant in passive microwave/millimeter radiometric measurement](),” *Proceedings of SPIE*, vol. 10439, Warsaw, Poland, Oct. 2017. (EI)
+7. Xiaohui Peng, Fei Hu* , Feng He, Dong Zhu, **Yayun Cheng**, Hao Hu, and Tao Zheng, “[An improved clean algorithm for RFI mitigation in aperture synthesis radiometers](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Fort Worth, TX, USA, Jul. 2017. (EI)
+6. Fei Hu, Xiaohui Peng* , Feng He, Liang Wu, Jun Li, **Yayun Cheng**, and Dong Zhu, “[RFI Mitigation in aperture synthesis radiometers using a modified CLEAN algorithm](),” *IEEE Geoscience and Remote Sensing Letters*, 14(1): 13-17, 2017 (SCI, IF=3.534)
+5. Fei Hu, Liang Wu* , Jun Li, Xiaohui Peng, Dong Zhu, and **Yayun Cheng**, “[RFI Localization in Synthetic Aperture Interferometric Radiometers Based on Sparse Bayesian Inference](),” *International Journal of Remote Sensing*, 38(20): 5502-5523, 2017. (SCI, IF=2.493)
+4. Bo Qi, Liang Lang* , **Yayun Cheng**, Siyuan Liu, Fei Hu, Xiaoqin He, Pengying Deng, and Liangqi Gui, “[Passive millimeter-wave scene imaging simulation based on fast ray-tracing](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Beijing, China, Jul. 2016. (EI)
+3. Manman Huang, Liangqi Gui* , Mingmin Liu, **Yayun Cheng**, Liang Lang, and Fei Hu, “[Wavelet-based 1/f-Noise elimination in millimeter-wave radiometer](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Beijing, China, Jul. 2016. (EI)
+2. 何小琴, 郎量* , 胡飞, **程亚运**, 邓鹏鹰, 桂良启, “[海面目标的毫米波辐射图像模拟](),” *全国微波毫米波会议*, 1459-1461, 合肥, 中国, 2015 年 5 月.
+1.  Jun Li, Fei Hu* , Feng He, Liang Wu, Xiaohui Peng, **Yayun Cheng**, Dong Zhu, and Ke Chen, “[Super-resolution RFI localization with compressive sensing in synthetic aperture interferometric radiometers](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Milan, Italy, Jul. 2015. (EI)
 
 ---
 ### **Patents**

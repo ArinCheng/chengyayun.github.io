@@ -45,7 +45,12 @@
 
 ---
 ### **Patents**
-1.	Ziran Zhao (Supervisor), Yayun Cheng, et al., Invention patent in China, Application Number: [201911113273.6](), Application Date: 14 November 2019.
+1.	赵自然, **程亚运**, 王迎新，陈志强，李元景. [用于轮廓标记的毫米波太赫兹多极化成像方法及成像系统](). 申请号: 201911113273.6. 申请日: 2019年11月14日.
+2.	赵自然, **程亚运**, 王迎新，陈志强，李元景. [用于目标增强的毫米波太赫兹多极化成像方法及成像系统](). 申请号: 201911112651.9. 申请日: 2019年11月14日.
+3.	胡飞, **程亚运**, 桂良启, 贺锋, 郎量. [一种基于被动毫米波极化成像的材料分类方法](). 中国发明专利, 专利号: ZL201610534007.0，授权日：2018年7月24日（已授权）.
+4.	胡飞, **程亚运**, 贺锋, 桂良启, 田岩, 郎量, 苏金龙. [一种基于极化毫米波辐射的获取目标表面方位信息的方法](). 中国发明专利, 专利号: ZL201510426471.3，授权日：2017年7月7日（已授权）.
+
+<!-- 1.	Ziran Zhao (Supervisor), Yayun Cheng, et al., Invention patent in China, Application Number: [201911113273.6](), Application Date: 14 November 2019. 
 2.	Ziran Zhao (Supervisor), Yayun Cheng, et al., Invention patent in China, Patent Number: [201911112651.9](), Application Date: 14 November 2019.
 3.	Fei Hu (Supervisor), Yayun Cheng, et al., Invention patent in China, Patent Number: [ZL201610534007.0](), Authorization Date: 24 July 2018. (Authorized)
-4.	Fei Hu (Supervisor), Yayun Cheng, et al. Invention patent in China, Patent Number: [ZL201510426471.3](), Authorization Date: 7 July 2017. (Authorized)
+4.	Fei Hu (Supervisor), Yayun Cheng, et al. Invention patent in China, Patent Number: [ZL201510426471.3](), Authorization Date: 7 July 2017. (Authorized) -->

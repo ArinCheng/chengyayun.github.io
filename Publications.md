@@ -41,7 +41,7 @@
 4. Bo Qi, Liang Lang* , **Yayun Cheng**, Siyuan Liu, Fei Hu, Xiaoqin He, Pengying Deng, and Liangqi Gui, “[Passive millimeter-wave scene imaging simulation based on fast ray-tracing](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Beijing, China, Jul. 2016. (EI)
 3. Manman Huang, Liangqi Gui* , Mingmin Liu, **Yayun Cheng**, Liang Lang, and Fei Hu, “[Wavelet-based 1/f-Noise elimination in millimeter-wave radiometer](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Beijing, China, Jul. 2016. (EI)
 2. 何小琴, 郎量* , 胡飞, **程亚运**, 邓鹏鹰, 桂良启, “[海面目标的毫米波辐射图像模拟](),” *全国微波毫米波会议*, 1459-1461, 合肥, 中国, 2015 年 5 月.
-1.  Jun Li, Fei Hu* , Feng He, Liang Wu, Xiaohui Peng, **Yayun Cheng**, Dong Zhu, and Ke Chen, “[Super-resolution RFI localization with compressive sensing in synthetic aperture interferometric radiometers](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Milan, Italy, Jul. 2015. (EI)
+1. Jun Li, Fei Hu* , Feng He, Liang Wu, Xiaohui Peng, **Yayun Cheng**, Dong Zhu, and Ke Chen, “[Super-resolution RFI localization with compressive sensing in synthetic aperture interferometric radiometers](),” *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, Milan, Italy, Jul. 2015. (EI)
 
 ---
 ### **Patents**

@@ -39,7 +39,7 @@ He is currently a Postdoctoral Fellow with the Department of Engineering Physics
    - Image Interpretation and Processing  图像解译与处理
    - Multi-Source Data Fusion; Physically-Based Information Extraction  多源数据融合；基于物理的信息提取
 - **Knowledges**
-   - Electromagnetic Fields and Waves, Microwave Technology, Annenna Technology, etc.
+   - Electromagnetic Fields and Waves, Microwave Technology, Antenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
 - **Applications**
    - Personal Securiity Inspection 人身安检

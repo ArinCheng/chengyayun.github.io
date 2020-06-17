@@ -12,9 +12,9 @@ Script MT Bold
 <img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/>
 <!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
-Ph.D.，Postdoctoral Fellow 博士，博士后研究员  
-[<u>Department of Engineering Physics</u>](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [<u>Tsinghua University</u>](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  清华大学工程物理系
-Haidian District, Beijing 100084, P. R. China  中国北京市海淀区100084
+Ph.D.，Postdoctoral Fellow  
+[<u>Department of Engineering Physics</u>](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [<u>Tsinghua University</u>](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  
+Haidian District, Beijing 100084, P. R. China  
 
 Office: Room 710, Liuqing Building, THU  
 Email: chengyayun@tsinghua.edu.cn (for work); chengyy915@163.com (for research)  
@@ -27,9 +27,9 @@ Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}
 ---
 ---
 ### **BIOGRAPHY** <span id="Biography"> </span>
-Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [<u>Hefei University of Technology</u>](http://www.hfut.edu.cn/){:target="_blank"} (HFUT), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [<u>Huazhong University of Science and Technology</u>](http://www.hust.edu.cn){:target="_blank"} (HUST), Wuhan, China, in 2018. He is currently a Postdoctoral Fellow with the Department of Engineering Physics, [<u>Tsinghua University</u>](http://www.tsinghua.edu.cn/){:target="_blank"}, Beijing, China and also with the [<u>National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies</u>](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}, Beijing, China, since 2019.
+Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [<u>Hefei University of Technology</u>](http://www.hfut.edu.cn/){:target="_blank"} (HFUT), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [<u>Huazhong University of Science and Technology</u>](http://www.hust.edu.cn){:target="_blank"} (HUST), Wuhan, China, in 2018.
 
-1990年生于安徽省安庆市；2008年高中毕业于安徽省[怀宁中学](http://www.ahhnzx.com/){:target="_blank"}；2012年本科毕业于[合肥工业大学](http://www.hfut.edu.cn/){:target="_blank"}(HFUT)，获应用物理学专业理学学士学位；2018年博士毕业于[华中科技大学](http://www.hust.edu.cn){:target="_blank"}(HUST)，获电磁场与微波技术专业工学博士学位；2019年起，就职于[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)和[危爆物品扫描探测技术国家工程实验室](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}，从事博士后研究工作。
+He is currently a Postdoctoral Fellow with the Department of Engineering Physics, [<u>Tsinghua University</u>](http://www.tsinghua.edu.cn/){:target="_blank"}, Beijing, China and also with the [<u>National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies</u>](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}, Beijing, China, since 2019.
 
 ---
 ### **RESEARCH** <span id="Research"> </span>
@@ -66,7 +66,7 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
    - **Yayun Cheng*** , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[<u>Passive millimeter-wave polarization characteristics of several common structures</u>](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
 
 ---
-### **RESEARCH GRANTS 科研项目** <span id="Grants"> </span>
+### **RESEARCH GRANTS** <span id="Grants"> </span>
 - **National Natural Science Foundation of China (Young Program)**, 61901242, ¥290000, **Principle Investigator**, 2020-2022
 - **China Postdoctoral Science Foundation (General Program)**, 2019M660640, ¥80000, **Principle Investigator**, 2019-2020
 - **Innovation Fund of HUST Innovation Institute**, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
@@ -75,17 +75,8 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 - Aerospace Science Industry Program of China, ¥300000, Participator，2015-2016
 - Aerospace Science Technology Program of China, ¥250000, Participator，2012-2013
 
---
-- **国家自然科学基金青年科学基金**，61901242，29万，**主持**，2020-2022
-- **中国博士后科学基金面上资助**，2019M660640，8万，**主持**，2019-2020
-- **华中科技大学创新研究院技术创新基金**，2017JYCXJJ036，5万，**主持**，2017-2018
-- 国家自然科学基金重点项目，61731007，290万，参与，2019-2020
-- 国家973计划项目，2200万，参与，2014-2017
-- 航天科工横向项目，30 万，参与，2015-2016
-- 航天科技横向项目，25 万，参与，2012-2013
-
 ---
-### **HONORS & AWARDS 荣誉奖励** <span id="Awards"> </span>
+### **HONORS & AWARDS** <span id="Awards"> </span>
 - **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
 - **National Scholarship**, Ministry of Education of China, 2016
 - **National Scholarship**, Ministry of Education of China, 2011
@@ -96,16 +87,6 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 - School Scholarship, 5 times, HFUT/HUST, 2009-2017
 - Merit Student/Graduate, 3 times, HFUT/HUST, 2009-2016
 
---
-- **优秀博士学位论文**，中国电子教育学会，2019
-- **国家奖学金（博士生）**，教育部，2016
-- **国家奖学金（本科生）**，教育部，2011
-- **省级优秀毕业生**，安徽省，2012
-- 优秀毕业生，HFUT，2012
-- 优秀三好学生，HFUT，2010
-- 全额学业奖学金，7次，HUST，2012-2018
-- 校级奖学金，5次，HFUT/HUST，2009-2017
-- 三好学生/研究生，3次，HFUT/HUST，2009-2016
 ---
 ### **PROFESSIONAL ACTIVITIES** <span id="Activities"> </span>
 - **Society Member**

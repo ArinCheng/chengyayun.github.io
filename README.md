@@ -33,20 +33,20 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 
 ---
 ### **RESEARCH 研究方向** <span id="Research"> </span>
-- **Research Interests** 
+- **Research Interests 研究兴趣** 
    - Microwave/Millimeter-wave/Terahertz Emission Models & Imaging  微波/毫米波/太赫兹辐射模型与成像
    - Polarization Property; Polarimetric Imaging  极化特性；极化成像
    - Image Interpretation and Processing  图像解译与处理
    - Multi-Source Data Fusion; Physically-Based Information Extraction  多源数据融合；基于物理的信息提取
-- **Knowledges**
+- **Knowledges 专业知识**
    - Electromagnetic Fields and Waves, Microwave Technology, Antenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
-- **Applications**
+- **Applications 应用领域**
    - Personal Securiity Inspection 人身安检
    - Military Detection 军事探测
    - Earth Remote Sensing 地球遥感
    - Planet and Deep Space Exploration 行星与深空探测
-- **Skills**
+- **Skills 工具技能**
    - MATLAB, C/C++, Python, etc.
    - HFSS, FEKO, etc.
    - LaTex, GitHub, etc.

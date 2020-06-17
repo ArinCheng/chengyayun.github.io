@@ -38,7 +38,7 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
    - Polarization Property; Polarimetric Imaging  极化特性；极化成像
    - Image Interpretation and Processing  图像解译与处理
    - Multi-Source Data Fusion; Physically-Based Information Extraction  多源数据融合；基于物理的信息提取
-- **Knowledges 专业知识**
+- **Knowledges 专业基础**
    - Electromagnetic Fields and Waves, Microwave Technology, Antenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
 - **Applications 应用领域**

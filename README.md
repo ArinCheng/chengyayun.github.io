@@ -148,7 +148,7 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 - [<u>Libgen</u>](http://libgen.li/){:target="_blank"}: Book Download 书籍下载
 - [<u>ZLibrary</u>](https://b-ok.cc/){:target="_blank"}: Book Download 书籍下载
 - [<u>LetPub</u>](https://www.letpub.com.cn/){:target="_blank"}: Journal Information 期刊信息
-- [<u>YOLO</u>](https://pjreddie.com/darknet/yolo/){:target="_blank"}: AI Real-Time Object Detection 实时目标检测
+- [<u>YOLO</u>](https://pjreddie.com/darknet/yolo/){:target="_blank"}: AI Real-Time Object Detection 目标检测
 
 <br />
 <br />

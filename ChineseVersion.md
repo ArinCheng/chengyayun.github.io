@@ -112,11 +112,11 @@
 
 ---
 ### **链接推荐**
-- [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}: Literature Search
-- [Libgen](http://libgen.li/){:target="_blank"}: Book Download
-- [ZLibrary](https://b-ok.cc/){:target="_blank"}: Book Download
-- [LetPub](https://www.letpub.com.cn/){:target="_blank"}: Journal Information
-- [YOLO](https://pjreddie.com/darknet/yolo/){:target="_blank"}: AI Real-Time Object Detection
+- [<u>Sci-Hub</u>](https://sci-hub.org.cn/){:target="_blank"}: 文献检索
+- [<u>Libgen</u>](http://libgen.li/){:target="_blank"}: 书籍下载
+- [<u>ZLibrary</u>](https://b-ok.cc/){:target="_blank"}: 书籍下载
+- [<u>LetPub</u>](https://www.letpub.com.cn/){:target="_blank"}: 期刊信息
+- [<u>YOLO</u>](https://pjreddie.com/darknet/yolo/){:target="_blank"}: AI目标检测
 
 <br />
 <br />

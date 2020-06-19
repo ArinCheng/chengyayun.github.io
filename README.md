@@ -34,7 +34,7 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 ---
 ### **RESEARCH 研究方向** <span id="Research"> </span>
 - **Research Interests 研究兴趣** 
-   - Microwave/Millimeter-wave/Terahertz Emission Models & Imaging  微波/毫米波/太赫兹辐射模型与成像
+   - Millimeter-wave/Terahertz Emission, Scattering Models & Imaging  毫米波/太赫兹辐射散射模型与成像
    - Polarization Property; Polarimetric Imaging  极化特性；极化成像
    - Image Interpretation and Processing  图像解译与处理
    - Multi-Source Data Fusion; Physically-Based Information Extraction  多源数据融合；基于物理的信息提取
@@ -75,19 +75,19 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 - Aerospace Science Industry Program of China, ¥300000, Participator，2015-2016
 - Aerospace Science Technology Program of China, ¥250000, Participator，2012-2013  
 <br>
-- **国家自然科学基金青年科学基金**，61901242，29万，**主持**，2020-2022
-- **中国博士后科学基金面上资助**，2019M660640，8万，**主持**，2019-2020
-- **华中科技大学创新研究院技术创新基金**，2017JYCXJJ036，5万，**主持**，2017-2018
-- 国家自然科学基金重点项目，61731007，290万，参与，2019-2020
-- 国家973计划项目，2200万，参与，2014-2017
-- 航天科工横向项目，30 万，参与，2015-2016
-- 航天科技横向项目，25 万，参与，2012-2013
+- **国家自然科学基金青年基金**，61901242，29万，**主持**，在研，2020-2022
+- **中国博士后科学基金面上资助**，2019M660640，8万，**主持**，在研，2019-2020
+- **华中科技大学创新研究院技术创新基金**，2017JYCXJJ036，5万，**主持**，已结题，2017-2018
+- 国家自然科学基金重点项目，61731007，290万，参与，在研，2019-2020
+- 国家973计划项目，2200万，参与，已结题，2014-2017
+- 航天科工横向项目，30 万，参与，已结题，2015-2016
+- 航天科技横向项目，25 万，参与，已结题，2012-2013
 
 ---
 ### **HONORS & AWARDS 荣誉 & 奖励** <span id="Awards"> </span>
 - **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
-- **National Scholarship**, Ministry of Education of China, 2016
-- **National Scholarship**, Ministry of Education of China, 2011
+- **National Scholarship (Doctoral Candidate)**, Ministry of Education of China, 2016
+- **National Scholarship (Undergraduate)**, Ministry of Education of China, 2011
 - **Outstanding Graduate**, Anhui Province, 2012
 - Outstanding Graduate, HFUT, 2012
 - Outstanding Youth League Cadres, HFUT, 2011

@@ -32,7 +32,7 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 ---
 ### **RESEARCH** <span id="Research"> </span>
 - **Research Interests** 
-   - Microwave/Millimeter-wave/Terahertz Emission Models & Imaging  
+   - Microwave/Millimeter-Wave/Terahertz Emission, Scattering Models & Imaging  
    - Polarization Property; Polarimetric Imaging  
    - Image Interpretation and Processing  
    - Multi-Source Data Fusion; Physically-Based Information Extraction  

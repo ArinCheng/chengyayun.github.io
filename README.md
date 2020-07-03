@@ -24,12 +24,12 @@ Script MT Bold
 <img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/>
 
 Ph.D.，Postdoctoral Fellow  
-[<u>Department of Engineering Physics</u>](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [<u>Tsinghua University</u>](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  
+[Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  
 Haidian District, Beijing 100084, P. R. China  
 
 Office: Room 710, Liuqing Building, THU  
 Email: chengyayun@tsinghua.edu.cn (for work); chengyy915@163.com (for research)  
-Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
+Website: [www.chengyayun.cn</Department>](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">
 
@@ -61,16 +61,16 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 ---
 ### **SELECTED PUBLICATIONS** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 - **Journal Papers** 
-   - **Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[<u>Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging</u>](){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Minor Revision, 2020.
-   - **Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[<u>Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening</u>](https://doi.org/10.1364/OE.384029){:target="_blank"},” *Optics Express*, 28(5): 6350-6366, 2020.
-   - **Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[<u>C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing</u>](https://doi.org/10.1364/OL.44.003765){:target="_blank"},” *Optics Letters*, 44(15): 3765-3768, 2019.
-   - **Yayun Cheng**, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, “[<u>Multi-polarization passive millimeter-wave imager and outdoor scene imaging analysis for remote sensing applications</u>](https://doi.org/10.1364/OE.26.020145){:target="_blank"},” *Optics Express*, 26(16): 20145-20159, 2018.
-   - **Yayun Cheng**, Fei Hu, Liangqi Gui* , Liang Wu, and Liang Lang, “[<u>Polarization-based method for object surface orientation information in passive millimeter-wave imaging</u>](https://doi.org/10.1109/JPHOT.2015.2507359){:target="_blank"},” *IEEE Photonics Journal*, 8(1): 5500112, 2016.
-   - **Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[<u>Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material</u>](https://doi.org/10.3788/col201614.062802){:target="_blank"},” *Chinese Optics Letters*, 14(6): 062802, 2016.
-   - **Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[<u>Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging</u>](https://doi.org/10.1049/el.2016.0681){:target="_blank"},” *Electronics Letters*, 52(14): 1221-1223, 2016.
+   - **Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Minor Revision, 2020.
+   - **Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](https://doi.org/10.1364/OE.384029){:target="_blank"},” *Optics Express*, 28(5): 6350-6366, 2020.
+   - **Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](https://doi.org/10.1364/OL.44.003765){:target="_blank"},” *Optics Letters*, 44(15): 3765-3768, 2019.
+   - **Yayun Cheng**, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millimeter-wave imager and outdoor scene imaging analysis for remote sensing applications](https://doi.org/10.1364/OE.26.020145){:target="_blank"},” *Optics Express*, 26(16): 20145-20159, 2018.
+   - **Yayun Cheng**, Fei Hu, Liangqi Gui* , Liang Wu, and Liang Lang, “[Polarization-based method for object surface orientation information in passive millimeter-wave imaging](https://doi.org/10.1109/JPHOT.2015.2507359){:target="_blank"},” *IEEE Photonics Journal*, 8(1): 5500112, 2016.
+   - **Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material](https://doi.org/10.3788/col201614.062802){:target="_blank"},” *Chinese Optics Letters*, 14(6): 062802, 2016.
+   - **Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](https://doi.org/10.1049/el.2016.0681){:target="_blank"},” *Electronics Letters*, 52(14): 1221-1223, 2016.
 - **Conference Papers** 
-   - **Yayun Cheng*** , Ziran Zhao, Yingxin Wang, and Yingying Niu, “[<u>Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging</u>](https://doi.org/10.1109/ICASSP40776.2020.9054207){:target="_blank"},” *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1524-1528, Barcelona, Spain, May 2020.
-   - **Yayun Cheng*** , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[<u>Passive millimeter-wave polarization characteristics of several common structures</u>](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
+   - **Yayun Cheng*** , Ziran Zhao, Yingxin Wang, and Yingying Niu, “[Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging](https://doi.org/10.1109/ICASSP40776.2020.9054207){:target="_blank"},” *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1524-1528, Barcelona, Spain, May 2020.
+   - **Yayun Cheng*** , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[Passive millimeter-wave polarization characteristics of several common structures](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
 
 ---
 ### **RESEARCH GRANTS** <span id="Grants"> </span>
@@ -125,10 +125,10 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 
 ---
 ### **RECOMMENDED REFERENCES** <span id="References"> </span>
-- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [<u>Microwave radar and radiometric remote sensing</u>](https://b-ok.cc/book/5319076/84460a){:target="_blank"}. *University of Michigan Press*, 2014.
-- J. A. Nanzer. [<u>Microwave and millimeter-wave remote sensing for security applications</u>](https://b-ok.cc/book/4983059/c2ac0a){:target="_blank"}. *Artech House*, 2012.
-- N. A. Salmon. [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](https://doi.org/10.1109/TAP.2017.2781742){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, 66(2): 897–908, 2018.
-- L. Yujiri, M. Shoucri, and P. Moffa. [<u>Passive millimeter-wave imaging</u>](https://doi.org/10.1109/MMW.2003.1237476){:target="_blank"}. *IEEE Microwave Magazine*, 4(3): 39–50, 2003.
+- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [Microwave radar and radiometric remote sensing](https://b-ok.cc/book/5319076/84460a){:target="_blank"}. *University of Michigan Press*, 2014.
+- J. A. Nanzer. [Microwave and millimeter-wave remote sensing for security applications](https://b-ok.cc/book/4983059/c2ac0a){:target="_blank"}. *Artech House*, 2012.
+- N. A. Salmon. [Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation](https://doi.org/10.1109/TAP.2017.2781742){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, 66(2): 897–908, 2018.
+- L. Yujiri, M. Shoucri, and P. Moffa. [Passive millimeter-wave imaging](https://doi.org/10.1109/MMW.2003.1237476){:target="_blank"}. *IEEE Microwave Magazine*, 4(3): 39–50, 2003.
 
 ---
 ### **RECOMMENDED LINKS**

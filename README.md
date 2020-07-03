@@ -9,7 +9,7 @@ Script MT Bold
 
 ---
 # **Yayun Cheng 程亚运**
-<img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/>
+<img src='/PhotoYayunCheng.jpg' align='left' style=' width:140px'/>
 <!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
 Ph.D.，Postdoctoral Fellow  

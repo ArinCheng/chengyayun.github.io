@@ -20,13 +20,13 @@
 ---
 ---
 ### **个人简介** <span id="Biography"> </span>
-1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学](http://www.ahhnzx.com/){:target="_blank"}；2012年6月本科毕业于[合肥工业大学](http://www.hfut.edu.cn/){:target="_blank"}(HFUT)，获应用物理学专业理学学士学位；2018年12月博士毕业于[华中科技大学](http://www.hust.edu.cn){:target="_blank"}(HUST)，获电磁场与微波技术专业工学博士学位；2019年1月起，就职于[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)和[危爆物品扫描探测技术国家工程实验室](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}，从事博士后研究工作。
+1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学](http://www.ahhnzx.com/){:target="_blank"}；2012年6月本科毕业于[合肥工业大学](http://www.hfut.edu.cn/){:target="_blank"}(HFUT)，获“应用物理学”专业理学学士学位；2018年12月博士毕业于[华中科技大学](http://www.hust.edu.cn){:target="_blank"}(HUST)，获“电磁场与微波技术”专业工学博士学位；2019年1月起，就职于[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)和[危爆物品扫描探测技术国家工程实验室](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}，从事博士后研究工作。
 
 已发表学术论文30余篇，其中，以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express等期刊上发表SCI论文9篇，国际会议论文4篇；申请发明专利4项，授权2项。
 
 ---
 ### **研究方向** <span id="Research"> </span>
-- 具体方向：**微波/毫米波/太赫兹成像；极化成像；多源数据解译与处理；特征提取与参数反演**  
+- 具体方向：**微波/毫米波辐射与散射；毫米波/太赫兹成像；极化成像；多源数据解译；多特征融合与信息提取**  
 - 涉及知识：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等
 - 应用领域：人身安检、军事探测、地球遥感、行星与深空探测等
 - 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等

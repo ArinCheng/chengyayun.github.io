@@ -27,9 +27,9 @@ Ph.D.，Postdoctoral Fellow
 [Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  
 Haidian District, Beijing 100084, P. R. China  
 
-Office: Room 710, Liuqing Building, THU  
-Email: chengyayun@tsinghua.edu.cn (for work); chengyy915@163.com (for research)  
-Homepages: [www.chengyayun.cn](http://www.chengyayun.cn){:target="_blank"} &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
+Office:&nbsp; Room 710, Liuqing Building, THU  
+Email:&nbsp; chengyayun@tsinghua.edu.cn (for work); chengyy915@163.com (for research)  
+Homepages:&nbsp; [www.chengyayun.cn](http://www.chengyayun.cn){:target="_blank"} ; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">
 

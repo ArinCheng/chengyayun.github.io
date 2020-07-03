@@ -1,4 +1,6 @@
-**YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>English Version</u>](README.md)
+**YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>English Version</u>](README.md)
+
+<!-- **YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>English Version</u>](README.md) -->
 
 ---
 # **程亚运 Yayun Cheng**
@@ -11,7 +13,7 @@
 
 地址：清华大学刘卿楼710室  
 邮箱：chengyayun@tsinghua.edu.cn（工作）; chengyy915@163.com（科研）  
-主页：[<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}
+主页：[<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">
 
@@ -106,16 +108,16 @@
 
 ---
 ### **文献推荐** <span id="References"> </span>
-- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [<u>Microwave radar and radiometric remote sensing</u>](){:target="_blank"}. *University of Michigan Press*, 2014.
-- L. Yujiri, M. Shoucri, and P. Moffa. [<u>Passive millimeter-wave imaging</u>](){:target="_blank"}. *IEEE Microwave Magazine*, 4(3): 39–50, 2003.
-- N. A. Salmon. [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, 66(2): 897–908, 2018.
-- J. A. Nanzer. [<u>Microwave and millimeter-wave remote sensing for security applications</u>](){:target="_blank"}. *Artech House*, 2012.
+- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [<u>Microwave radar and radiometric remote sensing</u>](https://b-ok.cc/book/5319076/84460a){:target="_blank"}. *University of Michigan Press*, 2014.
+- L. Yujiri, M. Shoucri, and P. Moffa. [<u>Passive millimeter-wave imaging</u>](https://doi.org/10.1109/MMW.2003.1237476){:target="_blank"}. *IEEE Microwave Magazine*, 4(3): 39–50, 2003.
+- N. A. Salmon. [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](https://doi.org/10.1109/TAP.2017.2781742){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, 66(2): 897–908, 2018.
+- J. A. Nanzer. [<u>Microwave and millimeter-wave remote sensing for security applications</u>](https://b-ok.cc/book/4983059/c2ac0a){:target="_blank"}. *Artech House*, 2012.
 
 ---
 ### **链接推荐**
 - [<u>Sci-Hub</u>](https://sci-hub.org.cn/){:target="_blank"}: 文献检索
-- [<u>Libgen</u>](http://libgen.li/){:target="_blank"}: 书籍下载
 - [<u>ZLibrary</u>](https://b-ok.cc/){:target="_blank"}: 书籍下载
+- [<u>Libgen</u>](http://libgen.li/){:target="_blank"}: 书籍下载
 - [<u>LetPub</u>](https://www.letpub.com.cn/){:target="_blank"}: 期刊信息
 - [<u>YOLO</u>](https://pjreddie.com/darknet/yolo/){:target="_blank"}: AI目标检测
 

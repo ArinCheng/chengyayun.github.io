@@ -20,7 +20,7 @@ Script MT Bold
 
 &nbsp;&nbsp;&nbsp; Office: Room 710, Liuqing Building, THU  
 &nbsp;&nbsp;&nbsp; Email: chengyayun@tsinghua.edu.cn (for work); chengyy915@163.com (for research)  
-&nbsp;&nbsp;&nbsp; Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"} &nbsp;&nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
+&nbsp;&nbsp;&nbsp; Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <!-- <img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/>
 
@@ -128,16 +128,16 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 
 ---
 ### **RECOMMENDED REFERENCES** <span id="References"> </span>
-- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [<u>Microwave radar and radiometric remote sensing</u>](){:target="_blank"}. *University of Michigan Press*, 2014.
-- L. Yujiri, M. Shoucri, and P. Moffa. [<u>Passive millimeter-wave imaging</u>](){:target="_blank"}. *IEEE Microwave Magazine*, 4(3): 39–50, 2003.
-- N. A. Salmon. [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, 66(2): 897–908, 2018.
-- J. A. Nanzer. [<u>Microwave and millimeter-wave remote sensing for security applications</u>](){:target="_blank"}. *Artech House*, 2012.
+- F. T. Ulaby, D. G. Long, W. J. Blackwell, C. Elachi, A. K. Fung, C. Ruf, K. Sarabandi, H. A. Zebker, and J. Van Zyl. [<u>Microwave radar and radiometric remote sensing</u>](https://b-ok.cc/book/5319076/84460a){:target="_blank"}. *University of Michigan Press*, 2014.
+- L. Yujiri, M. Shoucri, and P. Moffa. [<u>Passive millimeter-wave imaging</u>](https://doi.org/10.1109/MMW.2003.1237476){:target="_blank"}. *IEEE Microwave Magazine*, 4(3): 39–50, 2003.
+- N. A. Salmon. [<u>Outdoor passive millimeter-wave imaging: Phenomenology and scene simulation</u>](https://doi.org/10.1109/TAP.2017.2781742){:target="_blank"}. *IEEE Transactions on Antennas and Propagation*, 66(2): 897–908, 2018.
+- J. A. Nanzer. [<u>Microwave and millimeter-wave remote sensing for security applications</u>](https://b-ok.cc/book/4983059/c2ac0a){:target="_blank"}. *Artech House*, 2012.
 
 ---
 ### **RECOMMENDED LINKS**
 - [Sci-Hub](https://sci-hub.org.cn/){:target="_blank"}: Literature Search
-- [Libgen](http://libgen.li/){:target="_blank"}: Book Download
 - [ZLibrary](https://b-ok.cc/){:target="_blank"}: Book Download
+- [Libgen](http://libgen.li/){:target="_blank"}: Book Download
 - [LetPub](https://www.letpub.com.cn/){:target="_blank"}: Journal Information
 - [YOLO](https://pjreddie.com/darknet/yolo/){:target="_blank"}: AI Real-Time Object Detection
 

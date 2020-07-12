@@ -70,7 +70,9 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
    - **Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](https://doi.org/10.1049/el.2016.0681){:target="_blank"},” *Electronics Letters*, 52(14): 1221-1223, 2016.
 - **Conference Papers** 
    - **Yayun Cheng*** , Ziran Zhao, Yingxin Wang, and Yingying Niu, “[Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging](https://doi.org/10.1109/ICASSP40776.2020.9054207){:target="_blank"},” *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1524-1528, Barcelona, Spain, May 2020.
+   - **Yayun Cheng*** , Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “[Passive terahertz multi-polarization imaging experiments for personal screening application](),” *IEEE International Conference on Plasma Science (ICOPS)*, Accepted, Marina Bay Sands, Singapore, Dec. 2020.
    - **Yayun Cheng*** , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[Passive millimeter-wave polarization characteristics of several common structures](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
+   - **Yayun Cheng*** , Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](https://doi.org/10.1117/12.2239946),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
 
 ---
 ### **RESEARCH GRANTS** <span id="Grants"> </span>

@@ -53,10 +53,10 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
    - Military Detection 
    - Earth Remote Sensing 
    - Planet and Deep Space Exploration 
-- **Software Skills**
+<!-- - **Software Skills**
    - MATLAB, C/C++, Python, etc.
    - HFSS, FEKO, etc.
-   - LaTex, GitHub, etc.
+   - LaTex, GitHub, etc. -->
 
 ---
 ### **SELECTED PUBLICATIONS** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>

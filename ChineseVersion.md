@@ -15,7 +15,7 @@
 
 地址：清华大学刘卿楼710室  
 邮箱：chengyayun@tsinghua.edu.cn（工作）; chengyy915@163.com（科研）  
-主页：[www.chengyayun.cn](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
+主页：[YaYun](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">
 

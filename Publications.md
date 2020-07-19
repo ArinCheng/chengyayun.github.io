@@ -1,4 +1,4 @@
-## **Yayun's Publications 所有论文/专著/专利**
+## **Yayun's Publications 程亚运的论文/专著/专利**
 
 已发表学术论文30余篇，其中，以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express等期刊上发表SCI论文9篇，国际会议论文4篇；申请发明专利4项，授权2项。
 

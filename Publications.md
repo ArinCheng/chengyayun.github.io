@@ -6,7 +6,7 @@
 
 ---
 ### **Journal Papers 期刊论文** (First/Corresponding Author 第一/通讯作者)
-1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](),” *IEEE Transactions on Geoscience and Remote Sensing*, Accepted, 2020.
+1.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](http://www.doi.org/10.1109/TGRS.2020.3011179){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Early Access, 2020.
 2.	**Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](https://doi.org/10.1364/OE.384029),” *Optics Express*, 28(5): 6350-6366, 2020.
 3.	**Yayun Cheng**, Fei Hu, Yan Hu, Ziran Zhao, and Yingxin Wang* , “[C-curve feature of complex permittivity estimation based on multi-polarization measurement in passive millimeter-wave sensing](https://doi.org/10.1364/OL.44.003765),” *Optics Letters*, 44(15): 3765-3768, 2019.
 4.	**Yayun Cheng**, Fei Hu* , Hongfei Wu, Peng Fu, and Yan Hu, “[Multi-polarization passive millimeter-wave imager and outdoor scene imaging analysis for remote sensing applications](https://doi.org/10.1364/OE.26.020145),” *Optics Express*, 26(16): 20145-20159, 2018.

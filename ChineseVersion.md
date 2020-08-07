@@ -26,7 +26,7 @@
 
 近年来专注从事毫米波/太赫兹成像中极化理论、方法和应用研究，作为项目负责人主持[国家自然科学基金](http://www.nsfc.gov.cn/){:target="_blank"}青年基金1项、[中国博士后科学基金](http://jj.chinapostdoctor.org.cn){:target="_blank"}面上资助1项、[中国博士后科学基金](http://jj.chinapostdoctor.org.cn){:target="_blank"}特别资助1项、华中科技大学创新基金1项，曾作为骨干成员参与国家“973计划”、国家自然科学基金重点基金等项目7项。
 
-已发表学术论文30余篇，其中，以第一作者/通讯作者在[IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36){:target="_blank"}、[Optics Letters](https://www.osapublishing.org/ol/home.cfm){:target="_blank"}、[Optics Express](https://www.osapublishing.org/oe/home.cfm){:target="_blank"}等期刊上发表SCI论文9篇，国际会议论文4篇；申请发明专利5项，授权2项。曾获2019年中国电子教育学会“[优秀博士学位论文奖](http://www.cesexd.com/){:target="_blank"}”、“教育部[国家奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046){:target="_blank"}2次”、安徽省“[优秀毕业生](http://jyt.ah.gov.cn/public/7071/39916864.html){:target="_blank"}”、校级“优秀毕业生”等荣誉奖励。
+已发表学术论文30余篇，其中，以第一作者/通讯作者在[IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36){:target="_blank"}、[Optics Letters](https://www.osapublishing.org/ol/home.cfm){:target="_blank"}、[Optics Express](https://www.osapublishing.org/oe/home.cfm){:target="_blank"}等期刊上发表SCI论文9篇，国际会议论文4篇；申请发明专利5项，授权2项。曾获2019年中国电子教育学会“[优秀博士学位论文奖](http://www.cesexd.com/){:target="_blank"}”、教育部“[国家奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046){:target="_blank"}2次”、安徽省“[优秀毕业生](http://jyt.ah.gov.cn/public/7071/39916864.html){:target="_blank"}”、校级“优秀毕业生”等荣誉奖励。
 
 ---
 ### **研究方向** <span id="Research"> </span>

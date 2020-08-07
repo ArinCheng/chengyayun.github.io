@@ -1,4 +1,4 @@
-**YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>English Version</u>](README.md)
+**程亚运的个人主页** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>English Version</u>](README.md)
 
 <!-- **YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>English Version</u>](README.md) -->
 
@@ -26,7 +26,7 @@
 
 近年来专注从事毫米波/太赫兹成像中极化理论、方法和应用研究，作为项目负责人主持国家自然科学基金青年基金1项、中国博士后科学基金面上资助1项、中国博士后科学基金特别资助1项、华中科技大学创新基金1项，曾作为骨干成员参与国家“973计划”、国家自然科学基金重点基金等项目7项。
 
-已发表学术论文30余篇，其中，以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express等期刊上发表SCI论文9篇，国际会议论文4篇；申请发明专利4项，授权2项。曾获2019年中国电子教育学会“优秀博士学位论文奖”、两次“教育部国家奖学金”、“安徽省优秀毕业生”、“校优秀毕业生”等荣誉奖励。
+已发表学术论文30余篇，其中，以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express等期刊上发表SCI论文9篇，国际会议论文4篇；申请发明专利5项，授权2项。曾获2019年中国电子教育学会“优秀博士学位论文奖”、两次“教育部国家奖学金”、“安徽省优秀毕业生”、“校优秀毕业生”等荣誉奖励。
 
 ---
 ### **研究方向** <span id="Research"> </span>

@@ -41,15 +41,18 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 ---
 ### **RESEARCH** <span id="Research"> </span>
 - **Research Interests** 
-   - Microwave/Millimeter-Wave/Terahertz Imaging  
-   - Polarization Imaging  
+   - Microwave/Millimeter-Wave/Terahertz Emission, Scattering & Imaging  
+   - Polarization Property; Polarimetric Imaging  
    - Image Interpretation and Processing  
-   - Physically-Based Information Extraction
-   - Multi-Source Data Fusion  
+   - Multi-Source Data Fusion; Physically-Based Information Extraction  
 - **Professional Knowledges**
    - Electromagnetic Fields and Waves, Microwave Technology, Antenna Technology, etc.
    - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
-
+- **Applications**
+   - Personal Security Inspection 
+   - Military Detection 
+   - Earth Remote Sensing 
+   - Planet and Deep Space Exploration 
 
 <!-- - **Software Skills**
    - MATLAB, C/C++, Python, etc.
@@ -80,8 +83,8 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 - **Innovation Fund of HUST Innovation Institute**, 2017JYCXJJ036, ¥50000, **Principle Investigator**，2017-2018
 - National Natural Science Foundation of China (Key Program)，61731007, ¥2900000, Participator，2019-2020
 - Major Foundation Research Development Program (973 Program), ¥22000000, Participator，2014-2017
-- Application Program, ¥300000, Participator，2015-2016
-- Application Program, ¥250000, Participator，2012-2013
+- Aerospace Science Industry Program of China, ¥300000, Participator，2015-2016
+- Aerospace Science Technology Program of China, ¥250000, Participator，2012-2013
 
 ---
 ### **HONORS & AWARDS** <span id="Awards"> </span>
@@ -121,7 +124,6 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
   - IEEE Geoscience and Remote Sensing Letters
   - IEEE Access
   - Optics Express
-  - Applied Optics
   - Journal of Infrared, Millimeter and Terahertz Wave
   - Journal on Image and Video Processing
 

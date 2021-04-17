@@ -44,15 +44,15 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 
 ---
 ### **RESEARCH** <span id="Research"> </span>
-- **Research Interests** 
+<!-- - **Research Interests**  -->
    - Microwave/Millimeter-Wave/Terahertz Imaging  
    - Polarization Imaging  
    - Image Interpretation and Processing  
-   - Physically-Based Information Extraction
-   - Multi-Source Data Fusion  
-- **Professional Knowledges**
+   - Multi-Source Data Fusion 
+   - Intelligent Information Extraction
+<!-- - **Professional Knowledges**
    - Electromagnetic Fields and Waves, Microwave Technology, Antenna Technology, etc.
-   - Microwave Remote Sensing, Image Processing, Manchine Learning, etc.
+   - Microwave Remote Sensing, Image Processing, Manchine Learning, etc. -->
 
 
 <!-- - **Software Skills**

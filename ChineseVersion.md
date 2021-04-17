@@ -4,12 +4,12 @@
 
 
 ---
-<img src='/PhotoLife.jpg' align='right' style=' width:203px'/>
+<img src='/PhotoLife1.jpg' align='right' style=' width:230px'/>
 # **程亚运 Yayun Cheng**
 <!-- <img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/> -->
 <!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
-博士，助理研究员（博士后）   
+博士，助理研究员/博士后  
 [工程物理系](http://www.ep.tsinghua.edu.cn/){:target="_blank"}，[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}  
 中国北京市海淀区100084
 
@@ -24,16 +24,17 @@
 ### **个人简介** <span id="Biography"> </span>
 1990年9月生于安徽省安庆市；2008年6月高中毕业于安徽省[怀宁中学](http://www.ahhnzx.com/){:target="_blank"}；2012年6月本科毕业于[合肥工业大学](http://www.hfut.edu.cn/){:target="_blank"}(HFUT)，获“应用物理学”专业理学学士学位；2018年12月博士毕业于[华中科技大学](http://www.hust.edu.cn){:target="_blank"}(HUST)，获“电磁场与微波技术”专业工学博士学位；2019年1月起，就职于[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)和[危爆物品扫描探测技术国家工程实验室](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}，从事博士后研究工作。
 
-近年来专注从事毫米波/太赫兹成像中极化理论、方法和应用研究，作为项目负责人主持[国家自然科学基金](http://www.nsfc.gov.cn/){:target="_blank"}青年基金1项、[中国博士后科学基金](http://jj.chinapostdoctor.org.cn){:target="_blank"}面上资助1项、[中国博士后科学基金](http://jj.chinapostdoctor.org.cn){:target="_blank"}特别资助1项、华中科技大学创新基金1项，曾作为骨干成员参与国家“973计划”、国家自然科学基金重点基金等项目7项。
+近年来专注从事毫米波/太赫兹成像中极化理论、方法和应用研究，作为项目负责人主持[国家自然科学基金青年基金](http://www.nsfc.gov.cn/){:target="_blank"}1项、[中国博士后科学基金面上资助](http://jj.chinapostdoctor.org.cn){:target="_blank"}1项、[中国博士后科学基金特别资助](http://jj.chinapostdoctor.org.cn){:target="_blank"}1项、华中科技大学创新基金1项，曾作为骨干成员参与国家“973计划”、国家自然科学基金重点基金等项目7项。
 
-已发表学术论文30余篇，其中，以第一作者/通讯作者在[IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36){:target="_blank"}、[Optics Letters](https://www.osapublishing.org/ol/home.cfm){:target="_blank"}、[Optics Express](https://www.osapublishing.org/oe/home.cfm){:target="_blank"}等期刊上发表SCI论文9篇，国际会议论文4篇；申请发明专利5项，授权2项。曾获2019年中国电子教育学会“[优秀博士学位论文奖](http://www.cesexd.com/){:target="_blank"}”、教育部“[国家奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046){:target="_blank"}”2次、安徽省“[优秀毕业生](http://jyt.ah.gov.cn/public/7071/39916864.html){:target="_blank"}”、校级“优秀毕业生”等荣誉奖励。
+已发表学术论文30余篇，其中，以第一作者/通讯作者在[IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36){:target="_blank"}、[Optics Letters](https://www.osapublishing.org/ol/home.cfm){:target="_blank"}、[Optics Express](https://www.osapublishing.org/oe/home.cfm){:target="_blank"}等期刊上发表SCI论文12篇，国际会议论文4篇；申请发明专利5项，授权2项，知识产权入股1项。曾获2019年中国电子教育学会“[优秀博士学位论文奖](http://www.cesexd.com/){:target="_blank"}”、教育部“[国家奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046){:target="_blank"}”2次、安徽省“[优秀毕业生](http://jyt.ah.gov.cn/public/7071/39916864.html){:target="_blank"}”、校级“优秀毕业生”等荣誉奖励。
 
 ---
 ### **研究方向** <span id="Research"> </span>
-- 具体方向：**微波/毫米波辐射与散射；毫米波/太赫兹成像；极化成像；多源数据解译；多特征融合与信息提取**  
-- 专业基础：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等
-- 应用领域：人体安检、军事探测、地球遥感、行星与深空探测等
-- 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等
+电磁辐射与散射；毫米波/太赫兹成像；极化成像；图像解译与处理；多源数据融合；智能信息提取
+<!-- - 具体方向：**微波/毫米波辐射与散射；毫米波/太赫兹成像；极化成像；多源数据解译；多特征融合与信息提取**   -->
+<!-- - 专业基础：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等 -->
+<!-- - 应用领域：人体安检、军事探测、地球遥感、行星与深空探测等
+- 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等 -->
 
 <!--### 工作经历
 2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->

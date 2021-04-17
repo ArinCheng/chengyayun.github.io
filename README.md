@@ -10,7 +10,8 @@ Script MT Bold
 <!-- <div style="width:35px; height:25px; border:1px solid green; position:fixed; right:122px; bottom:52px;"></div> -->
 <!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 ---
-<img src='/PhotoLife.jpg' align='center' style=' width:200px'/>
+<img src='/PhotoLife1.jpg' align='center' style=' width:200px'/>
+
 # **Yayun Cheng 程亚运**
 <!-- <img src='/PhotoYayunCheng.jpg' align='left' style=' width:140px'/>
 

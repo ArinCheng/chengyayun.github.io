@@ -2,7 +2,7 @@
 [**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论著**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md)
 
 ---
-<img src='/PhotoLife1.jpg' align='right' style=' width:250px'/>
+<img src='/PhotoLife.jpg' align='right' style=' width:250px'/>
 # **程亚运**
 
 博士，助理研究员/博士后  

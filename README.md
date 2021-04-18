@@ -30,7 +30,7 @@ Dr. Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Appl
    - Intelligent Information Extraction
 
 
-### **SELECTED PUBLICATIONS** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
+### **SELECTED PUBLICATIONS** [[Full List]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 ---
 - **Journal Papers** 
    - **Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](http://www.doi.org/10.1109/TGRS.2020.3011179){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Early Access, 2020.

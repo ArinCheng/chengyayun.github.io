@@ -4,7 +4,7 @@
 
 
 ---
-<div style="align: center">
+<!-- <div style="align: center"> -->
 <img src='/PhotoLife1.jpg' align='right' style=' width:230px'/>
 # **程亚运 Yayun Cheng**
 <!-- <img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/> -->

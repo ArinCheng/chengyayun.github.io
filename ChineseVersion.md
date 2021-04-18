@@ -1,5 +1,5 @@
 <!-- **<font face="Comic Sans MS" color=Bule>个人主页</font>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论文**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md) -->
-** [**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论文**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md)
+[**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论著**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md)
 
 ---
 <img src='/PhotoLife1.jpg' align='right' style=' width:250px'/>
@@ -31,7 +31,7 @@
 
 
 
-### **代表论文** [[<u>所有论文</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
+### **代表论文** [[所有论文]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 ---
 - **期刊论文** 
    - **Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](http://www.doi.org/10.1109/TGRS.2020.3011179){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Early Access, 2020.
@@ -42,10 +42,10 @@
    - **Yayun Cheng**, Fei Hu, Feng He* , Liang Wu, and Xiaoqin He, “[Millimeter-wave emission characteristics of bilayer radar-infrared compound stealth material](https://doi.org/10.3788/col201614.062802){:target="_blank"},” *Chinese Optics Letters*, 14(6): 062802, 2016.
    - **Yayun Cheng**, Fei Hu* , Liangqi Gui, Jinlong Su, Bo Qi, Siyuan Liu, and Manman Huang, “[Linear polarisation property and fusion method for target recognition in passive millimeter-wave polarimetric imaging](https://doi.org/10.1049/el.2016.0681){:target="_blank"},” *Electronics Letters*, 52(14): 1221-1223, 2016.
 - **会议论文** 
-   - **Yayun Cheng*** , Ziran Zhao, Yingxin Wang, and Yingying Niu, “[Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging](https://doi.org/10.1109/ICASSP40776.2020.9054207){:target="_blank"},” *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1524-1528, Barcelona, Spain, May 2020.
-   - **Yayun Cheng*** , Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “[Passive terahertz multi-polarization imaging experiments for personal screening application](),” *IEEE International Conference on Plasma Science (ICOPS)*, Accepted, Marina Bay Sands, Singapore, Dec. 2020.
-   - **Yayun Cheng*** , Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[Passive millimeter-wave polarization characteristics of several common structures](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
-   - **Yayun Cheng*** , Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](https://doi.org/10.1117/12.2239946),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
+   - **Yayun Cheng**, Ziran Zhao, Yingxin Wang, and Yingying Niu, “[Multi-polarization information fusion for object contour display in passive millimeter-wave and terahertz security imaging](https://doi.org/10.1109/ICASSP40776.2020.9054207){:target="_blank"},” *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1524-1528, Barcelona, Spain, May 2020.
+   - **Yayun Cheng**, Jian Lu, Yan You, Lingbo Qiao, Yingxin Wang, and Ziran Zhao, “[Passive terahertz multi-polarization imaging experiments for personal screening application](),” *IEEE International Conference on Plasma Science (ICOPS)*, Accepted, Marina Bay Sands, Singapore, Dec. 2020.
+   - **Yayun Cheng**, Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[Passive millimeter-wave polarization characteristics of several common structures](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
+   - **Yayun Cheng**, Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](https://doi.org/10.1117/12.2239946),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
 
 
 ### **科研项目** <span id="Grants"> </span>

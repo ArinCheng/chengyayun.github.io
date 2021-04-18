@@ -14,7 +14,7 @@ Script MT Bold
 <!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
 <!-- <div style="align: center"> -->
-<img src='/PhotoLife1.jpg' align='right' style=' width:230px'/>
+<img src='/PhotoLife1.jpg' align='right' style=' width:250px'/>
 # **Yayun Cheng 程亚运**
 <!-- <img src='/PhotoYayunCheng.jpg' align='left' style=' width:140px'/>-->
 

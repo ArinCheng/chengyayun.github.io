@@ -1,15 +1,11 @@
-**<font face="Comic Sans MS" color=Bule>个人主页</font>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论文**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md)
+<!-- **<font face="Comic Sans MS" color=Bule>个人主页</font>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论文**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md) -->
 
-<!-- **YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>English Version</u>](README.md) -->
-
-<!-- [<u>**学术活动**</u>](#Activities) &nbsp; [<u>**文献推荐**</u>](#References) &nbsp;  -->
+** [**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论文**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md)
 
 ---
-<!-- <div style="align: center"> -->
+
 <img src='/PhotoLife1.jpg' align='right' style=' width:250px'/>
 # **程亚运**
-<!-- <img src='/PhotoYayunCheng.jpg' align='right' style=' width:140px'/> -->
-<!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
 
 博士，助理研究员/博士后  
 [工程物理系](http://www.ep.tsinghua.edu.cn/){:target="_blank"}，[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}  

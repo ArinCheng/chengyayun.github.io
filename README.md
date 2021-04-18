@@ -1,31 +1,8 @@
 **<font face="Comic Sans MS" color=Bule>YAYUN'S HOMEPAGE</font>** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Biography**](#Biography)  &nbsp; [**Research**](#Research) &nbsp; [**Publications**](#Publications) &nbsp; [**Grants**](#Grants) &nbsp; [**Awards**](#Awards) &nbsp; [**中文版**](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
 
-<!-- [<table><tr><td bgcolor=#00d000>**Biography**</td></tr></table>](#Biography) -->
-
-
-<!-- **YAYUN'S HOMEPAGE** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>References</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span> -->
-
-<!-- [<u>**Activities**</u>](#Activities) &nbsp; [<u>**References**</u>](#References) &nbsp;  -->
-
-<!-- <div style="width:35px; height:25px; border:1px solid green; position:fixed; right:122px; bottom:52px;"></div>
-<img style="position:absolute;margin-left:900px" src="/PhotoLife1.jpg" width="140" alt="Photo"> -->
 ---
-<!-- <div style="width:35px; height:25px; border:1px solid green; position:fixed; right:122px; bottom:52px;"></div> -->
-<!-- <img style="position:absolute;margin-left:900px" src="/PhotoYayunCheng.jpg" width="140" alt="Photo"> -->
-
-<!-- <div style="align: center"> -->
 <img src='/PhotoLife1.jpg' align='right' style=' width:250px'/>
 # **Yayun Cheng 程亚运**
-<!-- <img src='/PhotoYayunCheng.jpg' align='left' style=' width:140px'/>-->
-
-<!-- &nbsp;&nbsp;&nbsp; Ph.D.，Postdoctoral Fellow  
-&nbsp;&nbsp;&nbsp; [<u>Department of Engineering Physics</u>](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [<u>Tsinghua University</u>](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  
-&nbsp;&nbsp;&nbsp; Haidian District, Beijing 100084, P. R. China  
-
-&nbsp;&nbsp;&nbsp; Office: Room 710, Liuqing Building, THU  
-&nbsp;&nbsp;&nbsp; Email: chengyayun@tsinghua.edu.cn (for work); chengyy915@163.com (for research)  
-&nbsp;&nbsp;&nbsp; Website: [<u>www.chengyayun.cn</u>](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}  -->
-
 
 Ph.D.，Postdoctoral Research Associate  
 [Department of Engineering Physics](http://www.ep.tsinghua.edu.cn/){:target="_blank"}, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)  
@@ -40,18 +17,21 @@ Homepages:&nbsp; [ThisSite](http://www.chengyayun.cn){:target="_blank"}; [Resear
 ---
 ---
 ### **BIOGRAPHY** <span id="Biography"> </span>
+---
 Dr. Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology](http://www.hfut.edu.cn/){:target="_blank"} (HFUT), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST), Wuhan, China, in 2018. He is currently a Postdoctoral Research Associate with the Department of Engineering Physics, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU), Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}, Beijing, China, since 2019.
 
----
+
 ### **RESEARCH** <span id="Research"> </span>
+---
    - Microwave/Millimeter-Wave/Terahertz Imaging  
    - Polarization Imaging  
    - Image Interpretation and Processing  
    - Multi-Source Data Fusion 
    - Intelligent Information Extraction
 
----
+
 ### **SELECTED PUBLICATIONS** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>
+---
 - **Journal Papers** 
    - **Yayun Cheng**, Yingxin Wang, Yingying Niu, Harvey Rutt, and Ziran Zhao* , “[Physically-based object contour edge display using adjustable linear polarization ratio for passive millimeter-wave security imaging](http://www.doi.org/10.1109/TGRS.2020.3011179){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Early Access, 2020.
    - **Yayun Cheng**, Yingxin Wang, Yingying Niu, and Ziran Zhao* , “[Concealed object enhancement using multi-polarization information for passive millimeter and terahertz wave security screening](https://doi.org/10.1364/OE.384029){:target="_blank"},” *Optics Express*, 28(5): 6350-6366, 2020.
@@ -66,7 +46,7 @@ Dr. Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Appl
    - **Yayun Cheng**, Fei Hu, Liangqi Gui, Yan Hu, and Zhuoting Han, “[Passive millimeter-wave polarization characteristics of several common structures](https://doi.org/10.1117/12.2270947),” *Proceedings of SPIE*, vol. 10407, San Diego, United States, Aug. 2017.
    - **Yayun Cheng**, Bo Qi, Siyuan Liu, Fei Hu, Liangqi Gui , Xiaohui Peng, Jinlong Su, Manman Huang, and Xinyi Zhang, “[Polarization ratio property and material classification method in passive millimeter-wave polarimetric imaging](https://doi.org/10.1117/12.2239946),” *Proceedings of SPIE*, vol. 9993, Edinburgh, United Kingdom, Oct. 2016.
 
----
+
 ### **RESEARCH GRANTS** <span id="Grants"> </span>
 - 2020-2022, **National Natural Science Foundation of China (Young Program)**, 61901242, ¥290000, **Principle Investigator**
 - 2020-2021, **China Postdoctoral Science Foundation (Special Program)**, 2020T130338, ¥180000, **Principle Investigator**

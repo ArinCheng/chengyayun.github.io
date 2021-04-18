@@ -1,13 +1,8 @@
-**YAYUN'S HOMEPAGE** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>**Biography**</u>](#Biography) &nbsp; [<u>**Research**</u>](#Research) &nbsp; [<u>**Publications**</u>](#Publications) &nbsp; [<u>**Grants**</u>](#Grants) &nbsp; [<u>**Awards**</u>](#Awards) &nbsp; [<u>**中文版**</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
+**<font face="Comic Sans MS" color=Bule>YAYUN'S HOMEPAGE</font>** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>**Biography**</u>](#Biography) &nbsp; [<u>**Research**</u>](#Research) &nbsp; [<u>**Publications**</u>](#Publications) &nbsp; [<u>**Grants**</u>](#Grants) &nbsp; [<u>**Awards**</u>](#Awards) &nbsp; [<u>**中文版**</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
 
 <!-- **YAYUN'S HOMEPAGE** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>References</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span> -->
 
 <!-- [<u>**Activities**</u>](#Activities) &nbsp; [<u>**References**</u>](#References) &nbsp;  -->
-
-<!-- <font face="Comic Sans MS" color=black>YAYUN'S HOMEPAGE</font>
-<img style="position:absolute;margin-center:900px" src="/THU.jpg" width="40" alt="Photo"> 
-Script MT Bold
--->
 
 <!-- <div style="width:35px; height:25px; border:1px solid green; position:fixed; right:122px; bottom:52px;"></div>
 <img style="position:absolute;margin-left:900px" src="/PhotoLife1.jpg" width="140" alt="Photo"> -->

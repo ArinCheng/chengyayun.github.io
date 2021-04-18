@@ -1,6 +1,8 @@
-**YAYUN'S HOMEPAGE** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>References</u>](#References) &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
+**YAYUN'S HOMEPAGE** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>**Biography**</u>](#Biography) &nbsp; [<u>**Research**</u>](#Research) &nbsp; [<u>**Publications**</u>](#Publications) &nbsp; [<u>**Grants**</u>](#Grants) &nbsp; [<u>**Awards**</u>](#Awards) &nbsp; [<u>**中文版**</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
 
 <!-- **YAYUN'S HOMEPAGE** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>Biography</u>](#Biography) &nbsp; [<u>Research</u>](#Research) &nbsp; [<u>Publications</u>](#Publications) &nbsp; [<u>Grants</u>](#Grants) &nbsp; [<u>Awards</u>](#Awards) &nbsp; [<u>Activities</u>](#Activities) &nbsp; [<u>References</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>中文版</u>](ChineseVersion.md){:target="_blank"} <span id="Top"> </span> -->
+
+<!-- [<u>**Activities**</u>](#Activities) &nbsp; [<u>**References**</u>](#References) &nbsp;  -->
 
 <!-- <font face="Comic Sans MS" color=black>YAYUN'S HOMEPAGE</font>
 <img style="position:absolute;margin-center:900px" src="/THU.jpg" width="40" alt="Photo"> 
@@ -44,21 +46,11 @@ Yayun Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Ap
 
 ---
 ### **RESEARCH** <span id="Research"> </span>
-<!-- - **Research Interests**  -->
    - Microwave/Millimeter-Wave/Terahertz Imaging  
    - Polarization Imaging  
    - Image Interpretation and Processing  
    - Multi-Source Data Fusion 
    - Intelligent Information Extraction
-<!-- - **Professional Knowledges**
-   - Electromagnetic Fields and Waves, Microwave Technology, Antenna Technology, etc.
-   - Microwave Remote Sensing, Image Processing, Manchine Learning, etc. -->
-
-
-<!-- - **Software Skills**
-   - MATLAB, C/C++, Python, etc.
-   - HFSS, FEKO, etc.
-   - LaTex, GitHub, etc. -->
 
 ---
 ### **SELECTED PUBLICATIONS** [[<u>Full List</u>]](Publications.md){:target="_blank"} <span id="Publications"> </span>

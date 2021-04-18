@@ -1,7 +1,8 @@
-**程亚运的个人主页** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>English Version</u>](README.md)
+**程亚运的个人主页** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>**个人简介**</u>](#Biography) &nbsp; [<u>**研究方向**</u>](#Research) &nbsp; [<u>**学术论文**</u>](#Publications) &nbsp; [<u>**科研项目**</u>](#Grants) &nbsp; [<u>**荣誉奖励**</u>](#Awards) &nbsp; [<u>**English Version**</u>](README.md)
 
 <!-- **YAYUN'S HOMEPAGE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<u>个人简介</u>](#Biography) &nbsp; [<u>研究方向</u>](#Research) &nbsp; [<u>学术论文</u>](#Publications) &nbsp; [<u>科研项目</u>](#Grants) &nbsp; [<u>荣誉奖励</u>](#Awards) &nbsp; [<u>学术活动</u>](#Activities) &nbsp; [<u>文献推荐</u>](#References) &nbsp; [<u>ResearchGate</u>](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"} &nbsp; [<u>English Version</u>](README.md) -->
 
+<!-- [<u>**学术活动**</u>](#Activities) &nbsp; [<u>**文献推荐**</u>](#References) &nbsp;  -->
 
 ---
 <!-- <div style="align: center"> -->
@@ -32,10 +33,10 @@
 ---
 ### **研究方向** <span id="Research"> </span>
 电磁辐射与散射；毫米波/太赫兹成像；极化成像；图像解译与处理；多源数据融合；智能信息提取
+
 <!-- - 具体方向：**微波/毫米波辐射与散射；毫米波/太赫兹成像；极化成像；多源数据解译；多特征融合与信息提取**   -->
 <!-- - 专业基础：电磁场与电磁波、微波遥感、微波技术、天线技术、图像处理、机器学习等 -->
-<!-- - 应用领域：人体安检、军事探测、地球遥感、行星与深空探测等
-- 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等 -->
+<!-- - 应用领域：人体安检、军事探测、地球遥感、行星与深空探测等 - 专业工具：MATLAB、C/C++、Python、HFSS、FEKO、LaTex、GitHub等 -->
 
 <!--### 工作经历
 2019.01 – 2021.01 清华大学 博士后 合作导师：赵自然研究员-->

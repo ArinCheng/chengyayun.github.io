@@ -23,6 +23,16 @@
 
 作为项目负责人主持[国家自然科学基金青年基金](http://www.nsfc.gov.cn/){:target="_blank"}、[中国博士后科学基金面上和特别资助](http://jj.chinapostdoctor.org.cn){:target="_blank"}等项目4项，作为骨干成员参与国家“973计划”、国家自然科学基金重点基金等项目7项。已发表学术论文30余篇，其中，以第一作者/通讯作者在[IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36){:target="_blank"}、[Optics Letters](https://www.osapublishing.org/ol/home.cfm){:target="_blank"}、[Optics Express](https://www.osapublishing.org/oe/home.cfm){:target="_blank"}等期刊上发表SCI论文12篇，国际会议论文4篇；申请发明专利5项，授权2项，知识产权入股1项。曾获2019年中国电子教育学会“[优秀博士学位论文奖](http://www.cesexd.com/){:target="_blank"}”、教育部“[国家奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046){:target="_blank"}”2次、安徽省“[优秀毕业生](http://jyt.ah.gov.cn/public/7071/39916864.html){:target="_blank"}”、校级“优秀毕业生”等荣誉奖励。
 
+### **工作经历** <span id="Research"> </span>
+---
+- 2021.06-今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 哈尔滨工业大学，电子与信息工程学院，副教授
+- 2019.01-2021.05 &nbsp; 清华大学，工程物理系/危爆物品扫描探测技术国家工程实验室，博士后（合作导师：赵自然研究员）
+
+### **教育背景** <span id="Research"> </span>
+---
+- 2014.09-2018.12 &nbsp; 华中科技大学，电磁场与微波技术，博士（导师：胡飞教授、桂良启教授）
+- 2012.09-2014.08 &nbsp; 华中科技大学，电磁场与微波技术，硕士（导师：胡飞教授）
+- 2008.09-2012.06 &nbsp; 合肥工业大学，应用物理学，本科 
 
 ### **研究方向** <span id="Research"> </span>
 ---

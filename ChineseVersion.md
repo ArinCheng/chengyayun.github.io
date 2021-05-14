@@ -25,7 +25,7 @@
 
 ### **工作经历** <span id="Research"> </span>
 ---
-- 2021.06-今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 哈尔滨工业大学，电子与信息工程学院，副教授
+- 2021.06-.今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 哈尔滨工业大学，电子与信息工程学院，副教授
 - 2019.01-2021.05 &nbsp; 清华大学，工程物理系/危爆物品扫描探测技术国家工程实验室，博士后
 
 ### **教育背景** <span id="Research"> </span>

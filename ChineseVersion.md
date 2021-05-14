@@ -5,7 +5,7 @@
 <img src='/PhotoLife.jpg' align='right' style=' width:250px'/>
 # **程亚运**
 
-博士，助理研究员/博士后 
+博士，助理研究员/博士后  
 [工程物理系](http://www.ep.tsinghua.edu.cn/){:target="_blank"}，[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}  
 中国北京市海淀区100084
 

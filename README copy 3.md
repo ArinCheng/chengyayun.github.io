@@ -1,7 +1,7 @@
 **<font face="Comic Sans MS" color=Bule>YAYUN'S HOMEPAGE</font>** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Biography**](#Biography)  &nbsp; [**Research**](#Research) &nbsp; [**Publications**](#Publications) &nbsp; [**Grants**](#Grants) &nbsp; [**Awards**](#Awards) &nbsp; [**中文版**](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
 
 ---
-<img src='/PhotoLife.jpg' align='right' style=' width:220px'/>
+<img src='/PhotoLife.jpg' align='right' style=' width:210px'/>
 # **Yayun Cheng 程亚运**
 
 Ph.D.，Postdoctoral Research Associate  

@@ -1,5 +1,7 @@
 ## **Yayun's Publications 论文/专著/专利**
 
+已发表学术论文30余篇，其中，以第一作者/通讯作者在IEEE TGRS、Optics Letters、Optics Express等期刊上发表SCI论文12篇，国际会议论文4篇；申请发明专利5项，授权2项。
+
 >  " * " 表示通讯作者
 
 ---

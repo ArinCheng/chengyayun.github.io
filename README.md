@@ -1,4 +1,4 @@
-**<font face="Comic Sans MS" color=Bule>YAYUN'S HOMEPAGE</font>** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Biography**](#Biography)  &nbsp; [**Research**](#Research) &nbsp; [**Publications**](#Publications) &nbsp; [**Grants**](#Grants) &nbsp; [**Awards**](#Awards) &nbsp; [**中文版**](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
+**<font face="Comic Sans MS" color=Bule>YAYUN'S HOMEPAGE</font>** &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Publications**](#Publications) &nbsp; [**Grants**](#Grants) &nbsp; [**Awards**](#Awards) &nbsp; [**中文版**](ChineseVersion.md){:target="_blank"} <span id="Top"> </span>
 
 ---
 <img src='/PhotoLife.jpg' align='right' style=' width:210px'/>
@@ -16,9 +16,16 @@ Homepages:&nbsp; [ThisSite](http://www.chengyayun.cn){:target="_blank"}; [Resear
 
 ---
 
-### **BIOGRAPHY** <span id="Biography"> </span>
+### **Experience**
 ---
-Dr. Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Applied Physics from [Hefei University of Technology](http://www.hfut.edu.cn/){:target="_blank"} (HFUT), Hefei, China, in 2012, and the Ph.D. degree in Electronic Engineering from [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST), Wuhan, China, in 2018. His Ph.D. supervisors were [Prof. Fei Hu](http://eic.hust.edu.cn/professor/hufei){:target="_blank"} and [Prof. Liangqi Gui](http://eic.hust.edu.cn/professor/guiliangqi){:target="_blank"}. He is currently a Postdoctoral Research Associate with the Department of Engineering Physics, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU), Beijing, China and also with the [National Engineering Laboratory for Dangerous Articles and Explosives Detection Technologies](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}, Beijing, China, since 2019. His postdoctoral co-supervisor was [Prof. Ziran Zhao](http://www.ep.tsinghua.edu.cn/essay/32/493.html){:target="_blank"}.
+- 2021.06-present, Associate Professor, School of Electronics and Information Engineering, [Harbin Institute of Technology](http://www.hit.edu.cn/){:target="_blank"} (HIT)
+- 2019.01-2021.05, Postdoctoral Fellow, Department of Engineering Physics, [Tsinghua University](http://www.tsinghua.edu.cn/){:target="_blank"} (THU)
+
+### **Education**
+---
+- 2014.09-2018.12, Ph.D., Electromagnetic Field and Microwave Technology, [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST)
+- 2012.09-2014.08, M.D., Electromagnetic Field and Microwave Technology, [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST)
+- 2008.09-2012.06, M.D., Applied Physics, [Hefei University of Technology](http://www.hfut.edu.cn/){:target="_blank"} (HFUT)
 
 
 ### **RESEARCH** <span id="Research"> </span>
@@ -55,40 +62,36 @@ Dr. Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Appl
 
 ### **RESEARCH GRANTS** <span id="Grants"> </span>
 ---
-- 2020-2022, **National Natural Science Foundation of China (Young Program)**, 61901242, ¥290000, **Principle Investigator**
-- 2020-2021, **China Postdoctoral Science Foundation (Special Program)**, 2020T130338, ¥180000, **Principle Investigator**
-- 2019-2021, **China Postdoctoral Science Foundation (General Program)**, 2019M660640, ¥80000, **Principle Investigator**
-- 2017-2018, **Innovation Fund of HUST Innovation Institute**, 2017JYCXJJ036, ¥50000, **Principle Investigator**
-- 2014-2017, Major Foundation Research Development Program (973 Program), ¥22000000, Participator
-- 2018-2022, National Natural Science Foundation of China (Key Program)，61731007, ¥2900000, Participator
-- 2017-2020, National Natural Science Foundation of China (Joint Key Program)，U1633202, ¥2080000, Participator
-- 2019-2022, National Natural Science Foundation of China (General Program)，61871438, ¥6300000, Participator
-- 2018-2021, National Natural Science Foundation of China (General Program)，61771213, ¥6700000, Participator
-- 2015-2016, Application Program, ¥300000, Participator
-- 2012-2013, Application Program, ¥250000, Participator
+- 2020-2022, **National Natural Science Foundation of China (Young Program)**, 61901242, **Principle Investigator**
+- 2020-2021, **China Postdoctoral Science Foundation (Special Program)**, 2020T130338, **Principle Investigator**
+- 2019-2021, **China Postdoctoral Science Foundation (General Program)**, 2019M660640, **Principle Investigator**
+- 2017-2018, **Innovation Fund of HUST Innovation Institute**, 2017JYCXJJ036, **Principle Investigator**
+- 2014-2017, Major Foundation Research Development Program (973 Program), Participator
+- 2018-2022, National Natural Science Foundation of China (Key Program), 61731007, Participator
+- 2017-2020, National Natural Science Foundation of China (Joint Key Program), U1633202, Participator
+- 2019-2022, National Natural Science Foundation of China (General Program), 61871438, Participator
+- 2018-2021, National Natural Science Foundation of China (General Program), 61771213, Participator
+- 2015-2016, Application Program, Participator
+- 2012-2013, Application Program, Participator
 
 
 ### **HONORS & AWARDS** <span id="Awards"> </span>
 ---
-- **Excellent Doctoral Dissertation**, China Education Society of Electronics, 2019
-- **National Scholarship**, Ministry of Education of China, 2016
-- **National Scholarship**, Ministry of Education of China, 2011
-- **Outstanding Graduate**, Anhui Province, 2012
+- Excellent Doctoral Dissertation, China Education Society of Electronics, 2019
+- National Scholarship, Ministry of Education of China, 2016
+- National Scholarship, Ministry of Education of China, 2011
+- Outstanding Graduate, Anhui Province, 2012
 - Outstanding Graduate, HFUT, 2012
-- Outstanding Youth League Cadres, HFUT, 2011
-- Excellent Merit Student, HFUT, 2010
-- Full Scholarship for Study, 7 times, HUST, 2012-2018
-- School Scholarship, 5 times, HFUT/HUST, 2009-2017
-- Merit Student/Graduate, 3 times, HFUT/HUST, 2009-2016
 
 
 ### **PROFESSIONAL ACTIVITIES** <span id="Activities"> </span>
 ---
 - **Society Member**
-  - IEEE / SPIE
+  - IEEE
   - IEEE Geoscience and Remote Sensing Society
   - IEEE Microwave Theory and Techniques Society
   - IEEE Signal Processing Society
+  - SPIE
   - Chinese Institute of Electronics
   - China Education Society of Electronics 
 - **Academic Conferences**
@@ -109,6 +112,7 @@ Dr. Cheng was born in Anhui, China, in 1990. He received the B.S. degree in Appl
   - IEEE Geoscience and Remote Sensing Letters
   - IEEE Access
   - Optics Express
+  - Optics Material Express
   - Applied Optics
   - Journal of Infrared, Millimeter and Terahertz Wave
   - Journal on Image and Video Processing

@@ -19,8 +19,8 @@
 
 ### **工作经历** <span id="Research"> </span>
 ---
-- 2021.06-今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [哈尔滨工业大学](http://www.hit.edu.cn/){:target="_blank"} (HIT)，电子与信息工程学院，副教授
-- 2019.01-2021.05 &nbsp; [清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)，工程物理系/危爆物品扫描探测技术国家工程实验室，博士后
+- 2021.06-今 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [哈尔滨工业大学](http://www.hit.edu.cn/){:target="_blank"} (HIT)，[电子与信息工程学院](http://seie.hit.edu.cn/){:target="_blank"}，副教授
+- 2019.01-2021.05 &nbsp; [清华大学](http://www.tsinghua.edu.cn){:target="_blank"}(THU)，[工程物理系](http://www.ep.tsinghua.edu.cn/){:target="_blank"}/[危爆物品扫描探测技术国家工程实验室](http://www.ep.tsinghua.edu.cn/column/21.html){:target="_blank"}，博士后
 
 ### **教育背景** <span id="Research"> </span>
 ---

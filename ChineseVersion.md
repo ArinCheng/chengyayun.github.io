@@ -5,12 +5,12 @@
 <img src='/PhotoLife.jpg' align='right' style=' width:210px'/>
 # **程亚运**
 
-博士，助理研究员/博士后  
-[工程物理系](http://www.ep.tsinghua.edu.cn/){:target="_blank"}，[清华大学](http://www.tsinghua.edu.cn){:target="_blank"}  
-中国北京市海淀区100084
+博士，副教授，硕士生导师  
+[电子与信息工程学院](http://seie.hit.edu.cn/){:target="_blank"}，[哈尔滨工业大学](http://www.hit.edu.cn/){:target="_blank"}  
+中国黑龙江省哈尔滨市150001
 
-地址：清华大学刘卿楼710室  
-邮箱：chengyayun@tsinghua.edu.cn（工作）; chengyy915@163.com（科研）  
+地址：哈尔滨工业大学科学园2A栋  
+邮箱：chengyy915@163.com  
 主页：[本站](http://www.chengyayun.cn){:target="_blank"}; &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">

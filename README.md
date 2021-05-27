@@ -24,8 +24,8 @@ Homepages:&nbsp; [ThisSite](http://www.chengyayun.cn){:target="_blank"}; [Resear
 ### **Education**
 ---
 - 2014.09-2018.12, Ph.D., Electromagnetic Field and Microwave Technology, [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST)
-- 2012.09-2014.08, M.D., Electromagnetic Field and Microwave Technology, [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST)
-- 2008.09-2012.06, B.D., Applied Physics, [Hefei University of Technology](http://www.hfut.edu.cn/){:target="_blank"} (HFUT)
+- 2012.09-2014.08, M.S., Electromagnetic Field and Microwave Technology, [Huazhong University of Science and Technology](http://www.hust.edu.cn){:target="_blank"} (HUST)
+- 2008.09-2012.06, B.S., Applied Physics, [Hefei University of Technology](http://www.hfut.edu.cn/){:target="_blank"} (HFUT)
 
 
 ### **RESEARCH** <span id="Research"> </span>
@@ -37,7 +37,7 @@ Homepages:&nbsp; [ThisSite](http://www.chengyayun.cn){:target="_blank"}; [Resear
    - Intelligent Information Extraction
 
 
-### **SELECTED PUBLICATIONS** [[Full List]](Publications.md){:target="_blank"} <span id="Publications"> </span>
+### **PUBLICATIONS** [[Full List]](Publications.md){:target="_blank"} <span id="Publications"> </span>
 ---
 - **Journal Papers** 
    - **Yayun Cheng**, Yan You, Dong Zhu, Yingxin Wang, and Ziran Zhao* , “[Reflection removal using dual-polarization and saliency in millimeter-wave and terahertz imaging](http://www.doi.org/10.1109/TGRS.2021.3049554){:target="_blank"},” *IEEE Transactions on Geoscience and Remote Sensing*, Early Access, 2021. 

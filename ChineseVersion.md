@@ -1,13 +1,12 @@
-<!-- **<font face="Comic Sans MS" color=Bule>个人主页</font>** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**个人简介**](#Biography) &nbsp; [**研究方向**](#Research) &nbsp; [**学术论文**](#Publications) &nbsp; [**科研项目**](#Grants) &nbsp; [**荣誉奖励**](#Awards) &nbsp; [**English Version**](README.md) -->
 [**论文**](#Publications) &nbsp; [**项目**](#Grants) &nbsp; [**获奖**](#Awards) &nbsp; [**English Version**](README.md)
 
 ---
 <img src='/PhotoLife.jpg' align='right' style=' width:210px'/>
 # **程亚运**
 
-博士，副教授，硕士生导师  
+博士，副教授  
 [电子与信息工程学院](http://seie.hit.edu.cn/){:target="_blank"}，[哈尔滨工业大学](http://www.hit.edu.cn/){:target="_blank"}  
-中国黑龙江省哈尔滨市150001
+中国黑龙江省哈尔滨市，150001
 
 地址：哈尔滨工业大学科学园2A栋  
 邮箱：chengyy915@163.com  

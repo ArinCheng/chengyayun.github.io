@@ -5,7 +5,7 @@
 # **程亚运**
 
 博士，副教授  
-[电子与信息工程学院](http://seie.hit.edu.cn/){:target="_blank"}，[哈尔滨工业大学](http://www.hit.edu.cn/){:target="_blank"}  
+[哈尔滨工业大学](http://www.hit.edu.cn/){:target="_blank"}，[电子与信息工程学院](http://seie.hit.edu.cn/){:target="_blank"}  
 中国黑龙江省哈尔滨市，150001
 
 地址：哈尔滨工业大学科学园2A栋  
@@ -137,4 +137,4 @@
 <br />
 <br />
 <br />
-<p align="right">最近更新：2021-05-20</p>
+<p align="right">最近更新：2021-06-08</p>

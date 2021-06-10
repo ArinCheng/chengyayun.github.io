@@ -8,7 +8,7 @@ Ph.D.，Associate Professor
 [School of Electronics and Information Engineering](http://seie.hit.edu.cn/){:target="_blank"}, [Harbin Institute of Technology](http://www.hit.edu.cn/){:target="_blank"} (HIT)  
 Harbin 150001, P. R. China  
 
-Office:&nbsp; Building 2A, Scicene Park, HIT  
+Office:&nbsp; Building 2A, Science Campus, HIT  
 Email:&nbsp; chengyy915@163.com  
 Homepages:&nbsp; [ThisSite](http://www.chengyayun.cn) &nbsp;&nbsp;&nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 

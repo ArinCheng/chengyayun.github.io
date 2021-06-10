@@ -10,7 +10,7 @@ Harbin 150001, P. R. China
 
 Office:&nbsp; Building 2A, Science Campus, HIT  
 Email:&nbsp; chengyy915@163.com  
-Homepages:&nbsp; [ThisSite](http://www.chengyayun.cn) &nbsp;&nbsp;&nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
+Homepages:&nbsp; [ThisSite](http://www.chengyayun.cn) &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">
 

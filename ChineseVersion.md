@@ -10,7 +10,7 @@
 
 地址：哈尔滨工业大学科学园2A栋  
 邮箱：chengyy915[AT]163[DOT]com  
-主页：[本站](http://www.chengyayun.cn) &nbsp;&nbsp;&nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
+主页：[本站](http://www.chengyayun.cn) &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
 <img style="position:absolute;margin-right:0px" src="/EMW-G.jpg" width="1088px" height="15" alt="Photo">
 

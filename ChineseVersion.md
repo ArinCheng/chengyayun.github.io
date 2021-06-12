@@ -8,7 +8,7 @@
 [哈尔滨工业大学](http://www.hit.edu.cn/){:target="_blank"}，[电子与信息工程学院](http://seie.hit.edu.cn/){:target="_blank"}  
 中国黑龙江省哈尔滨市，150001
 
-地址：哈尔滨工业大学科学园2A栋  
+地址：哈尔滨工业大学科学园2A栋14层  
 邮箱：chengyy915@163.com  
 主页：[本站](http://www.chengyayun.cn) &nbsp; [ResearchGate](http://www.researchgate.net/profile/Yayun_Cheng){:target="_blank"}
 
